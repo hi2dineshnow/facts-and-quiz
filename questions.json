@@ -1420,7 +1420,7 @@
       "id": "quiz_animals_21",
       "text": "Which of the following statements about snakes is not true?",
       "options": [
-        "Snakes can strike upto half their length.",
+        "Snakes can strike up to half their length.",
         "A fully grown king cobra can rear up so it looks a human in the eyes.",
         "Not all venomous snakes are capable of killing a man.",
         "Snakes will attack almost always they sense the presence of a human."
@@ -1430,7 +1430,7 @@
       "status": "ACTIVE",
       "categoryId": "animals",
       "topicId": "animals",
-      "optionsJson": "[\"Snakes can strike upto half their length.\", \"A fully grown king cobra can rear up so it looks a human in the eyes.\", \"Not all venomous snakes are capable of killing a man.\", \"Snakes will attack almost always they sense the presence of a human.\"]"
+      "optionsJson": "[\"Snakes can strike up to half their length.\", \"A fully grown king cobra can rear up so it looks a human in the eyes.\", \"Not all venomous snakes are capable of killing a man.\", \"Snakes will attack almost always they sense the presence of a human.\"]"
     },
     {
       "id": "quiz_animals_22",
@@ -2828,9 +2828,9 @@
       "id": "quiz_animals_109",
       "text": "What is the meaning of the word kangaroo according to legend?",
       "options": [
-        "I dont know.",
+        "I don't know.",
         "Look at this!",
-        "I dont understand you.",
+        "I don't understand you.",
         "What is this?"
       ],
       "correctIndex": 2,
@@ -2838,7 +2838,7 @@
       "status": "ACTIVE",
       "categoryId": "animals",
       "topicId": "animals",
-      "optionsJson": "[\"I dont know.\", \"Look at this!\", \"I dont understand you.\", \"What is this?\"]"
+      "optionsJson": "[\"I don't know.\", \"Look at this!\", \"I don't understand you.\", \"What is this?\"]"
     },
     {
       "id": "quiz_animals_110",
@@ -3405,8 +3405,8 @@
       "text": "What unusual anatomical feature do wombats possess?",
       "options": [
         "Their pouch faces backwards.",
-        "They dont have a spleen.",
-        "They dont have eyelids.",
+        "They don't have a spleen.",
+        "They don't have eyelids.",
         "All of these"
       ],
       "correctIndex": 0,
@@ -3414,7 +3414,7 @@
       "status": "ACTIVE",
       "categoryId": "animals",
       "topicId": "animals",
-      "optionsJson": "[\"Their pouch faces backwards.\", \"They dont have a spleen.\", \"They dont have eyelids.\", \"All of these\"]"
+      "optionsJson": "[\"Their pouch faces backwards.\", \"They don't have a spleen.\", \"They don't have eyelids.\", \"All of these\"]"
     },
     {
       "id": "quiz_animals_146",
@@ -3452,7 +3452,7 @@
       "id": "quiz_animals_148",
       "text": "Which of these is not a species of reindeer?",
       "options": [
-        "Woodland carribou",
+        "Woodland caribou",
         "Northern caribou",
         "Arctic reindeer",
         "Mountain reindeer"
@@ -3462,7 +3462,7 @@
       "status": "ACTIVE",
       "categoryId": "animals",
       "topicId": "animals",
-      "optionsJson": "[\"Woodland carribou\", \"Northern caribou\", \"Arctic reindeer\", \"Mountain reindeer\"]"
+      "optionsJson": "[\"Woodland caribou\", \"Northern caribou\", \"Arctic reindeer\", \"Mountain reindeer\"]"
     },
     {
       "id": "quiz_animals_149",
@@ -3471,14 +3471,14 @@
         "They are wingless and have six legs.",
         "They have two pairs of wings and six legs.",
         "They have two wings and eight legs.",
-        "They have have two wings and six legs."
+        "They have two wings and six legs."
       ],
       "correctIndex": 1,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "animals",
       "topicId": "animals",
-      "optionsJson": "[\"They are wingless and have six legs.\", \"They have two pairs of wings and six legs.\", \"They have two wings and eight legs.\", \"They have have two wings and six legs.\"]"
+      "optionsJson": "[\"They are wingless and have six legs.\", \"They have two pairs of wings and six legs.\", \"They have two wings and eight legs.\", \"They have two wings and six legs.\"]"
     },
     {
       "id": "quiz_animals_150",
@@ -3948,7 +3948,7 @@
       "id": "quiz_animals_179",
       "text": "How do most bat species spend the cold winter months?",
       "options": [
-        "They migrate south to to regions with warmer climates.",
+        "They migrate south to regions with warmer climates.",
         "They do not change their behavior in the winter.",
         "None of these",
         "They hibernate."
@@ -3958,7 +3958,7 @@
       "status": "ACTIVE",
       "categoryId": "animals",
       "topicId": "animals",
-      "optionsJson": "[\"They migrate south to to regions with warmer climates.\", \"They do not change their behavior in the winter.\", \"None of these\", \"They hibernate.\"]"
+      "optionsJson": "[\"They migrate south to regions with warmer climates.\", \"They do not change their behavior in the winter.\", \"None of these\", \"They hibernate.\"]"
     },
     {
       "id": "quiz_animals_180",
@@ -4125,7 +4125,7 @@
       "text": "Which of these statements if true about a cat?",
       "options": [
         "Their urine glows under a black light.",
-        "Normal body temperature for a a cat is 95 degrees Fahrenheit.",
+        "Normal body temperature for a cat is 95 degrees Fahrenheit.",
         "They take about 50 breaths per minute.",
         "They walk on the bottoms of their feet."
       ],
@@ -4134,7 +4134,7 @@
       "status": "ACTIVE",
       "categoryId": "animals",
       "topicId": "animals",
-      "optionsJson": "[\"Their urine glows under a black light.\", \"Normal body temperature for a a cat is 95 degrees Fahrenheit.\", \"They take about 50 breaths per minute.\", \"They walk on the bottoms of their feet.\"]"
+      "optionsJson": "[\"Their urine glows under a black light.\", \"Normal body temperature for a cat is 95 degrees Fahrenheit.\", \"They take about 50 breaths per minute.\", \"They walk on the bottoms of their feet.\"]"
     },
     {
       "id": "quiz_animals_191",
@@ -4282,7 +4282,7 @@
     },
     {
       "id": "quiz_animals_200",
-      "text": "Octopuses have excellent vision. Which of the following statements about an octopuss vision is NOT true?",
+      "text": "Octopuses have excellent vision. Which of the following statements about an octopus's vision is NOT true?",
       "options": [
         "They can see well at night.",
         "They can see in depth.",
@@ -4986,7 +4986,7 @@
     },
     {
       "id": "quiz_animals_244",
-      "text": "Why isnt the baby elephant able to control its trunk?",
+      "text": "Why isn't the baby elephant able to control its trunk?",
       "options": [
         "All of these",
         "Because it is too heavy for it",
@@ -5226,7 +5226,7 @@
     },
     {
       "id": "quiz_animals_259",
-      "text": "On which continent can you find the turltle-dove during most of the year?",
+      "text": "On which continent can you find the turtle-dove during most of the year?",
       "options": [
         "Australia",
         "Antarctica",
@@ -5326,7 +5326,7 @@
       "options": [
         "Ash-colored",
         "Pouch bear",
-        "Doesnt drink",
+        "Doesn't drink",
         "Monkey bear"
       ],
       "correctIndex": 1,
@@ -5334,7 +5334,7 @@
       "status": "ACTIVE",
       "categoryId": "animals",
       "topicId": "animals",
-      "optionsJson": "[\"Ash-colored\", \"Pouch bear\", \"Doesnt drink\", \"Monkey bear\"]"
+      "optionsJson": "[\"Ash-colored\", \"Pouch bear\", \"Doesn't drink\", \"Monkey bear\"]"
     },
     {
       "id": "quiz_animals_266",
@@ -5706,7 +5706,7 @@
     },
     {
       "id": "quiz_animals_289",
-      "text": "What animal is is the only strictly-marine herbivorous mammal in the world?",
+      "text": "What animal is the only strictly-marine herbivorous mammal in the world?",
       "options": [
         "Dugong",
         "All of these",
@@ -6442,7 +6442,7 @@
     },
     {
       "id": "quiz_brain-teasers_35",
-      "text": "t is the minimum number of cakes you will have to leave home with to make sure that you arrive at Grandmas with exactly 2 cakes?",
+      "text": "What is the minimum number of cakes you will have to leave home with to make sure that you arrive at Grandmas with exactly 2 cakes?",
       "options": [
         "14",
         "5",
@@ -6639,14 +6639,14 @@
         "The square",
         "The circle",
         "No conclusion can be drawn from the given information.",
-        "Both cover the same are."
+        "Both cover the same area."
       ],
       "correctIndex": 1,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
-      "optionsJson": "[\"The square\", \"The circle\", \"No conclusion can be drawn from the given information.\", \"Both cover the same are.\"]"
+      "optionsJson": "[\"The square\", \"The circle\", \"No conclusion can be drawn from the given information.\", \"Both cover the same area.\"]"
     },
     {
       "id": "quiz_brain-teasers_48",
@@ -6746,7 +6746,7 @@
     },
     {
       "id": "quiz_brain-teasers_54",
-      "text": "Four glasses and a jug weigh as mush as 17 iron balls do. The jug weighs as much as a glass and 7 balls. How many balls does the jug weigh?",
+      "text": "Four glasses and a jug weigh as much as 17 iron balls do. The jug weighs as much as a glass and 7 balls. How many balls does the jug weigh?",
       "options": [
         "9",
         "8",
@@ -6831,14 +6831,14 @@
         "Bernalillo, NM",
         "Maricopa, AZ",
         "Dade, FL",
-        "San Bernadino, CA"
+        "San Bernardino, CA"
       ],
       "correctIndex": 3,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
-      "optionsJson": "[\"Bernalillo, NM\", \"Maricopa, AZ\", \"Dade, FL\", \"San Bernadino, CA\"]"
+      "optionsJson": "[\"Bernalillo, NM\", \"Maricopa, AZ\", \"Dade, FL\", \"San Bernardino, CA\"]"
     },
     {
       "id": "quiz_brain-teasers_60",
@@ -6938,7 +6938,7 @@
     },
     {
       "id": "quiz_brain-teasers_66",
-      "text": "A butcher had to stick a total number of 50 sheep in a week. Every day he sticked an equal number of sheep and managed to fulfill the task. How many sheep did he kill per day?",
+      "text": "A butcher had to stick a total number of 50 sheep in a week. Every day he stuck an equal number of sheep and managed to fulfill the task. How many sheep did he kill per day?",
       "options": [
         "10",
         "4",
@@ -7034,7 +7034,7 @@
     },
     {
       "id": "quiz_brain-teasers_72",
-      "text": "Two people get to a river and find a boat capable of accommodating only one person. Using this boat, both of them manage to cross the river. If they crossed without any of the them swiming the river which of the following is true?",
+      "text": "Two people get to a river and find a boat capable of accommodating only one person. Using this boat, both of them manage to cross the river. If they crossed without any of the them swimming the river which of the following is true?",
       "options": [
         "The river was wider than longer.",
         "This is impossible.",
@@ -7278,7 +7278,7 @@
       "options": [
         "Because Chinese rice ripens more quickly than Japanese rice",
         "Because Chinese people are more than Japanese people",
-        "Because Japanese people export rice for other countries and the Chinese dont",
+        "Because Japanese people export rice for other countries and the Chinese don't",
         "Because Chinese rice is more delicious than Japanese rice"
       ],
       "correctIndex": 1,
@@ -7286,7 +7286,7 @@
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
-      "optionsJson": "[\"Because Chinese rice ripens more quickly than Japanese rice\", \"Because Chinese people are more than Japanese people\", \"Because Japanese people export rice for other countries and the Chinese dont\", \"Because Chinese rice is more delicious than Japanese rice\"]"
+      "optionsJson": "[\"Because Chinese rice ripens more quickly than Japanese rice\", \"Because Chinese people are more than Japanese people\", \"Because Japanese people export rice for other countries and the Chinese don't\", \"Because Chinese rice is more delicious than Japanese rice\"]"
     },
     {
       "id": "quiz_brain-teasers_88",
@@ -7434,19 +7434,19 @@
     },
     {
       "id": "quiz_brain-teasers_97",
-      "text": "Suppose youre taking a multiple-choice quiz. One question has three choices - A, B, C. You do not know the answer and guess A. The instructor then announces that C is incorrect. Should you switch to B before turning in your paper?",
+      "text": "Suppose you're taking a multiple-choice quiz. One question has three choices - A, B, C. You do not know the answer and guess A. The instructor then announces that C is incorrect. Should you switch to B before turning in your paper?",
       "options": [
         "No, it would be worse",
         "Yes, this should help",
         "It depends on when the announcement was made",
-        "It doesnt matter"
+        "It doesn't matter"
       ],
       "correctIndex": 1,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
-      "optionsJson": "[\"No, it would be worse\", \"Yes, this should help\", \"It depends on when the announcement was made\", \"It doesnt matter\"]"
+      "optionsJson": "[\"No, it would be worse\", \"Yes, this should help\", \"It depends on when the announcement was made\", \"It doesn't matter\"]"
     },
     {
       "id": "quiz_brain-teasers_98",
@@ -7788,17 +7788,17 @@
       "id": "quiz_celebrities_18",
       "text": "What did Fred Astaires screen test report for RKO Pictures read according to him?",
       "options": [
-        "Cant act.",
-        "Cant talk.",
-        "Cant dance.",
-        "Cant sing."
+        "Can't act.",
+        "Can't talk.",
+        "Can't dance.",
+        "Can't sing."
       ],
       "correctIndex": 0,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "celebrities",
       "topicId": "celebrities",
-      "optionsJson": "[\"Cant act.\", \"Cant talk.\", \"Cant dance.\", \"Cant sing.\"]"
+      "optionsJson": "[\"Can't act.\", \"Can't talk.\", \"Can't dance.\", \"Can't sing.\"]"
     },
     {
       "id": "quiz_celebrities_19",
@@ -7806,15 +7806,15 @@
       "options": [
         "Stay Away",
         "Love Me",
-        "Dont Hate Me Just Because Im Beautiful",
-        "Thats Hot"
+        "Don't Hate Me Just Because Im Beautiful",
+        "That's Hot"
       ],
       "correctIndex": 3,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "celebrities",
       "topicId": "celebrities",
-      "optionsJson": "[\"Stay Away\", \"Love Me\", \"Dont Hate Me Just Because Im Beautiful\", \"Thats Hot\"]"
+      "optionsJson": "[\"Stay Away\", \"Love Me\", \"Don't Hate Me Just Because Im Beautiful\", \"That's Hot\"]"
     },
     {
       "id": "quiz_celebrities_20",
@@ -7935,20 +7935,20 @@
         "Buster wanted a bigger audience than the act could ever get.",
         "The reason was Busters fathers alcoholism.",
         "Travelling shows were outlawed in the USA.",
-        "The reason was that they didnt make enough money."
+        "The reason was that they didn't make enough money."
       ],
       "correctIndex": 1,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "celebrities",
       "topicId": "celebrities",
-      "optionsJson": "[\"Buster wanted a bigger audience than the act could ever get.\", \"The reason was Busters fathers alcoholism.\", \"Travelling shows were outlawed in the USA.\", \"The reason was that they didnt make enough money.\"]"
+      "optionsJson": "[\"Buster wanted a bigger audience than the act could ever get.\", \"The reason was Busters fathers alcoholism.\", \"Travelling shows were outlawed in the USA.\", \"The reason was that they didn't make enough money.\"]"
     },
     {
       "id": "quiz_celebrities_28",
       "text": "Gregory Peck starred in this 1949 movie about the US Air Force in World War II and the effects of war on enlisted men.",
       "options": [
-        "Twelve OClock High",
+        "Twelve O'Clock High",
         "Below Us the War",
         "A Wing and a Prayer",
         "The Billy Mitchell Story"
@@ -7958,13 +7958,13 @@
       "status": "ACTIVE",
       "categoryId": "celebrities",
       "topicId": "celebrities",
-      "optionsJson": "[\"Twelve OClock High\", \"Below Us the War\", \"A Wing and a Prayer\", \"The Billy Mitchell Story\"]"
+      "optionsJson": "[\"Twelve O'Clock High\", \"Below Us the War\", \"A Wing and a Prayer\", \"The Billy Mitchell Story\"]"
     },
     {
       "id": "quiz_celebrities_29",
       "text": "What was the reason Radio BBC 1 gave after refusing to play Radioheads Creep after its release?",
       "options": [
-        "It wasnt any good",
+        "It wasn't any good",
         "It contained uncensored language",
         "It was too depressing",
         "It was plagiarised material"
@@ -7974,7 +7974,7 @@
       "status": "ACTIVE",
       "categoryId": "celebrities",
       "topicId": "celebrities",
-      "optionsJson": "[\"It wasnt any good\", \"It contained uncensored language\", \"It was too depressing\", \"It was plagiarised material\"]"
+      "optionsJson": "[\"It wasn't any good\", \"It contained uncensored language\", \"It was too depressing\", \"It was plagiarised material\"]"
     },
     {
       "id": "quiz_celebrities_30",
@@ -8508,7 +8508,7 @@
       "id": "quiz_celebrities_63",
       "text": "In what Madonna video has actor Christopher Walken made an appearance?",
       "options": [
-        "Youll See",
+        "You'll See",
         "Bad Girl",
         "Oh Father",
         "All of these"
@@ -8518,7 +8518,7 @@
       "status": "ACTIVE",
       "categoryId": "celebrities",
       "topicId": "celebrities",
-      "optionsJson": "[\"Youll See\", \"Bad Girl\", \"Oh Father\", \"All of these\"]"
+      "optionsJson": "[\"You'll See\", \"Bad Girl\", \"Oh Father\", \"All of these\"]"
     },
     {
       "id": "quiz_celebrities_64",
@@ -8602,7 +8602,7 @@
     },
     {
       "id": "quiz_celebrities_69",
-      "text": "Where did Fred Astaire and his sister Adele suposedly take their stage name Astaire from?",
+      "text": "Where did Fred Astaire and his sister Adele supposedly take their stage name Astaire from?",
       "options": [
         "From their uncles name",
         "From their dance instructor",
@@ -8730,7 +8730,7 @@
     },
     {
       "id": "quiz_celebrities_77",
-      "text": "Right after filming the movie Gia, Angelina Jolie quited acting for how long?",
+      "text": "Right after filming the movie Gia, Angelina Jolie quit acting for how long?",
       "options": [
         "7 months",
         "8 months",
@@ -8877,7 +8877,7 @@
       "text": "This 1986 comedy western file was written by Steve Martin and Lorne Michaels.",
       "options": [
         "The Jerk",
-        "Dead Men Dont Wear Plaid",
+        "Dead Men Don't Wear Plaid",
         "Three Amigos!",
         "All of Me"
       ],
@@ -8886,7 +8886,7 @@
       "status": "ACTIVE",
       "categoryId": "celebrities",
       "topicId": "celebrities",
-      "optionsJson": "[\"The Jerk\", \"Dead Men Dont Wear Plaid\", \"Three Amigos!\", \"All of Me\"]"
+      "optionsJson": "[\"The Jerk\", \"Dead Men Don't Wear Plaid\", \"Three Amigos!\", \"All of Me\"]"
     },
     {
       "id": "quiz_celebrities_87",
@@ -10170,7 +10170,7 @@
     },
     {
       "id": "quiz_celebrities_167",
-      "text": "Which song by Iron Maiden contains the following lyrics ...at 5 oclock they take me to the gallows pole, the sands of time for me are running low...?",
+      "text": "Which song by Iron Maiden contains the following lyrics ...at 5 o'clock they take me to the gallows pole, the sands of time for me are running low...?",
       "options": [
         "Wrathchild",
         "Flash of the Blade",
@@ -10399,14 +10399,14 @@
         "Sister Act 2 (1993)",
         "Romeo And Juliet (1996)",
         "I Still Know What You Did Last Summer (1998)",
-        "Cant Hardly Wait (1998)"
+        "Can't Hardly Wait (1998)"
       ],
       "correctIndex": 1,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "celebrities",
       "topicId": "celebrities",
-      "optionsJson": "[\"Sister Act 2 (1993)\", \"Romeo And Juliet (1996)\", \"I Still Know What You Did Last Summer (1998)\", \"Cant Hardly Wait (1998)\"]"
+      "optionsJson": "[\"Sister Act 2 (1993)\", \"Romeo And Juliet (1996)\", \"I Still Know What You Did Last Summer (1998)\", \"Can't Hardly Wait (1998)\"]"
     },
     {
       "id": "quiz_celebrities_182",
@@ -10538,7 +10538,7 @@
     },
     {
       "id": "quiz_celebrities_190",
-      "text": "You cant handle the truth. is a famous Jack Nicholson quote from what movie?",
+      "text": "You can't handle the truth. is a famous Jack Nicholson quote from what movie?",
       "options": [
         "A Few Good Men",
         "The Last Detail",
@@ -11263,14 +11263,14 @@
         "A Matter of Time",
         "Stepping Out",
         "Tell Me That You Love Me, Junie Moon",
-        "Thats Entertainment!"
+        "That's Entertainment!"
       ],
       "correctIndex": 0,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "celebrities",
       "topicId": "celebrities",
-      "optionsJson": "[\"A Matter of Time\", \"Stepping Out\", \"Tell Me That You Love Me, Junie Moon\", \"Thats Entertainment!\"]"
+      "optionsJson": "[\"A Matter of Time\", \"Stepping Out\", \"Tell Me That You Love Me, Junie Moon\", \"That's Entertainment!\"]"
     },
     {
       "id": "quiz_celebrities_236",
@@ -11674,7 +11674,7 @@
     },
     {
       "id": "quiz_celebrities_261",
-      "text": "What is the missing word from this verse of Elviss Dont Be Cruel: Baby, if I made you ... for something I might have said, please, let's forget the past, the future looks bright ahead?",
+      "text": "What is the missing word from this verse of Elviss Don't Be Cruel: Baby, if I made you ... for something I might have said, please, let's forget the past, the future looks bright ahead?",
       "options": [
         "Mad",
         "Sad",
@@ -12698,7 +12698,7 @@
     },
     {
       "id": "quiz_entertainment_25",
-      "text": "As of the beginning of the new millenium, how many Miss America title holders were from New Jersey, the state that held the competitions?",
+      "text": "As of the beginning of the new millennium, how many Miss America title holders were from New Jersey, the state that held the competitions?",
       "options": [
         "2",
         "6",
@@ -13194,7 +13194,7 @@
     },
     {
       "id": "quiz_entertainment_56",
-      "text": "The FU is the signature move of this wrestler, who also performs a pre-ending move called U Cant See Me.",
+      "text": "The FU is the signature move of this wrestler, who also performs a pre-ending move called U Can't See Me.",
       "options": [
         "The Undertaker",
         "Jeff Hardy",
@@ -16266,7 +16266,7 @@
     },
     {
       "id": "quiz_general_44",
-      "text": "Which of the following is the the odd one?",
+      "text": "Which of the following is the odd one?",
       "options": [
         "Wooden",
         "Steel",
@@ -16522,7 +16522,7 @@
     },
     {
       "id": "quiz_general_60",
-      "text": "Which ancient language is often referred to as the the mother of all languages?",
+      "text": "Which ancient language is often referred to as the mother of all languages?",
       "options": [
         "Sanskrit",
         "Tamil",
@@ -16922,7 +16922,7 @@
     },
     {
       "id": "quiz_general_85",
-      "text": "Why couldnt the couple get a loan for a respectable home in one of the freecreditreport.com commercials?",
+      "text": "Why couldn't the couple get a loan for a respectable home in one of the freecreditreport.com commercials?",
       "options": [
         "She defaulted on some old credit card.",
         "Some punk opened a credit card in her name.",
@@ -17050,7 +17050,7 @@
     },
     {
       "id": "quiz_general_93",
-      "text": "Across the Hall, Friends Like Us, Insomnia Caf and Six of One are all working titles of one of famous US TV-series. Name the series.",
+      "text": "Across the Hall, Friends Like Us, Insomnia Café and Six of One are all working titles of one of famous US TV-series. Name the series.",
       "options": [
         "Friends",
         "Sex and the City",
@@ -17770,7 +17770,7 @@
     },
     {
       "id": "quiz_general_138",
-      "text": "The exprssion The dog days of summer was first used because of this.",
+      "text": "The expression The dog days of summer was first used because of this.",
       "options": [
         "A false idea about the effect of animals on the world",
         "A description of how dogs pant",
@@ -18110,15 +18110,15 @@
       "options": [
         "Can You Feel the Love Tonight",
         "Circle of Life",
-        "I Just Cant Wait to Be King",
-        "Youll Be in My Heart"
+        "I Just Can't Wait to Be King",
+        "You'll Be in My Heart"
       ],
       "correctIndex": 0,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
       "topicId": "general",
-      "optionsJson": "[\"Can You Feel the Love Tonight\", \"Circle of Life\", \"I Just Cant Wait to Be King\", \"Youll Be in My Heart\"]"
+      "optionsJson": "[\"Can You Feel the Love Tonight\", \"Circle of Life\", \"I Just Can't Wait to Be King\", \"You'll Be in My Heart\"]"
     },
     {
       "id": "quiz_general_160",
@@ -18170,7 +18170,7 @@
     },
     {
       "id": "quiz_general_163",
-      "text": "Youve been working on a job for quite a while and achieved a lot. But now fatigue has set in and you find that despite your best efforts, youre no longer getting the same high level of results. This effect is neatly expressed in which law?",
+      "text": "Youve been working on a job for quite a while and achieved a lot. But now fatigue has set in and you find that despite your best efforts, you're no longer getting the same high level of results. This effect is neatly expressed in which law?",
       "options": [
         "The law of diminishing returns",
         "The law of deteriorating returns",
@@ -18202,7 +18202,7 @@
     },
     {
       "id": "quiz_general_165",
-      "text": "What movie popularied the phrase Make My Day?",
+      "text": "What movie popularized the phrase Make My Day?",
       "options": [
         "Die Hard",
         "Midnight Run",
@@ -18762,7 +18762,7 @@
     },
     {
       "id": "quiz_general_200",
-      "text": "What should a stranger say when seeing a baby less that an year old according to Russian tradition?",
+      "text": "What should a stranger say when seeing a baby less that a year old according to Russian tradition?",
       "options": [
         "They should not speak or smile",
         "Oh, what an ugly child!",
@@ -19514,7 +19514,7 @@
     },
     {
       "id": "quiz_general_247",
-      "text": "In 1960, a #1 hit on the pop charts was the comedy song Please Mr. Custer, I Dont Wanna Go!. Whose song was it?",
+      "text": "In 1960, a #1 hit on the pop charts was the comedy song Please Mr. Custer, I Don't Wanna Go!. Whose song was it?",
       "options": [
         "Bill Hayes",
         "Tommy Hartigans",
@@ -20042,7 +20042,7 @@
     },
     {
       "id": "quiz_general_280",
-      "text": "This Motown musical quartet, founded in Detroit, Michigan, scored their first #1 hit, I Cant Help Myself (Sugar Pie, Honey Bunch) in 1965.",
+      "text": "This Motown musical quartet, founded in Detroit, Michigan, scored their first #1 hit, I Can't Help Myself (Sugar Pie, Honey Bunch) in 1965.",
       "options": [
         "The Temptetts",
         "The Four Tops",
@@ -21754,7 +21754,7 @@
     },
     {
       "id": "quiz_geography_87",
-      "text": "What is the The Rio Grande river called in Mexico?",
+      "text": "What is the Rio Grande river called in Mexico?",
       "options": [
         "All of these",
         "Rio Bravo",
@@ -27978,7 +27978,7 @@
     },
     {
       "id": "quiz_history_176",
-      "text": "The first Balfour Declaration, UKs committment to the establishment of a Jewish national home was issued in what year?",
+      "text": "The first Balfour Declaration, UKs commitment to the establishment of a Jewish national home was issued in what year?",
       "options": [
         "1947",
         "1936",
@@ -28922,7 +28922,7 @@
     },
     {
       "id": "quiz_history_235",
-      "text": "In the Middle Ages, the large forehead was considered a sign of grandeur and wisdom thats why people used this common method to enlarge their foreheads.",
+      "text": "In the Middle Ages, the large forehead was considered a sign of grandeur and wisdom that's why people used this common method to enlarge their foreheads.",
       "options": [
         "They shaved off a strip of hear above the forehead.",
         "None of these",
@@ -30922,7 +30922,7 @@
     },
     {
       "id": "quiz_hobbies_60",
-      "text": "In 1953, several European countries ratified this convention to protect some sorts of cheese from conterfeiting.",
+      "text": "In 1953, several European countries ratified this convention to protect some sorts of cheese from counterfeiting.",
       "options": [
         "The Stresa Convention",
         "The Swiss Convention",
@@ -31327,14 +31327,14 @@
         "Cider apples give the cider a unique flavor.",
         "Cider apples are sour.",
         "All of these",
-        "Dessert apples dont have a strong enough flavor."
+        "Dessert apples don't have a strong enough flavor."
       ],
       "correctIndex": 2,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "hobbies",
       "topicId": "hobbies",
-      "optionsJson": "[\"Cider apples give the cider a unique flavor.\", \"Cider apples are sour.\", \"All of these\", \"Dessert apples dont have a strong enough flavor.\"]"
+      "optionsJson": "[\"Cider apples give the cider a unique flavor.\", \"Cider apples are sour.\", \"All of these\", \"Dessert apples don't have a strong enough flavor.\"]"
     },
     {
       "id": "quiz_hobbies_86",
@@ -32362,7 +32362,7 @@
     },
     {
       "id": "quiz_hobbies_150",
-      "text": "Why shouldnt blackberries be picked after September 29 according to a popular superstition in the United Kingdom?",
+      "text": "Why shouldn't blackberries be picked after September 29 according to a popular superstition in the United Kingdom?",
       "options": [
         "A woman who consumes them after this date will never get pregnant.",
         "They belong to the devil from this day on.",
@@ -33231,14 +33231,14 @@
         "It contains about 25% saturated fat.",
         "90% of its fat is saturated.",
         "It contains high amounts of fat, but it does not contain saturated fats.",
-        "It doesnt contain any fat at all."
+        "It doesn't contain any fat at all."
       ],
       "correctIndex": 1,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "hobbies",
       "topicId": "hobbies",
-      "optionsJson": "[\"It contains about 25% saturated fat.\", \"90% of its fat is saturated.\", \"It contains high amounts of fat, but it does not contain saturated fats.\", \"It doesnt contain any fat at all.\"]"
+      "optionsJson": "[\"It contains about 25% saturated fat.\", \"90% of its fat is saturated.\", \"It contains high amounts of fat, but it does not contain saturated fats.\", \"It doesn't contain any fat at all.\"]"
     },
     {
       "id": "quiz_hobbies_205",
@@ -33614,7 +33614,7 @@
       "options": [
         "She probably is collecting jacks.",
         "She is about to gin.",
-        "She doesnt know how to play gin.",
+        "She doesn't know how to play gin.",
         "She most certainly is collecting jacks."
       ],
       "correctIndex": 0,
@@ -33622,7 +33622,7 @@
       "status": "ACTIVE",
       "categoryId": "hobbies",
       "topicId": "hobbies",
-      "optionsJson": "[\"She probably is collecting jacks.\", \"She is about to gin.\", \"She doesnt know how to play gin.\", \"She most certainly is collecting jacks.\"]"
+      "optionsJson": "[\"She probably is collecting jacks.\", \"She is about to gin.\", \"She doesn't know how to play gin.\", \"She most certainly is collecting jacks.\"]"
     },
     {
       "id": "quiz_hobbies_229",
@@ -33802,7 +33802,7 @@
     },
     {
       "id": "quiz_hobbies_240",
-      "text": "If youve ordered a burn one, take it through the garden, pin a rose on it, what can you expect to be placed in front of you?",
+      "text": "If you've ordered a burn one, take it through the garden, pin a rose on it, what can you expect to be placed in front of you?",
       "options": [
         "Hot Dog with Chili and Coleslaw",
         "Lamb Shish - Kabob",
@@ -35196,7 +35196,7 @@
       "id": "quiz_humanities_27",
       "text": "What is the translation of the saying Cui peccare licet peccat minus?",
       "options": [
-        "If you dont watch out you wont go far.",
+        "If you don't watch out you wont go far.",
         "One who is allowed to sin, sins less.",
         "When one tries to harm others, he harms himself.",
         "The less one knows, the better off they are."
@@ -35206,7 +35206,7 @@
       "status": "ACTIVE",
       "categoryId": "humanities",
       "topicId": "humanities",
-      "optionsJson": "[\"If you dont watch out you wont go far.\", \"One who is allowed to sin, sins less.\", \"When one tries to harm others, he harms himself.\", \"The less one knows, the better off they are.\"]"
+      "optionsJson": "[\"If you don't watch out you wont go far.\", \"One who is allowed to sin, sins less.\", \"When one tries to harm others, he harms himself.\", \"The less one knows, the better off they are.\"]"
     },
     {
       "id": "quiz_humanities_28",
@@ -35935,14 +35935,14 @@
         "Please, stay!",
         "I do want to stay.",
         "I will stay, if you will.",
-        "I dont want to stay."
+        "I don't want to stay."
       ],
       "correctIndex": 2,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "humanities",
       "topicId": "humanities",
-      "optionsJson": "[\"Please, stay!\", \"I do want to stay.\", \"I will stay, if you will.\", \"I dont want to stay.\"]"
+      "optionsJson": "[\"Please, stay!\", \"I do want to stay.\", \"I will stay, if you will.\", \"I don't want to stay.\"]"
     },
     {
       "id": "quiz_humanities_74",
@@ -36204,7 +36204,7 @@
       "id": "quiz_humanities_90",
       "text": "What does Roma locuta, causa finita est mean?",
       "options": [
-        "Rome wasnt built in a day.",
+        "Rome wasn't built in a day.",
         "Rome has spoken, the discussion is finished.",
         "When in Rome, do as the Romans do.",
         "All ways lead to Rome."
@@ -36214,7 +36214,7 @@
       "status": "ACTIVE",
       "categoryId": "humanities",
       "topicId": "humanities",
-      "optionsJson": "[\"Rome wasnt built in a day.\", \"Rome has spoken, the discussion is finished.\", \"When in Rome, do as the Romans do.\", \"All ways lead to Rome.\"]"
+      "optionsJson": "[\"Rome wasn't built in a day.\", \"Rome has spoken, the discussion is finished.\", \"When in Rome, do as the Romans do.\", \"All ways lead to Rome.\"]"
     },
     {
       "id": "quiz_humanities_91",
@@ -36892,8 +36892,8 @@
       "id": "quiz_humanities_133",
       "text": "What is the meaning of the proverb Aquila non captat muscas?",
       "options": [
-        "The wolf doesnt capture mouses.",
-        "The eagle doesnt capture flies.",
+        "The wolf doesn't capture mouses.",
+        "The eagle doesn't capture flies.",
         "The eagle gathers no moss.",
         "Mouses are hard to catch even for a strong man."
       ],
@@ -36902,7 +36902,7 @@
       "status": "ACTIVE",
       "categoryId": "humanities",
       "topicId": "humanities",
-      "optionsJson": "[\"The wolf doesnt capture mouses.\", \"The eagle doesnt capture flies.\", \"The eagle gathers no moss.\", \"Mouses are hard to catch even for a strong man.\"]"
+      "optionsJson": "[\"The wolf doesn't capture mouses.\", \"The eagle doesn't capture flies.\", \"The eagle gathers no moss.\", \"Mouses are hard to catch even for a strong man.\"]"
     },
     {
       "id": "quiz_humanities_134",
@@ -38234,7 +38234,7 @@
     },
     {
       "id": "quiz_humanities_217",
-      "text": "The Andrew Lloyd Webber song I Dont Know How to Love Him is about what character?",
+      "text": "The Andrew Lloyd Webber song I Don't Know How to Love Him is about what character?",
       "options": [
         "The Phantom of the Opera",
         "Jesus Christ",
@@ -38527,14 +38527,14 @@
         "The best things in life are free.",
         "Anything is good as long as its free.",
         "One craves things that are forbidden.",
-        "One appreciates things they havent paid for."
+        "One appreciates things they haven't paid for."
       ],
       "correctIndex": 2,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "humanities",
       "topicId": "humanities",
-      "optionsJson": "[\"The best things in life are free.\", \"Anything is good as long as its free.\", \"One craves things that are forbidden.\", \"One appreciates things they havent paid for.\"]"
+      "optionsJson": "[\"The best things in life are free.\", \"Anything is good as long as its free.\", \"One craves things that are forbidden.\", \"One appreciates things they haven't paid for.\"]"
     },
     {
       "id": "quiz_humanities_236",
@@ -41034,11 +41034,11 @@
     },
     {
       "id": "quiz_literature_92",
-      "text": "Harry Potter is concidered malicious literature by some, because:",
+      "text": "Harry Potter is considered malicious literature by some, because:",
       "options": [
         "Most of its characters are strange beings",
         "Its characters are mainly clad in black clothes",
-        "It comprises too many volulmes",
+        "It comprises too many volumes",
         "It is about witchcraft"
       ],
       "correctIndex": 3,
@@ -41046,7 +41046,7 @@
       "status": "ACTIVE",
       "categoryId": "literature",
       "topicId": "literature",
-      "optionsJson": "[\"Most of its characters are strange beings\", \"Its characters are mainly clad in black clothes\", \"It comprises too many volulmes\", \"It is about witchcraft\"]"
+      "optionsJson": "[\"Most of its characters are strange beings\", \"Its characters are mainly clad in black clothes\", \"It comprises too many volumes\", \"It is about witchcraft\"]"
     },
     {
       "id": "quiz_literature_93",
@@ -43724,7 +43724,7 @@
       "id": "quiz_literature_260",
       "text": "The difference between a cat and a lie is that the cat only has nine lives. Which book by Mark Twain is this quote from?",
       "options": [
-        "Pudd nhead Willson",
+        "Pudd'nhead Wilson",
         "Tom Sawyer",
         "Roughing It",
         "The Innocents Abroad"
@@ -43734,7 +43734,7 @@
       "status": "ACTIVE",
       "categoryId": "literature",
       "topicId": "literature",
-      "optionsJson": "[\"Pudd nhead Willson\", \"Tom Sawyer\", \"Roughing It\", \"The Innocents Abroad\"]"
+      "optionsJson": "[\"Pudd'nhead Wilson\", \"Tom Sawyer\", \"Roughing It\", \"The Innocents Abroad\"]"
     },
     {
       "id": "quiz_literature_261",
@@ -44234,10 +44234,10 @@
     },
     {
       "id": "quiz_literature_292",
-      "text": "t poet wrote these elegiac lines from “Adonais” in memoriam to John Keats, who died of T.B. at the tender age of only 24 years?",
+      "text": "What poet wrote these elegiac lines from “Adonais” in memoriam to John Keats, who died of T.B. at the tender age of only 24 years?",
       "options": [
         "Lord Byron",
-        "Percy Bysshe Shelly",
+        "Percy Bysshe Shelley",
         "William Blake",
         "William Wordsworth"
       ],
@@ -44246,7 +44246,7 @@
       "status": "ACTIVE",
       "categoryId": "literature",
       "topicId": "literature",
-      "optionsJson": "[\"Lord Byron\", \"Percy Bysshe Shelly\", \"William Blake\", \"William Wordsworth\"]"
+      "optionsJson": "[\"Lord Byron\", \"Percy Bysshe Shelley\", \"William Blake\", \"William Wordsworth\"]"
     },
     {
       "id": "quiz_literature_293",
@@ -44842,7 +44842,7 @@
     },
     {
       "id": "quiz_movies_30",
-      "text": "Which of the Bond movies does this phrase belong to Youre a rare challenge, Mr. Bond.?",
+      "text": "Which of the Bond movies does this phrase belong to You're a rare challenge, Mr. Bond.?",
       "options": [
         "Thunderball",
         "None of these",
@@ -45354,7 +45354,7 @@
     },
     {
       "id": "quiz_movies_62",
-      "text": "What 1995 movie do we find the character played by Nicholas Cage literaly drinking himself to death?",
+      "text": "What 1995 movie do we find the character played by Nicholas Cage literally drinking himself to death?",
       "options": [
         "Stepmom",
         "National Security",
@@ -45437,7 +45437,7 @@
       "text": "What revelation is made about Pamela, played by Teri Polo, in the 2004 move Meet the Fockers?",
       "options": [
         "She has a disease.",
-        "She doesnt love Greg.",
+        "She doesn't love Greg.",
         "All of these",
         "She is pregnant."
       ],
@@ -45446,7 +45446,7 @@
       "status": "ACTIVE",
       "categoryId": "movies",
       "topicId": "movies",
-      "optionsJson": "[\"She has a disease.\", \"She doesnt love Greg.\", \"All of these\", \"She is pregnant.\"]"
+      "optionsJson": "[\"She has a disease.\", \"She doesn't love Greg.\", \"All of these\", \"She is pregnant.\"]"
     },
     {
       "id": "quiz_movies_68",
@@ -45500,7 +45500,7 @@
       "id": "quiz_movies_71",
       "text": "What movie, which featured The Stay Puft Marshmallow Man, sparked the catchphrase Who you gonna call??",
       "options": [
-        "Ghost busters",
+        "Ghostbusters",
         "Poltergeist",
         "The Exorcist",
         "Poltergeist II"
@@ -45510,7 +45510,7 @@
       "status": "ACTIVE",
       "categoryId": "movies",
       "topicId": "movies",
-      "optionsJson": "[\"Ghost busters\", \"Poltergeist\", \"The Exorcist\", \"Poltergeist II\"]"
+      "optionsJson": "[\"Ghostbusters\", \"Poltergeist\", \"The Exorcist\", \"Poltergeist II\"]"
     },
     {
       "id": "quiz_movies_72",
@@ -45946,7 +45946,7 @@
     },
     {
       "id": "quiz_movies_99",
-      "text": "In the film 12 Angry men, this actor played Juror #3, an emotionally distraught father whose son hadnt spoken to him in two years.",
+      "text": "In the film 12 Angry men, this actor played Juror #3, an emotionally distraught father whose son hadn't spoken to him in two years.",
       "options": [
         "Lee J. Cobb",
         "Martin Balsam",
@@ -45978,7 +45978,7 @@
     },
     {
       "id": "quiz_movies_101",
-      "text": "What 1973 movie is this quote from: Youre telling me that I should take my daughter to a witch doctor? Is that it??",
+      "text": "What 1973 movie is this quote from: You're telling me that I should take my daughter to a witch doctor? Is that it??",
       "options": [
         "The Exorcist",
         "Alice, Sweet Alice",
@@ -47740,7 +47740,7 @@
       "id": "quiz_movies_211",
       "text": "What are Chuck Nolands last words to his fiancee when he gets on the plain at the beginning of the movie Cast Away?",
       "options": [
-        "I hope this plane doesnt go down.",
+        "I hope this plane doesn't go down.",
         "Ill be right back!",
         "Marry me when I come back!",
         "Do not forget me!"
@@ -47750,7 +47750,7 @@
       "status": "ACTIVE",
       "categoryId": "movies",
       "topicId": "movies",
-      "optionsJson": "[\"I hope this plane doesnt go down.\", \"Ill be right back!\", \"Marry me when I come back!\", \"Do not forget me!\"]"
+      "optionsJson": "[\"I hope this plane doesn't go down.\", \"Ill be right back!\", \"Marry me when I come back!\", \"Do not forget me!\"]"
     },
     {
       "id": "quiz_movies_212",
@@ -47839,14 +47839,14 @@
         "The Dictator",
         "Racing Hearts",
         "Thirty Days",
-        "Whats Your Hurry?"
+        "What's Your Hurry?"
       ],
       "correctIndex": 1,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "movies",
       "topicId": "movies",
-      "optionsJson": "[\"The Dictator\", \"Racing Hearts\", \"Thirty Days\", \"Whats Your Hurry?\"]"
+      "optionsJson": "[\"The Dictator\", \"Racing Hearts\", \"Thirty Days\", \"What's Your Hurry?\"]"
     },
     {
       "id": "quiz_movies_218",
@@ -47967,14 +47967,14 @@
         "Two Dollars",
         "Eight Dollars",
         "Fifteen Dollars",
-        "He doesnt hire out"
+        "He doesn't hire out"
       ],
       "correctIndex": 0,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "movies",
       "topicId": "movies",
-      "optionsJson": "[\"Two Dollars\", \"Eight Dollars\", \"Fifteen Dollars\", \"He doesnt hire out\"]"
+      "optionsJson": "[\"Two Dollars\", \"Eight Dollars\", \"Fifteen Dollars\", \"He doesn't hire out\"]"
     },
     {
       "id": "quiz_movies_226",
@@ -48090,7 +48090,7 @@
     },
     {
       "id": "quiz_movies_233",
-      "text": "Which Radiohead song did Christopher Nolan want to use in Memento, but couldnt due to insufficient budget?",
+      "text": "Which Radiohead song did Christopher Nolan want to use in Memento, but couldn't due to insufficient budget?",
       "options": [
         "Kid A",
         "Karma Polcie",
@@ -48684,8 +48684,8 @@
       "id": "quiz_movies_270",
       "text": "Finish the quote from the movie A Cinderella Story: Carter, you could have totally made that light! FYI Sam, yellow means slow down, not speed up. ___________",
       "options": [
-        "I knew that. I wasnt born yesterday.",
-        "You still couldve made the light.",
+        "I knew that. I wasn't born yesterday.",
+        "You still could've made the light.",
         "If Fiona gets to the diner before I do, I am SO dead.",
         "I need the Fast and the Furious, not Driving Miss Daisy."
       ],
@@ -48694,7 +48694,7 @@
       "status": "ACTIVE",
       "categoryId": "movies",
       "topicId": "movies",
-      "optionsJson": "[\"I knew that. I wasnt born yesterday.\", \"You still couldve made the light.\", \"If Fiona gets to the diner before I do, I am SO dead.\", \"I need the Fast and the Furious, not Driving Miss Daisy.\"]"
+      "optionsJson": "[\"I knew that. I wasn't born yesterday.\", \"You still could've made the light.\", \"If Fiona gets to the diner before I do, I am SO dead.\", \"I need the Fast and the Furious, not Driving Miss Daisy.\"]"
     },
     {
       "id": "quiz_movies_271",
@@ -48826,7 +48826,7 @@
     },
     {
       "id": "quiz_movies_279",
-      "text": "Why didnt actress Linda Hamilton reprise her role as Sarah Connor in the extremely costly third Terminator movie Terminator 3: Rise of the Machines in 2003?",
+      "text": "Why didn't actress Linda Hamilton reprise her role as Sarah Connor in the extremely costly third Terminator movie Terminator 3: Rise of the Machines in 2003?",
       "options": [
         "Because her character dies in the middle of the movie",
         "All of these",
@@ -49194,7 +49194,7 @@
     },
     {
       "id": "quiz_music_2",
-      "text": "Although this girl group began in 1963, they wouldnt reach real chart success until 1974 with the song When Will I See You Again (sound clip) which reached #2 in the US.",
+      "text": "Although this girl group began in 1963, they wouldn't reach real chart success until 1974 with the song When Will I See You Again (sound clip) which reached #2 in the US.",
       "options": [
         "The Main Ingredient",
         "Paper Lace",
@@ -49205,7 +49205,8 @@
       "verified": true,
       "status": "RETIRED",
       "categoryId": "music",
-      "topicId": "music"
+      "topicId": "music",
+      "optionsJson": "[\"The Main Ingredient\", \"Paper Lace\", \"Hot Chocolate\", \"The Three Degrees\"]"
     },
     {
       "id": "quiz_music_3",
@@ -49324,7 +49325,7 @@
       "text": "Hey, and FINALLY a Bonus Round for having played so well thus far! The phrase, You were laid in Bayside, is an often misheard lyric from which Steely Dan song?",
       "options": [
         "Deacon Blues",
-        "Dont Take Me Alive",
+        "Don't Take Me Alive",
         "Haitian Divorce",
         "The Boston Rag"
       ],
@@ -49333,7 +49334,7 @@
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"Deacon Blues\", \"Dont Take Me Alive\", \"Haitian Divorce\", \"The Boston Rag\"]"
+      "optionsJson": "[\"Deacon Blues\", \"Don't Take Me Alive\", \"Haitian Divorce\", \"The Boston Rag\"]"
     },
     {
       "id": "quiz_music_11",
@@ -49385,7 +49386,7 @@
     },
     {
       "id": "quiz_music_14",
-      "text": "In his song Movin Out, Billy Joel inquires Who needs a house out in Hackensack? Mama if thats moving up, then Im moving out. What is the subtitle of the song?",
+      "text": "In his song Movin Out, Billy Joel inquires Who needs a house out in Hackensack? Mama if that's moving up, then Im moving out. What is the subtitle of the song?",
       "options": [
         "(Simons Song)",
         "(Tonys Song)",
@@ -49404,16 +49405,16 @@
       "text": "The Canadian group The Poppy Family hit number 2 with Which Way You Goin Billy? in 1970. A few months later, this song performed by them peaked at number 29.",
       "options": [
         "Where Evil Grows",
-        "Thats Where I Went Wrong",
+        "That's Where I Went Wrong",
         "I Was Wondering",
-        "You Dont Know What Love Is"
+        "You Don't Know What Love Is"
       ],
       "correctIndex": 1,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"Where Evil Grows\", \"Thats Where I Went Wrong\", \"I Was Wondering\", \"You Dont Know What Love Is\"]"
+      "optionsJson": "[\"Where Evil Grows\", \"That's Where I Went Wrong\", \"I Was Wondering\", \"You Don't Know What Love Is\"]"
     },
     {
       "id": "quiz_music_16",
@@ -49497,9 +49498,9 @@
     },
     {
       "id": "quiz_music_21",
-      "text": "This popular song by James Brown contains the lyrics, When I hold you in my arms, my love cant do me no harm.",
+      "text": "This popular song by James Brown contains the lyrics, When I hold you in my arms, my love can't do me no harm.",
       "options": [
-        "Its a Mans Mans Mans World",
+        "It's a Man's Man's Man's World",
         "I Got You (I Feel Good)",
         "Get Up Offa That Thing",
         "Get Up (I Feel Like Being a) Sex Machine"
@@ -49509,7 +49510,7 @@
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"Its a Mans Mans Mans World\", \"I Got You (I Feel Good)\", \"Get Up Offa That Thing\", \"Get Up (I Feel Like Being a) Sex Machine\"]"
+      "optionsJson": "[\"It's a Man's Man's Man's World\", \"I Got You (I Feel Good)\", \"Get Up Offa That Thing\", \"Get Up (I Feel Like Being a) Sex Machine\"]"
     },
     {
       "id": "quiz_music_22",
@@ -49561,7 +49562,7 @@
     },
     {
       "id": "quiz_music_25",
-      "text": "This group topped the charts in the summer of 74 with the song Rock The Boat. In the fall of 74, they didnt do as well with Rockin Soul.",
+      "text": "This group topped the charts in the summer of 74 with the song Rock The Boat. In the fall of 74, they didn't do as well with Rockin Soul.",
       "options": [
         "Hews Corporation",
         "Hues Corporation",
@@ -49645,7 +49646,7 @@
       "options": [
         "Human Nature",
         "You Must Love Me",
-        "Youll See",
+        "You'll See",
         "Take a Bow"
       ],
       "correctIndex": 3,
@@ -49653,7 +49654,7 @@
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"Human Nature\", \"You Must Love Me\", \"Youll See\", \"Take a Bow\"]"
+      "optionsJson": "[\"Human Nature\", \"You Must Love Me\", \"You'll See\", \"Take a Bow\"]"
     },
     {
       "id": "quiz_music_31",
@@ -50364,7 +50365,7 @@
       "text": "The Bellamy Brothers had a number one smash with Let Your Love Flow in 1976. They tried this lame pick-up line the next time around, and it peaked at number 39.",
       "options": [
         "Your Feet Must Be Tired Cause Youve Been Running Through My Mind",
-        "There Must Be Something Wrong With My Eyes, I Cant Take Them Off You",
+        "There Must Be Something Wrong With My Eyes, I Can't Take Them Off You",
         "If I Said You Had a Beautiful Body Would You Hold it Against Me",
         "Ill Cook You Dinner if You Cook Me Breakfast"
       ],
@@ -50373,7 +50374,7 @@
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"Your Feet Must Be Tired Cause Youve Been Running Through My Mind\", \"There Must Be Something Wrong With My Eyes, I Cant Take Them Off You\", \"If I Said You Had a Beautiful Body Would You Hold it Against Me\", \"Ill Cook You Dinner if You Cook Me Breakfast\"]"
+      "optionsJson": "[\"Your Feet Must Be Tired Cause Youve Been Running Through My Mind\", \"There Must Be Something Wrong With My Eyes, I Can't Take Them Off You\", \"If I Said You Had a Beautiful Body Would You Hold it Against Me\", \"Ill Cook You Dinner if You Cook Me Breakfast\"]"
     },
     {
       "id": "quiz_music_76",
@@ -50457,7 +50458,7 @@
     },
     {
       "id": "quiz_music_81",
-      "text": "This musical icon from the 70s was married to James Taylor and had a monster hit titled Youre So Vain.",
+      "text": "This musical icon from the 70s was married to James Taylor and had a monster hit titled You're So Vain.",
       "options": [
         "Carly Simon",
         "Rhiannon Scorpio",
@@ -50475,9 +50476,9 @@
       "id": "quiz_music_82",
       "text": "Name the Elvis Presley song that contains the lyrics, Tell me you are mine; Ill be yours through all the years, till the end of time.",
       "options": [
-        "Cant Help Falling In Love",
+        "Can't Help Falling In Love",
         "Always On My Mind",
-        "I Cant Stop Loving You",
+        "I Can't Stop Loving You",
         "Love Me Tender"
       ],
       "correctIndex": 3,
@@ -50485,7 +50486,7 @@
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"Cant Help Falling In Love\", \"Always On My Mind\", \"I Cant Stop Loving You\", \"Love Me Tender\"]"
+      "optionsJson": "[\"Can't Help Falling In Love\", \"Always On My Mind\", \"I Can't Stop Loving You\", \"Love Me Tender\"]"
     },
     {
       "id": "quiz_music_83",
@@ -50628,7 +50629,8 @@
       "verified": true,
       "status": "RETIRED",
       "categoryId": "music",
-      "topicId": "music"
+      "topicId": "music",
+      "optionsJson": "[\"The Blackbyrds\", \"The Three Degrees\", \"Sister Sledge\", \"The Emotions\"]"
     },
     {
       "id": "quiz_music_92",
@@ -50787,7 +50789,8 @@
       "verified": true,
       "status": "RETIRED",
       "categoryId": "music",
-      "topicId": "music"
+      "topicId": "music",
+      "optionsJson": "[\"Trent Reznor\", \"Marilyn Manson\", \"Rob Zombie\", \"Nikki Sixx\"]"
     },
     {
       "id": "quiz_music_102",
@@ -51369,7 +51372,7 @@
       "id": "quiz_music_138",
       "text": "Melissa Manchester had a big hit in the 70s with this song.",
       "options": [
-        "Dont Cry Out Loud",
+        "Don't Cry Out Loud",
         "Cry Baby",
         "Lonely Teardrops",
         "Tears May Fall"
@@ -51379,7 +51382,7 @@
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"Dont Cry Out Loud\", \"Cry Baby\", \"Lonely Teardrops\", \"Tears May Fall\"]"
+      "optionsJson": "[\"Don't Cry Out Loud\", \"Cry Baby\", \"Lonely Teardrops\", \"Tears May Fall\"]"
     },
     {
       "id": "quiz_music_139",
@@ -51575,7 +51578,7 @@
     },
     {
       "id": "quiz_music_151",
-      "text": "This one hit wonder topped the Billboard charts in 1972 with the song Brandy (Youre a Fine Girl).",
+      "text": "This one hit wonder topped the Billboard charts in 1972 with the song Brandy (You're a Fine Girl).",
       "options": [
         "Pilot",
         "Paper Lace",
@@ -52519,7 +52522,7 @@
     },
     {
       "id": "quiz_music_210",
-      "text": "This Canadian band had a fondly remembered hit with Last Song. Their next attempt, Close Your Eyes, isnt so well remembered.",
+      "text": "This Canadian band had a fondly remembered hit with Last Song. Their next attempt, Close Your Eyes, isn't so well remembered.",
       "options": [
         "Stampeders",
         "Guess Who",
@@ -52791,7 +52794,7 @@
     },
     {
       "id": "quiz_music_227",
-      "text": "What band performed the song Summer in the City (1966) that contains the lyrics: But at night its a different world. Go out and find a girl. Come-on come-on and dance all night. Despite the heat itll be alright?",
+      "text": "What band performed the song Summer in the City (1966) that contains the lyrics: But at night its a different world. Go out and find a girl. Come-on come-on and dance all night. Despite the heat it'll be alright?",
       "options": [
         "Buffalo Springfield",
         "The Lovin Spoonful",
@@ -52999,11 +53002,11 @@
     },
     {
       "id": "quiz_music_240",
-      "text": "Its the summer of 1976, and youre listening to one of your favorite songs on the radio. One of the lines in the song is, we got the munchies, so I made some spaghetti. What song are you listening to?",
+      "text": "Its the summer of 1976, and you're listening to one of your favorite songs on the radio. One of the lines in the song is, we got the munchies, so I made some spaghetti. What song are you listening to?",
       "options": [
         "Ariel- Dean Friedman",
-        "Dont Go Breaking My Heart- Elton John and Kiki Dee",
-        "Breakup Song (They Dont Write Em)- The Greg Kihn Band",
+        "Don't Go Breaking My Heart- Elton John and Kiki Dee",
+        "Breakup Song (They Don't Write Em)- The Greg Kihn Band",
         "The Boys Are Back in Town- Thin Lizzy"
       ],
       "correctIndex": 0,
@@ -53011,11 +53014,11 @@
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"Ariel- Dean Friedman\", \"Dont Go Breaking My Heart- Elton John and Kiki Dee\", \"Breakup Song (They Dont Write Em)- The Greg Kihn Band\", \"The Boys Are Back in Town- Thin Lizzy\"]"
+      "optionsJson": "[\"Ariel- Dean Friedman\", \"Don't Go Breaking My Heart- Elton John and Kiki Dee\", \"Breakup Song (They Don't Write Em)- The Greg Kihn Band\", \"The Boys Are Back in Town- Thin Lizzy\"]"
     },
     {
       "id": "quiz_music_241",
-      "text": "Who wrote and performed the popular song Dont Let the Sun Go Down on Me?",
+      "text": "Who wrote and performed the popular song Don't Let the Sun Go Down on Me?",
       "options": [
         "Elton John",
         "Queen",
@@ -53122,7 +53125,8 @@
       "verified": true,
       "status": "RETIRED",
       "categoryId": "music",
-      "topicId": "music"
+      "topicId": "music",
+      "optionsJson": "[\"Gary Brooks\", \"Garth Books\", \"Garth Brokly\", \"Garth Brooks\"]"
     },
     {
       "id": "quiz_music_248",
@@ -53249,7 +53253,8 @@
       "verified": true,
       "status": "RETIRED",
       "categoryId": "music",
-      "topicId": "music"
+      "topicId": "music",
+      "optionsJson": "[\"Rick Derringer\", \"Gerry Rafferty\", \"Tom Wopat\", \"Gilbert OSullivan\"]"
     },
     {
       "id": "quiz_music_256",
@@ -53303,7 +53308,7 @@
       "id": "quiz_music_259",
       "text": "Which of these songs is not recorded on Kelly Clarksons album Stronger, which won the Grammy Award Best Pop Vocal Album in 2013?",
       "options": [
-        "Stronger (What Doesnt Kill You)",
+        "Stronger (What Doesn't Kill You)",
         "Mr. Know It All",
         "Dark Side",
         "I Will Wait"
@@ -53313,7 +53318,7 @@
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"Stronger (What Doesnt Kill You)\", \"Mr. Know It All\", \"Dark Side\", \"I Will Wait\"]"
+      "optionsJson": "[\"Stronger (What Doesn't Kill You)\", \"Mr. Know It All\", \"Dark Side\", \"I Will Wait\"]"
     },
     {
       "id": "quiz_music_260",
@@ -53589,7 +53594,7 @@
     },
     {
       "id": "quiz_music_277",
-      "text": "What one hit wonder from the 70s gave us the classic hit, Billy, Dont Be A Hero?",
+      "text": "What one hit wonder from the 70s gave us the classic hit, Billy, Don't Be A Hero?",
       "options": [
         "Bo Donaldson and the Heywoods",
         "Paper Lace",
@@ -53685,7 +53690,7 @@
     },
     {
       "id": "quiz_music_283",
-      "text": "What successful artist said: I don't want you to play me a riff thats going to impress Joe Satriani; give me a riff that makes a kid go out and buy a guitar and learn to play.?",
+      "text": "What successful artist said: I don't want you to play me a riff that's going to impress Joe Satriani; give me a riff that makes a kid go out and buy a guitar and learn to play.?",
       "options": [
         "Slash",
         "Will Smith",
@@ -53728,7 +53733,8 @@
       "verified": true,
       "status": "RETIRED",
       "categoryId": "music",
-      "topicId": "music"
+      "topicId": "music",
+      "optionsJson": "[\"Destinys Child\", \"En Vogue\", \"Wilson Phillips\", \"Exposé\"]"
     },
     {
       "id": "quiz_music_286",
@@ -53800,7 +53806,7 @@
       "options": [
         "She was a very active student",
         "She dropped out of high school",
-        "She wasnt a very good student",
+        "She wasn't a very good student",
         "She never went so school"
       ],
       "correctIndex": 0,
@@ -53808,7 +53814,7 @@
       "status": "ACTIVE",
       "categoryId": "music",
       "topicId": "music",
-      "optionsJson": "[\"She was a very active student\", \"She dropped out of high school\", \"She wasnt a very good student\", \"She never went so school\"]"
+      "optionsJson": "[\"She was a very active student\", \"She dropped out of high school\", \"She wasn't a very good student\", \"She never went so school\"]"
     },
     {
       "id": "quiz_music_291",
@@ -53956,7 +53962,7 @@
     },
     {
       "id": "quiz_music_300",
-      "text": "What animal song was written and recorded by Elton John in in June 1972?",
+      "text": "What animal song was written and recorded by Elton John in June 1972?",
       "options": [
         "Crocodile Rock",
         "Donkey Rock",
@@ -54260,7 +54266,7 @@
     },
     {
       "id": "quiz_people_19",
-      "text": "Who invented the the first friction match?",
+      "text": "Who invented the first friction match?",
       "options": [
         "Joseph Woodlock",
         "Peter Smith",
@@ -54948,7 +54954,7 @@
     },
     {
       "id": "quiz_people_62",
-      "text": "What famous comedian said, You know youre getting old when you get that one candle on the cake. Its like, See if you can blow this out.?",
+      "text": "What famous comedian said, You know you're getting old when you get that one candle on the cake. Its like, See if you can blow this out.?",
       "options": [
         "Jerry Seinfeld",
         "George Burns",
@@ -55048,7 +55054,7 @@
       "options": [
         "He was not released. He escaped and made his way to Turkey and then to Israel.",
         "Stalin personally required his knowledge and abilities",
-        "Because of the the Sikorski-Mayski Agreement",
+        "Because of the Sikorski-Mayski Agreement",
         "His term was up"
       ],
       "correctIndex": 2,
@@ -55056,7 +55062,7 @@
       "status": "ACTIVE",
       "categoryId": "people",
       "topicId": "people",
-      "optionsJson": "[\"He was not released. He escaped and made his way to Turkey and then to Israel.\", \"Stalin personally required his knowledge and abilities\", \"Because of the the Sikorski-Mayski Agreement\", \"His term was up\"]"
+      "optionsJson": "[\"He was not released. He escaped and made his way to Turkey and then to Israel.\", \"Stalin personally required his knowledge and abilities\", \"Because of the Sikorski-Mayski Agreement\", \"His term was up\"]"
     },
     {
       "id": "quiz_people_69",
@@ -56116,7 +56122,7 @@
     },
     {
       "id": "quiz_people_135",
-      "text": "Its not enough that we do our best; sometimes we have to do whats required.",
+      "text": "Its not enough that we do our best; sometimes we have to do what's required.",
       "options": [
         "John F. Kennedy",
         "Jane Austen",
@@ -57892,7 +57898,7 @@
     },
     {
       "id": "quiz_people_246",
-      "text": "This George received the Nobel Prize in literature in 1925 but he didnt take the prize money. Instead, he gave the money for funding the translation of Swedish literature into English.",
+      "text": "This George received the Nobel Prize in literature in 1925 but he didn't take the prize money. Instead, he gave the money for funding the translation of Swedish literature into English.",
       "options": [
         "George Bernard Shaw",
         "George Sand",
@@ -58116,7 +58122,7 @@
     },
     {
       "id": "quiz_people_260",
-      "text": "Tiberius Caesar Augustus is remembered as a depressed and unpopular ruler, whose reign was marked by terror. Tiberius was into a exile twice - once on the island of Rhodes and the second time on this island.",
+      "text": "Tiberius Caesar Augustus is remembered as a depressed and unpopular ruler, whose reign was marked by terror. Tiberius was into an exile twice - once on the island of Rhodes and the second time on this island.",
       "options": [
         "Trinidad",
         "Capri",
@@ -58212,7 +58218,7 @@
     },
     {
       "id": "quiz_people_266",
-      "text": "What comedian said, I couldnt wait for success, so I went ahead without it.?",
+      "text": "What comedian said, I couldn't wait for success, so I went ahead without it.?",
       "options": [
         "Groucho Marx",
         "Steve Martin",
@@ -58580,7 +58586,7 @@
     },
     {
       "id": "quiz_people_289",
-      "text": "Whose last words were Dont let it end like this...Tell them I said something.?",
+      "text": "Whose last words were Don't let it end like this...Tell them I said something.?",
       "options": [
         "Panco Villa",
         "Picasso",
@@ -59844,7 +59850,7 @@
     },
     {
       "id": "quiz_science-technology_68",
-      "text": "Excavations and research prove that pi was known as early as 20th century BC, when ancient Babylonian mathematicians used what value value for it?",
+      "text": "Excavations and research prove that pi was known as early as 20th century BC, when ancient Babylonian mathematicians used what value for it?",
       "options": [
         "104348/33215",
         "22/7",
@@ -60247,7 +60253,7 @@
       "text": "If a prescription has the terms NS and OS written on it, what does this probably mean?",
       "options": [
         "You need an IV.",
-        "You cant get more of your ulcer medication.",
+        "You can't get more of your ulcer medication.",
         "You have really bad dandruff.",
         "You have an eye problem."
       ],
@@ -60256,7 +60262,7 @@
       "status": "ACTIVE",
       "categoryId": "science-technology",
       "topicId": "science-technology",
-      "optionsJson": "[\"You need an IV.\", \"You cant get more of your ulcer medication.\", \"You have really bad dandruff.\", \"You have an eye problem.\"]"
+      "optionsJson": "[\"You need an IV.\", \"You can't get more of your ulcer medication.\", \"You have really bad dandruff.\", \"You have an eye problem.\"]"
     },
     {
       "id": "quiz_science-technology_94",
@@ -60356,7 +60362,7 @@
     },
     {
       "id": "quiz_science-technology_100",
-      "text": "Which drug consists of a sediment, extracted form the fruit of the squirting cucumber, that is native of the the Mediterranean region?",
+      "text": "Which drug consists of a sediment, extracted from the fruit of the squirting cucumber, that is native of the Mediterranean region?",
       "options": [
         "Piperazine",
         "Thionin",
@@ -62279,7 +62285,7 @@
       "text": "How permeable is the cell membrane?",
       "options": [
         "It is semi permeable",
-        "It varies in permeablity",
+        "It varies in permeability",
         "It is fully permeable",
         "It is not permeable"
       ],
@@ -62288,7 +62294,7 @@
       "status": "ACTIVE",
       "categoryId": "science-technology",
       "topicId": "science-technology",
-      "optionsJson": "[\"It is semi permeable\", \"It varies in permeablity\", \"It is fully permeable\", \"It is not permeable\"]"
+      "optionsJson": "[\"It is semi permeable\", \"It varies in permeability\", \"It is fully permeable\", \"It is not permeable\"]"
     },
     {
       "id": "quiz_science-technology_221",
@@ -62532,7 +62538,7 @@
     },
     {
       "id": "quiz_science-technology_236",
-      "text": "When magma cools and becomes solid below Earths surface, the resultant rocks are called Plutonic, but when when magma reaches the surface and crystallizes there, formed rocks are called this.",
+      "text": "When magma cools and becomes solid below Earths surface, the resultant rocks are called Plutonic, but when magma reaches the surface and crystallizes there, formed rocks are called this.",
       "options": [
         "Volcanic",
         "Mercuric",
@@ -63449,14 +63455,14 @@
         "Fungi do not have cellulose in their cell walls",
         "Fungal cells contain membrane-bound nuclei",
         "Fungi lack ribosomes",
-        "Fungi lack mitochodria"
+        "Fungi lack mitochondria"
       ],
       "correctIndex": 0,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "science-technology",
       "topicId": "science-technology",
-      "optionsJson": "[\"Fungi do not have cellulose in their cell walls\", \"Fungal cells contain membrane-bound nuclei\", \"Fungi lack ribosomes\", \"Fungi lack mitochodria\"]"
+      "optionsJson": "[\"Fungi do not have cellulose in their cell walls\", \"Fungal cells contain membrane-bound nuclei\", \"Fungi lack ribosomes\", \"Fungi lack mitochondria\"]"
     },
     {
       "id": "quiz_science-technology_294",
@@ -64420,7 +64426,7 @@
     },
     {
       "id": "quiz_sports_54",
-      "text": "This tag team won their title match but Vince McMahon decided that the title reign had to be anulled and edited out of the broadcast.",
+      "text": "This tag team won their title match but Vince McMahon decided that the title reign had to be annulled and edited out of the broadcast.",
       "options": [
         "The Rockers",
         "The Killer Bees",
@@ -64744,7 +64750,7 @@
       "options": [
         "It is a type of Chinese Wushu.",
         "It translates to White Tiger.",
-        "It means means to bear a weapon.",
+        "It means to bear a weapon.",
         "It is a Persian martial art."
       ],
       "correctIndex": 1,
@@ -64752,7 +64758,7 @@
       "status": "ACTIVE",
       "categoryId": "sports",
       "topicId": "sports",
-      "optionsJson": "[\"It is a type of Chinese Wushu.\", \"It translates to White Tiger.\", \"It means means to bear a weapon.\", \"It is a Persian martial art.\"]"
+      "optionsJson": "[\"It is a type of Chinese Wushu.\", \"It translates to White Tiger.\", \"It means to bear a weapon.\", \"It is a Persian martial art.\"]"
     },
     {
       "id": "quiz_sports_75",
@@ -66567,7 +66573,7 @@
       "text": "A golfer who has done any one of these is no longer considered an amateur. There is an odd one, however, which would not change your status of an amateur.",
       "options": [
         "Played golf for money",
-        "Received a trophey of significant monetary value",
+        "Received a trophy of significant monetary value",
         "Taught golf for money",
         "Played along with professional players"
       ],
@@ -66576,7 +66582,7 @@
       "status": "ACTIVE",
       "categoryId": "sports",
       "topicId": "sports",
-      "optionsJson": "[\"Played golf for money\", \"Received a trophey of significant monetary value\", \"Taught golf for money\", \"Played along with professional players\"]"
+      "optionsJson": "[\"Played golf for money\", \"Received a trophy of significant monetary value\", \"Taught golf for money\", \"Played along with professional players\"]"
     },
     {
       "id": "quiz_sports_189",
@@ -67284,7 +67290,7 @@
     },
     {
       "id": "quiz_sports_233",
-      "text": "This player was the 31st selected in 2001 draft by the Golden State Warriors. He and Jamison was chossen to represent the Washington Wizards at the 2005 NBA All-Star Game.",
+      "text": "This player was the 31st selected in 2001 draft by the Golden State Warriors. He and Jamison were chosen to represent the Washington Wizards at the 2005 NBA All-Star Game.",
       "options": [
         "Carmelo Anthony",
         "Ben Gordon",
@@ -67620,7 +67626,7 @@
     },
     {
       "id": "quiz_sports_254",
-      "text": "In what year did the the Southeastern Conference (SEC) receive permission from the NCAA to conduct an annual championship game in football?",
+      "text": "In what year did the Southeastern Conference (SEC) receive permission from the NCAA to conduct an annual championship game in football?",
       "options": [
         "1990",
         "1991",
@@ -68484,7 +68490,7 @@
     },
     {
       "id": "quiz_television_8",
-      "text": "Who is Ravens best friend on the show Thats So Raven?",
+      "text": "Who is Ravens best friend on the show That's So Raven?",
       "options": [
         "Bianca",
         "Eddie",
@@ -68772,7 +68778,7 @@
     },
     {
       "id": "quiz_television_26",
-      "text": "Which of the following is a spin-off of The Daily Show and premeired in 2005?",
+      "text": "Which of the following is a spin-off of The Daily Show and premiered in 2005?",
       "options": [
         "The Sarah Silverman Program",
         "The Mind of Mencia",
@@ -68788,7 +68794,7 @@
     },
     {
       "id": "quiz_television_27",
-      "text": "Which of these popular TV series didnt run for six seasons?",
+      "text": "Which of these popular TV series didn't run for six seasons?",
       "options": [
         "The Rockford Files",
         "Rown Martins Laugh-In",
@@ -69124,7 +69130,7 @@
     },
     {
       "id": "quiz_television_48",
-      "text": "In this western series Gail Davis portrayd a famous sharpshooter from the past.",
+      "text": "In this western series Gail Davis portrayed a famous sharpshooter from the past.",
       "options": [
         "Wagon Train",
         "Branded",
@@ -69592,7 +69598,7 @@
       "options": [
         "Talk about Michael Jackson in general",
         "Tell jokes about Michael or the trial",
-        "Host the The Tonight Show for a while",
+        "Host the Tonight Show for a while",
         "Get closer to Michael Jackson"
       ],
       "correctIndex": 1,
@@ -69600,7 +69606,7 @@
       "status": "ACTIVE",
       "categoryId": "television",
       "topicId": "television",
-      "optionsJson": "[\"Talk about Michael Jackson in general\", \"Tell jokes about Michael or the trial\", \"Host the The Tonight Show for a while\", \"Get closer to Michael Jackson\"]"
+      "optionsJson": "[\"Talk about Michael Jackson in general\", \"Tell jokes about Michael or the trial\", \"Host the Tonight Show for a while\", \"Get closer to Michael Jackson\"]"
     },
     {
       "id": "quiz_television_78",
@@ -70356,7 +70362,7 @@
     },
     {
       "id": "quiz_television_125",
-      "text": "Which character on Saved the the Bell often talked directly to the audience?",
+      "text": "Which character on Saved by the Bell often talked directly to the audience?",
       "options": [
         "Screech",
         "Slater",
@@ -70868,7 +70874,7 @@
     },
     {
       "id": "quiz_television_157",
-      "text": "What character, often called a crazy fool, must the A-Team routinely break out of a mental hospital in the The A-Team series?",
+      "text": "What character, often called a crazy fool, must the A-Team routinely break out of a mental hospital in the A-Team series?",
       "options": [
         "B.A.",
         "Hannibal",
@@ -71380,7 +71386,7 @@
     },
     {
       "id": "quiz_television_189",
-      "text": "Who tried to keep Belle away from the the Beast and marry her?",
+      "text": "Who tried to keep Belle away from the Beast and marry her?",
       "options": [
         "Candlestick",
         "Her own stepfather",
@@ -71668,7 +71674,7 @@
     },
     {
       "id": "quiz_television_207",
-      "text": "Why couldnt the Judge kill Angel in the second season of the TV show Buffy the Vampire Slayer?",
+      "text": "Why couldn't the Judge kill Angel in the second season of the TV show Buffy the Vampire Slayer?",
       "options": [
         "Angel tricked the judge.",
         "The Judge had gone too long without killing.",
@@ -72820,7 +72826,7 @@
     },
     {
       "id": "quiz_television_279",
-      "text": "Which one of these TV shows didnt make it to the ninth season?",
+      "text": "Which one of these TV shows didn't make it to the ninth season?",
       "options": [
         "The Facts of Life",
         "Diffrent Strokes",
@@ -73124,7 +73130,7 @@
     },
     {
       "id": "quiz_television_298",
-      "text": "In the Thats So Raven episode, titled Wheres There's Smoke, what is Corys girlfriends name?",
+      "text": "In the That's So Raven episode, titled Wheres There's Smoke, what is Corys girlfriends name?",
       "options": [
         "Ashley",
         "Candy",
@@ -73252,11 +73258,11 @@
     },
     {
       "id": "quiz_world_6",
-      "text": "This palace was built for love. It is what what every women wants her husband to do for her. The Taj Mahal is located in what country?",
+      "text": "This palace was built for love. It is what every women wants her husband to do for her. The Taj Mahal is located in what country?",
       "options": [
         "Japan",
         "India",
-        "Mexica",
+        "Mexico",
         "Spain"
       ],
       "correctIndex": 1,
@@ -73264,7 +73270,7 @@
       "status": "ACTIVE",
       "categoryId": "world",
       "topicId": "world",
-      "optionsJson": "[\"Japan\", \"India\", \"Mexica\", \"Spain\"]"
+      "optionsJson": "[\"Japan\", \"India\", \"Mexico\", \"Spain\"]"
     },
     {
       "id": "quiz_world_7",
@@ -74852,7 +74858,7 @@
     },
     {
       "id": "quiz_world_106",
-      "text": "The original versioan of the popular Christmas song, Silent night was what language?",
+      "text": "The original version of the popular Christmas song, Silent night was what language?",
       "options": [
         "German",
         "French",
@@ -75268,7 +75274,7 @@
     },
     {
       "id": "quiz_world_132",
-      "text": "In an ancient civilization, the cure for epilepcy was to spit on the person having a fit.",
+      "text": "In an ancient civilization, the cure for epilepsy was to spit on the person having a fit.",
       "options": [
         "Egypt",
         "Rome",
@@ -76489,14 +76495,14 @@
         "Ice skating",
         "Making a snowman",
         "Making snow angels",
-        "Snow sleding"
+        "Snow sledding"
       ],
       "correctIndex": 0,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "world",
       "topicId": "world",
-      "optionsJson": "[\"Ice skating\", \"Making a snowman\", \"Making snow angels\", \"Snow sleding\"]"
+      "optionsJson": "[\"Ice skating\", \"Making a snowman\", \"Making snow angels\", \"Snow sledding\"]"
     },
     {
       "id": "quiz_world_209",
@@ -83343,7 +83349,7 @@
     },
     {
       "id": "quiz_game-show_29",
-      "text": "A founder of publishing house Simon &amp; Schuster is the parent of a famous what?",
+      "text": "A founder of publishing house Simon & Schuster is the parent of a famous what?",
       "options": [
         "Singer",
         "Architect",
@@ -84468,7 +84474,7 @@
     },
     {
       "id": "quiz_game-show_104",
-      "text": "Ben &amp; Jerry’s Cherry Garcia flavor is a pun on the lead singer of what band?",
+      "text": "Ben & Jerry’s Cherry Garcia flavor is a pun on the lead singer of what band?",
       "options": [
         "Rolling Stones",
         "Phish",
@@ -87123,7 +87129,7 @@
     },
     {
       "id": "quiz_game-show_282",
-      "text": "Bonnie &amp; Clyde were wanted by police for committing what crime?",
+      "text": "Bonnie & Clyde were wanted by police for committing what crime?",
       "options": [
         "Excessive PDA",
         "Bank robbery",
@@ -88037,7 +88043,7 @@
     },
     {
       "id": "quiz_quiz-clues_38",
-      "text": "In 1983 this Bulgarian-born American encirclued 11 Florida islands with bright pink polypropylene fabric",
+      "text": "In 1983 this Bulgarian-born American encircled 11 Florida islands with bright pink polypropylene fabric",
       "options": [
         "Cristo",
         "Medusa",
@@ -89074,7 +89080,7 @@
     },
     {
       "id": "quiz_quiz-clues_99",
-      "text": "Though it sounds like a hair-removal treatment, this process removes impurites from copper using a charge",
+      "text": "Though it sounds like a hair-removal treatment, this process removes impurities from copper using a charge",
       "options": [
         "acidic",
         "strip mining",
@@ -89771,7 +89777,7 @@
     },
     {
       "id": "quiz_quiz-clues_140",
-      "text": "New World vultures lack a organ called a syrinx, so they also lack this; all they can do is hiss & grunt",
+      "text": "New World vultures lack an organ called a syrinx, so they also lack this; all they can do is hiss & grunt",
       "options": [
         "vocal cords",
         "a beak",
@@ -91709,7 +91715,7 @@
     },
     {
       "id": "quiz_quiz-clues_254",
-      "text": "This important drug was the first antibiotic exrracted from fungal molds",
+      "text": "This important drug was the first antibiotic extracted from fungal molds",
       "options": [
         "Penicllin",
         "Chlorophyll",
@@ -93052,7 +93058,7 @@
     },
     {
       "id": "quiz_computers-math_33",
-      "text": "What was the first commerically available computer processor?",
+      "text": "What was the first commercially available computer processor?",
       "options": [
         "TMS 1000",
         "Intel 486SX",
@@ -93375,7 +93381,7 @@
     },
     {
       "id": "quiz_computers-math_52",
-      "text": "What did the name of the Tor Anonymity Network orignially stand for?",
+      "text": "What did the name of the Tor Anonymity Network originally stand for?",
       "options": [
         "The Orange Router",
         "The Ominous Router",
@@ -93953,7 +93959,7 @@
     },
     {
       "id": "quiz_computers-math_86",
-      "text": "In HTML, which non-standard tag used to be be used to make elements scroll across the viewport?",
+      "text": "In HTML, which non-standard tag used to be used to make elements scroll across the viewport?",
       "options": [
         "<slide></slide>",
         "<marquee></marquee>",
@@ -94208,7 +94214,7 @@
     },
     {
       "id": "quiz_computers-math_101",
-      "text": "The Windows OS was delevoped by which company?",
+      "text": "The Windows OS was developed by which company?",
       "options": [
         "Microsoft",
         "Nokia",
@@ -95891,7 +95897,7 @@
     },
     {
       "id": "quiz_video-games_2",
-      "text": "Which of the following games in the The Legend of Zelda franchise was released in Japan before North America?",
+      "text": "Which of the following games in the Legend of Zelda franchise was released in Japan before North America?",
       "options": [
         "The Legend of Zelda: The Minish Cap",
         "The Legend of Zelda: Twilight Princess",
@@ -98543,7 +98549,7 @@
     },
     {
       "id": "quiz_video-games_158",
-      "text": "Which Sonic the Hedgehog game introudced Knuckles the Echidna?",
+      "text": "Which Sonic the Hedgehog game introduced Knuckles the Echidna?",
       "options": [
         "Sonic & Knuckles",
         "Sonic Adventure",
@@ -98849,7 +98855,7 @@
     },
     {
       "id": "quiz_video-games_176",
-      "text": "Why were only only 300,000 copies of Uniracers were produced?",
+      "text": "Why were only 300,000 copies of Uniracers were produced?",
       "options": [
         "There was a disagreement between DMA Designs and Nintendo",
         "It didn't sell well due to poor review scores",
@@ -99665,7 +99671,7 @@
     },
     {
       "id": "quiz_video-games_224",
-      "text": "Which of these characters wasn't a villian in Club Penguin?",
+      "text": "Which of these characters wasn't a villain in Club Penguin?",
       "options": [
         "Ultimate Proto-Bot 10000",
         "Herbert P. Bear",
@@ -102145,7 +102151,7 @@
       "id": "quiz_video-games_371",
       "text": "In Mad Monster Mansion from the Banjo-Kazooie video game, what is the time shown on the clock above the church?",
       "options": [
-        "13 oclock",
+        "13 o'clock",
         "None of these",
         "The hands are moving",
         "Midnight"
@@ -102155,7 +102161,7 @@
       "status": "ACTIVE",
       "categoryId": "video-games",
       "topicId": "video-games",
-      "optionsJson": "[\"13 oclock\", \"None of these\", \"The hands are moving\", \"Midnight\"]"
+      "optionsJson": "[\"13 o'clock\", \"None of these\", \"The hands are moving\", \"Midnight\"]"
     },
     {
       "id": "quiz_video-games_372",
@@ -102244,18 +102250,18 @@
         "The Galactic Federation built her as a next generation Aurora Unit.",
         "It is unknown who made her but she was made to control Zebes.",
         "The Space Pirates built her to be one of their generals.",
-        "The Chozo built her to be a organic Supercomputer."
+        "The Chozo built her to be an organic Supercomputer."
       ],
       "correctIndex": 3,
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "video-games",
       "topicId": "video-games",
-      "optionsJson": "[\"The Galactic Federation built her as a next generation Aurora Unit.\", \"It is unknown who made her but she was made to control Zebes.\", \"The Space Pirates built her to be one of their generals.\", \"The Chozo built her to be a organic Supercomputer.\"]"
+      "optionsJson": "[\"The Galactic Federation built her as a next generation Aurora Unit.\", \"It is unknown who made her but she was made to control Zebes.\", \"The Space Pirates built her to be one of their generals.\", \"The Chozo built her to be an organic Supercomputer.\"]"
     },
     {
       "id": "quiz_video-games_378",
-      "text": "Which one of these Final Fantasy characters didnt own an airship?",
+      "text": "Which one of these Final Fantasy characters didn't own an airship?",
       "options": [
         "Setzer Gabbiani",
         "Daryl",
@@ -102511,7 +102517,7 @@
     },
     {
       "id": "quiz_video-games_394",
-      "text": "Which of these isnt a Sega collection for PC?",
+      "text": "Which of these isn't a Sega collection for PC?",
       "options": [
         "Sega Genesis Collection",
         "Sonic 3 and Knuckles",
@@ -103466,7 +103472,8 @@
       "verified": true,
       "status": "RETIRED",
       "categoryId": "video-games",
-      "topicId": "video-games"
+      "topicId": "video-games",
+      "optionsJson": "[\"Age of Empires II\", \"StarCraft\", \"Command and Conquer\", \"Warcraft III\"]"
     },
     {
       "id": "quiz_video-games_454",
@@ -104220,7 +104227,9 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/mission/europa-clipper/",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "science-technology",
+      "optionsJson": "[\"Europa\", \"Io\", \"Ganymede\", \"Callisto\"]"
     },
     {
       "id": "q_trend_2",
@@ -104238,7 +104247,9 @@
       "sourceName": "ISRO",
       "sourceUrl": "https://www.isro.gov.in/Chandrayaan3.html",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "science-technology",
+      "optionsJson": "[\"India\", \"Japan\", \"United States\", \"China\"]"
     },
     {
       "id": "q_trend_3",
@@ -104256,7 +104267,9 @@
       "sourceName": "Nobel Prize Outreach",
       "sourceUrl": "https://www.nobelprize.org/prizes/chemistry/2024/summary/",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "science-technology",
+      "optionsJson": "[\"AlphaFold\", \"AlphaGo\", \"DeepSeek\", \"Watson\"]"
     },
     {
       "id": "q_trend_4",
@@ -104274,7 +104287,9 @@
       "sourceName": "Nature",
       "sourceUrl": "https://www.nature.com/articles/s41586-024-08449-y",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "science-technology",
+      "optionsJson": "[\"Willow\", \"Sycamore\", \"Bristlecone\", \"Condor\"]"
     },
     {
       "id": "q_trend_5",
@@ -104292,7 +104307,9 @@
       "sourceName": "IOC",
       "sourceUrl": "https://olympics.com/en/paris-2024/the-games/the-brand/medals",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "sports",
+      "optionsJson": "[\"The Eiffel Tower\", \"The Louvre Pyramid\", \"Arc de Triomphe\", \"Notre-Dame Cathedral\"]"
     },
     {
       "id": "q_trend_6",
@@ -104310,7 +104327,9 @@
       "sourceName": "FIDE",
       "sourceUrl": "https://www.fide.com",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "sports",
+      "optionsJson": "[\"Gukesh Dommaraju\", \"Magnus Carlsen\", \"Praggnanandhaa R\", \"Alireza Firouzja\"]"
     },
     {
       "id": "q_trend_7",
@@ -104328,7 +104347,9 @@
       "sourceName": "World Athletics",
       "sourceUrl": "https://worldathletics.org",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "sports",
+      "optionsJson": "[\"Pole Vault\", \"High Jump\", \"Javelin Throw\", \"Decathlon\"]"
     },
     {
       "id": "q_trend_8",
@@ -104346,7 +104367,9 @@
       "sourceName": "Nature Geoscience",
       "sourceUrl": "https://www.nature.com/articles/s41561-024-01480-8",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "geography",
+      "optionsJson": "[\"Dark oxygen\", \"Abyssal ozone\", \"Benthic air\", \"Cold fusion oxygen\"]"
     },
     {
       "id": "q_trend_9",
@@ -104364,7 +104387,9 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Vesuvius_Challenge",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "history",
+      "optionsJson": "[\"The Vesuvius Challenge\", \"Project Pompeii\", \"The Rosetta Initiative\", \"ScrollNet\"]"
     },
     {
       "id": "q_trend_10",
@@ -104382,7 +104407,9 @@
       "sourceName": "Antiquity Journal",
       "sourceUrl": "https://www.cambridge.org/core/journals/antiquity",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "history",
+      "optionsJson": "[\"LiDAR\", \"Sonar\", \"Ground-Penetrating Radar\", \"Infrared Thermography\"]"
     },
     {
       "id": "q_trend_11",
@@ -104400,7 +104427,9 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "world",
+      "optionsJson": "[\"The Forest\", \"The Crown\", \"The Canopy\", \"The Vault\"]"
     },
     {
       "id": "q_trend_12",
@@ -104418,7 +104447,9 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Inside_Out_2",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "entertainment",
+      "optionsJson": "[\"Anxiety\", \"Envy\", \"Embarrassment\", \"Ennui\"]"
     },
     {
       "id": "q_trend_13",
@@ -104436,7 +104467,9 @@
       "sourceName": "Wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Oppenheimer_(film)",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "entertainment",
+      "optionsJson": "[\"Oppenheimer\", \"Poor Things\", \"The Zone of Interest\", \"Dune: Part Two\"]"
     },
     {
       "id": "q_trend_14",
@@ -104454,7 +104487,9 @@
       "sourceName": "NASA",
       "sourceUrl": "https://science.nasa.gov/mission/voyager/",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "science-technology",
+      "optionsJson": "[\"Voyager 1\", \"New Horizons\", \"Pioneer 10\", \"Cassini\"]"
     },
     {
       "id": "q_trend_15",
@@ -104472,7 +104507,9 @@
       "sourceName": "Schmidt Ocean Institute",
       "sourceUrl": "https://schmidtocean.org",
       "verified": true,
-      "status": "ACTIVE"
+      "status": "ACTIVE",
+      "categoryId": "animals",
+      "optionsJson": "[\"Clarion-Clipperton Zone\", \"Mariana Trench\", \"Great Barrier Reef\", \"Sargasso Sea\"]"
     }
   ]
 }
