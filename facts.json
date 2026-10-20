@@ -1,24 +1,19 @@
 {
-  "contentVersion": 11,
+  "contentVersion": 12,
   "topics": [
-    {
-      "id": "trending",
-      "name": "Trending & Now",
-      "isPremium": false
-    },
-    {
-      "id": "animals",
-      "name": "Animals",
-      "isPremium": false
-    },
     {
       "id": "brain-teasers",
       "name": "Brain Teasers",
       "isPremium": false
     },
     {
-      "id": "celebrities",
-      "name": "Celebrities",
+      "id": "general",
+      "name": "General",
+      "isPremium": false
+    },
+    {
+      "id": "science-technology",
+      "name": "Science & Technology",
       "isPremium": true
     },
     {
@@ -27,13 +22,18 @@
       "isPremium": true
     },
     {
-      "id": "general",
-      "name": "General Knowledge",
-      "isPremium": false
-    },
-    {
       "id": "geography",
       "name": "Geography",
+      "isPremium": true
+    },
+    {
+      "id": "video-games",
+      "name": "Video Games",
+      "isPremium": true
+    },
+    {
+      "id": "television",
+      "name": "Television",
       "isPremium": true
     },
     {
@@ -42,8 +42,33 @@
       "isPremium": true
     },
     {
-      "id": "hobbies",
-      "name": "Hobbies",
+      "id": "world",
+      "name": "World",
+      "isPremium": true
+    },
+    {
+      "id": "people",
+      "name": "People",
+      "isPremium": true
+    },
+    {
+      "id": "music",
+      "name": "Music",
+      "isPremium": true
+    },
+    {
+      "id": "animals",
+      "name": "Animals",
+      "isPremium": false
+    },
+    {
+      "id": "sports",
+      "name": "Sports",
+      "isPremium": true
+    },
+    {
+      "id": "movies",
+      "name": "Movies",
       "isPremium": true
     },
     {
@@ -57,43 +82,23 @@
       "isPremium": true
     },
     {
-      "id": "movies",
-      "name": "Movies",
+      "id": "hobbies",
+      "name": "Hobbies",
       "isPremium": true
     },
     {
-      "id": "music",
-      "name": "Music",
+      "id": "celebrities",
+      "name": "Celebrities",
       "isPremium": true
     },
     {
-      "id": "people",
-      "name": "People",
-      "isPremium": true
+      "id": "trending",
+      "name": "Trending & Now",
+      "isPremium": false
     },
     {
-      "id": "science-technology",
-      "name": "Science & Technology",
-      "isPremium": true
-    },
-    {
-      "id": "sports",
-      "name": "Sports",
-      "isPremium": true
-    },
-    {
-      "id": "television",
-      "name": "Television",
-      "isPremium": true
-    },
-    {
-      "id": "video-games",
-      "name": "Video Games",
-      "isPremium": true
-    },
-    {
-      "id": "world",
-      "name": "World",
+      "id": "productivity",
+      "name": "Productivity",
       "isPremium": true
     }
   ],

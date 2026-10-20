@@ -1,38 +1,62 @@
 {
-  "contentVersion": 7,
+  "contentVersion": 8,
   "attribution": "Questions adapted from Open Trivia Database (opentdb.com) under CC BY-SA 4.0 and curated by the Curio Editorial Team.",
   "categories": [
-    {
-      "id": "animals",
-      "name": "Animals"
-    },
     {
       "id": "brain-teasers",
       "name": "Brain Teasers"
     },
     {
-      "id": "celebrities",
-      "name": "Celebrities"
+      "id": "general",
+      "name": "General"
+    },
+    {
+      "id": "science-technology",
+      "name": "Science & Technology"
     },
     {
       "id": "entertainment",
       "name": "Entertainment"
     },
     {
-      "id": "general",
-      "name": "General Knowledge"
-    },
-    {
       "id": "geography",
       "name": "Geography"
+    },
+    {
+      "id": "video-games",
+      "name": "Video Games"
+    },
+    {
+      "id": "television",
+      "name": "Television"
     },
     {
       "id": "history",
       "name": "History"
     },
     {
-      "id": "hobbies",
-      "name": "Hobbies"
+      "id": "world",
+      "name": "World"
+    },
+    {
+      "id": "people",
+      "name": "People"
+    },
+    {
+      "id": "music",
+      "name": "Music"
+    },
+    {
+      "id": "animals",
+      "name": "Animals"
+    },
+    {
+      "id": "sports",
+      "name": "Sports"
+    },
+    {
+      "id": "movies",
+      "name": "Movies"
     },
     {
       "id": "humanities",
@@ -43,36 +67,20 @@
       "name": "Literature"
     },
     {
-      "id": "movies",
-      "name": "Movies"
+      "id": "hobbies",
+      "name": "Hobbies"
     },
     {
-      "id": "music",
-      "name": "Music"
+      "id": "celebrities",
+      "name": "Celebrities"
     },
     {
-      "id": "people",
-      "name": "People"
+      "id": "trending",
+      "name": "Trending & Now"
     },
     {
-      "id": "science-technology",
-      "name": "Science & Technology"
-    },
-    {
-      "id": "sports",
-      "name": "Sports"
-    },
-    {
-      "id": "television",
-      "name": "Television"
-    },
-    {
-      "id": "video-games",
-      "name": "Video Games"
-    },
-    {
-      "id": "world",
-      "name": "World"
+      "id": "productivity",
+      "name": "Productivity"
     }
   ],
   "questions": [
