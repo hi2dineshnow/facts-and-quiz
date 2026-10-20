@@ -1,5 +1,5 @@
 {
-  "contentVersion": 8,
+  "contentVersion": 9,
   "attribution": "Questions adapted from Open Trivia Database (opentdb.com) under CC BY-SA 4.0 and curated by the Curio Editorial Team.",
   "categories": [
     {
@@ -104518,6 +104518,1206 @@
       "status": "ACTIVE",
       "categoryId": "animals",
       "optionsJson": "[\"Clarion-Clipperton Zone\", \"Mariana Trench\", \"Great Barrier Reef\", \"Sargasso Sea\"]"
+    },
+    {
+      "id": "q_ai_trend_deepseek_r1",
+      "categoryId": "trending",
+      "text": "Which AI lab released the open-weight reasoning model R1 in January 2025, matching or approaching OpenAI o1 on key benchmarks at far lower training cost?",
+      "options": [
+        "DeepSeek",
+        "Mistral AI",
+        "Cohere",
+        "Stability AI"
+      ],
+      "correctIndex": 0,
+      "explanation": "DeepSeek R1 showed that an open-weight reasoning model could rival o1 cheaply, accelerating the industry shift to inference-time reasoning.",
+      "difficulty": "easy",
+      "sourceName": "KDnuggets retrospective",
+      "sourceUrl": "https://kdnuggets.com/the-10-ai-developments-that-defined-2025",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"DeepSeek\", \"Mistral AI\", \"Cohere\", \"Stability AI\"]"
+    },
+    {
+      "id": "q_ai_trend_gpt5",
+      "categoryId": "trending",
+      "text": "On what date did OpenAI release GPT-5, widely framed as the start of the 'reasoning era'?",
+      "options": [
+        "March 14, 2025",
+        "August 7, 2025",
+        "November 30, 2025",
+        "January 20, 2025"
+      ],
+      "correctIndex": 1,
+      "explanation": "GPT-5 launched on August 7, 2025, pushing frontier models toward consistent expert-level performance on hard benchmarks.",
+      "difficulty": "medium",
+      "sourceName": "KDnuggets",
+      "sourceUrl": "https://kdnuggets.com/the-10-ai-developments-that-defined-2025",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"March 14, 2025\", \"August 7, 2025\", \"November 30, 2025\", \"January 20, 2025\"]"
+    },
+    {
+      "id": "q_ai_trend_claude_opus46",
+      "categoryId": "trending",
+      "text": "Which Anthropic model, released in February 2026, posted strong scores on Humanity's Last Exam and GPQA while expanding context and agent capabilities?",
+      "options": [
+        "Claude Haiku 3",
+        "Claude Instant 1.2",
+        "Claude Opus 4.6",
+        "Claude 2.1"
+      ],
+      "correctIndex": 2,
+      "explanation": "Claude Opus 4.6 was one of the first models to cross certain high capability thresholds on benchmarks like HLE and GPQA.",
+      "difficulty": "medium",
+      "sourceName": "LifeArchitect mid-2026 retrospective",
+      "sourceUrl": "https://lifearchitect.ai/the-sky-is-massive/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Claude Haiku 3\", \"Claude Instant 1.2\", \"Claude Opus 4.6\", \"Claude 2.1\"]"
+    },
+    {
+      "id": "q_ai_trend_context_1m",
+      "categoryId": "trending",
+      "text": "Roughly how large a context window did leading frontier models routinely offer by late 2026?",
+      "options": [
+        "About 8,000 tokens",
+        "About 32,000 tokens",
+        "About 4,000 tokens",
+        "About 1 million tokens"
+      ],
+      "correctIndex": 3,
+      "explanation": "Late-2026 frontier models commonly offered around 1M-token contexts with outputs up to 128K, far beyond the 8K–32K limits of early GPT-4 era systems.",
+      "difficulty": "medium",
+      "sourceName": "AI-ML Companion",
+      "sourceUrl": "https://aimlcompanion.ai/blog/ai-year-in-review-oct-2025-oct-2026",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"About 8,000 tokens\", \"About 32,000 tokens\", \"About 4,000 tokens\", \"About 1 million tokens\"]"
+    },
+    {
+      "id": "q_ai_trend_agents_metr",
+      "categoryId": "trending",
+      "text": "By mid-2026, the best AI agents in METR evaluations could complete tasks that take human experts how long, roughly half the time?",
+      "options": [
+        "16+ hours",
+        "About 15 minutes",
+        "About 2 hours",
+        "About 1 minute"
+      ],
+      "correctIndex": 0,
+      "explanation": "METR measurements showed agents finishing 16+ hour expert tasks about half the time, a big step beyond early AutoGPT-style loops.",
+      "difficulty": "hard",
+      "sourceName": "AI-ML Companion",
+      "sourceUrl": "https://aimlcompanion.ai/blog/ai-year-in-review-oct-2025-oct-2026",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"16+ hours\", \"About 15 minutes\", \"About 2 hours\", \"About 1 minute\"]"
+    },
+    {
+      "id": "q_ai_trend_mcp",
+      "categoryId": "trending",
+      "text": "What does MCP, often described as the 'USB port' for AI agents, stand for?",
+      "options": [
+        "Machine Control Platform",
+        "Model Context Protocol",
+        "Multi-Channel Pipeline",
+        "Memory Compression Protocol"
+      ],
+      "correctIndex": 1,
+      "explanation": "The Model Context Protocol became the common interface for connecting LLMs to tools, data, and external systems.",
+      "difficulty": "easy",
+      "sourceName": "datAInsights state of AI 2026",
+      "sourceUrl": "https://www.data-insights.ai/blog/state-of-ai-2026",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Machine Control Platform\", \"Model Context Protocol\", \"Multi-Channel Pipeline\", \"Memory Compression Protocol\"]"
+    },
+    {
+      "id": "q_ai_trend_gemini_robotics",
+      "categoryId": "trending",
+      "text": "What type of model lets Google DeepMind's Gemini Robotics control real robots?",
+      "options": [
+        "Text-to-image diffusion model",
+        "Speech recognition model",
+        "Vision-language-action (VLA) model",
+        "Recommendation engine"
+      ],
+      "correctIndex": 2,
+      "explanation": "Gemini Robotics models are vision-language-action systems that enable zero-shot manipulation and whole-body humanoid tasks.",
+      "difficulty": "medium",
+      "sourceName": "RobotToday / DeepMind coverage",
+      "sourceUrl": "https://robottoday.com/industry-briefing/google-deepmind-launches-gemini-4-argon-as-a-key-ai-model-for-robotics/16005",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Text-to-image diffusion model\", \"Speech recognition model\", \"Vision-language-action (VLA) model\", \"Recommendation engine\"]"
+    },
+    {
+      "id": "q_ai_trend_figure03",
+      "categoryId": "trending",
+      "text": "Which company's Figure 03 humanoid, revealed around October 2025, later contributed to real BMW vehicle assembly work?",
+      "options": [
+        "1X",
+        "Unitree",
+        "Agility Robotics",
+        "Figure AI"
+      ],
+      "correctIndex": 3,
+      "explanation": "Figure 03 featured improved mobility, a large battery and VLA-based reasoning, and units later worked in production at BMW.",
+      "difficulty": "medium",
+      "sourceName": "LifeArchitect 2025 retrospective",
+      "sourceUrl": "https://lifearchitect.ai/the-sky-is-supernatural/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"1X\", \"Unitree\", \"Agility Robotics\", \"Figure AI\"]"
+    },
+    {
+      "id": "q_ai_trend_1x_neo",
+      "categoryId": "trending",
+      "text": "Roughly what was the pre-order price of the 1X NEO consumer humanoid opened in late 2025?",
+      "options": [
+        "About $20,000",
+        "About $2,000",
+        "About $200,000",
+        "About $99"
+      ],
+      "correctIndex": 0,
+      "explanation": "1X priced NEO at roughly $20,000 (or about $499 per month) as a home-oriented general-purpose robot.",
+      "difficulty": "medium",
+      "sourceName": "LifeArchitect",
+      "sourceUrl": "https://lifearchitect.ai/the-sky-is-supernatural/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"About $20,000\", \"About $2,000\", \"About $200,000\", \"About $99\"]"
+    },
+    {
+      "id": "q_ai_trend_unitree_g1",
+      "categoryId": "trending",
+      "text": "Roughly how much did Unitree's accessible G1 humanoid cost?",
+      "options": [
+        "About $1,500",
+        "About $15,000–16,000",
+        "About $150,000",
+        "About $500,000"
+      ],
+      "correctIndex": 1,
+      "explanation": "At around $15,000–16,000, the G1 became one of the more accessible research and light-industrial humanoid platforms.",
+      "difficulty": "medium",
+      "sourceName": "LifeArchitect mid-2026",
+      "sourceUrl": "https://lifearchitect.ai/the-sky-is-massive/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"About $1,500\", \"About $15,000–16,000\", \"About $150,000\", \"About $500,000\"]"
+    },
+    {
+      "id": "q_ai_trend_pi_models",
+      "categoryId": "trending",
+      "text": "Which company's π0 series of generalist robot policies progressed from laundry folding to more complex household and assembly tasks?",
+      "options": [
+        "Boston Dynamics",
+        "Tesla",
+        "Physical Intelligence",
+        "Cerebras"
+      ],
+      "correctIndex": 2,
+      "explanation": "Physical Intelligence used large-scale teleoperation and web data plus reinforcement learning to improve its generalist robot policies.",
+      "difficulty": "hard",
+      "sourceName": "MIT Technology Review",
+      "sourceUrl": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Boston Dynamics\", \"Tesla\", \"Physical Intelligence\", \"Cerebras\"]"
+    },
+    {
+      "id": "q_ai_trend_sora_veo",
+      "categoryId": "trending",
+      "text": "Which company develops the Veo series of text-to-video models?",
+      "options": [
+        "Meta",
+        "Amazon",
+        "Adobe",
+        "Google"
+      ],
+      "correctIndex": 3,
+      "explanation": "Google's Veo, alongside OpenAI's Sora, moved text-to-video from research demos into broader commercial availability.",
+      "difficulty": "easy",
+      "sourceName": "2025 AI innovations roundups",
+      "sourceUrl": "https://www-jagranjosh-com.translate.goog/general-knowledge/list-of-greatest-ai-innovations-and-new-technologies-in-2025-1820005089-1",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Meta\", \"Amazon\", \"Adobe\", \"Google\"]"
+    },
+    {
+      "id": "q_ai_trend_context_engineering",
+      "categoryId": "trending",
+      "text": "By 2026, what term described the evolution of prompt engineering into managing what information a model sees across long agent runs?",
+      "options": [
+        "Context engineering",
+        "Prompt tuning",
+        "Model distillation",
+        "Token pruning"
+      ],
+      "correctIndex": 0,
+      "explanation": "Context engineering focuses on choosing and managing what the model sees over long runs rather than one carefully worded prompt.",
+      "difficulty": "easy",
+      "sourceName": "AI-ML Companion year review",
+      "sourceUrl": "https://aimlcompanion.ai/blog/ai-year-in-review-oct-2025-oct-2026",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Context engineering\", \"Prompt tuning\", \"Model distillation\", \"Token pruning\"]"
+    },
+    {
+      "id": "q_ai_trend_anthropic_compiler",
+      "categoryId": "trending",
+      "text": "In early 2026, Anthropic's multi-agent systems wrote a functional C compiler in which programming language?",
+      "options": [
+        "Python",
+        "Rust",
+        "Go",
+        "Java"
+      ],
+      "correctIndex": 1,
+      "explanation": "The multi-agent system built the compiler in Rust over roughly 2,000 sessions, and it could build the Linux kernel for multiple architectures.",
+      "difficulty": "medium",
+      "sourceName": "AI-ML Companion",
+      "sourceUrl": "https://aimlcompanion.ai/blog/ai-year-in-review-oct-2025-oct-2026",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Python\", \"Rust\", \"Go\", \"Java\"]"
+    },
+    {
+      "id": "q_ai_trend_world_labs",
+      "categoryId": "trending",
+      "text": "Which World Labs tool turns text, images, or video into persistent, explorable 3D worlds?",
+      "options": [
+        "Atlas",
+        "Canvas",
+        "Marble",
+        "Compass"
+      ],
+      "correctIndex": 2,
+      "explanation": "World Labs, co-founded by Fei-Fei Li, released Marble for creating explorable 3D worlds usable for viewing and robot simulation.",
+      "difficulty": "hard",
+      "sourceName": "Architecture and world-model summaries",
+      "sourceUrl": "https://primo.ai/w/index.php?title=Architectures&diff=cur&oldid=35379",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Atlas\", \"Canvas\", \"Marble\", \"Compass\"]"
+    },
+    {
+      "id": "q_ai_trend_deepseek_v3",
+      "categoryId": "trending",
+      "text": "How many total parameters does DeepSeek's V3 mixture-of-experts model have?",
+      "options": [
+        "7 billion",
+        "70 billion",
+        "13 billion",
+        "671 billion"
+      ],
+      "correctIndex": 3,
+      "explanation": "V3 has 671B parameters but activates far fewer per token, matching strong frontier performance at dramatically lower training cost.",
+      "difficulty": "hard",
+      "sourceName": "Machine Brief research papers roundup",
+      "sourceUrl": "https://www.machinebrief.com/news/10-ai-research-papers-actually-mattered-last-12-months",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"7 billion\", \"70 billion\", \"13 billion\", \"671 billion\"]"
+    },
+    {
+      "id": "q_ai_trend_gemini4_argon_minecraft",
+      "categoryId": "trending",
+      "text": "In October 2026, how many autonomous Gemini 4 Argon agents cooperatively beat Minecraft, including the Ender Dragon, in about 27 hours?",
+      "options": [
+        "Four",
+        "Two",
+        "Eight",
+        "Sixteen"
+      ],
+      "correctIndex": 0,
+      "explanation": "Four Gemini 4 Argon agents coordinated to beat Minecraft from scratch with no specialized game training.",
+      "difficulty": "medium",
+      "sourceName": "AI Briefing October 2026",
+      "sourceUrl": "https://aibriefing.dev/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Four\", \"Two\", \"Eight\", \"Sixteen\"]"
+    },
+    {
+      "id": "q_ai_trend_coding_agents",
+      "categoryId": "trending",
+      "text": "By 2026, AI coding agents had moved from being what kind of helpers into systems that interpret whole codebases and complete multi-step features?",
+      "options": [
+        "Spell checkers",
+        "Autocomplete helpers",
+        "Version control tools",
+        "Compiler optimizers"
+      ],
+      "correctIndex": 1,
+      "explanation": "Coding agents evolved from simple autocomplete assistance into systems that handle multi-step feature work.",
+      "difficulty": "easy",
+      "sourceName": "datAInsights state of AI 2026",
+      "sourceUrl": "https://www.data-insights.ai/blog/state-of-ai-2026",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Spell checkers\", \"Autocomplete helpers\", \"Version control tools\", \"Compiler optimizers\"]"
+    },
+    {
+      "id": "q_ai_trend_linear_attention",
+      "categoryId": "trending",
+      "text": "Kimi K3 (2026) mixed linear-attention layers with which other type to handle very long contexts more efficiently?",
+      "options": [
+        "Convolutional layers",
+        "LSTM recurrent layers",
+        "Full-attention layers",
+        "Graph layers"
+      ],
+      "correctIndex": 2,
+      "explanation": "Mixing linear and full attention helps scale context without the quadratic cost of pure full attention.",
+      "difficulty": "hard",
+      "sourceName": "AI-ML Companion",
+      "sourceUrl": "https://aimlcompanion.ai/blog/ai-year-in-review-oct-2025-oct-2026",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Convolutional layers\", \"LSTM recurrent layers\", \"Full-attention layers\", \"Graph layers\"]"
+    },
+    {
+      "id": "q_ai_trend_open_source_lead",
+      "categoryId": "trending",
+      "text": "Open-weight models from which group narrowed the gap with closed frontier systems throughout 2025–2026?",
+      "options": [
+        "European telecom firms",
+        "Japanese car makers",
+        "Indian IT services firms",
+        "Chinese labs such as DeepSeek, Qwen and Kimi"
+      ],
+      "correctIndex": 3,
+      "explanation": "Chinese open-weight models often matched closed systems at lower cost and with permissive licenses.",
+      "difficulty": "medium",
+      "sourceName": "KDnuggets and subsequent reports",
+      "sourceUrl": "https://kdnuggets.com/the-10-ai-developments-that-defined-2025",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"European telecom firms\", \"Japanese car makers\", \"Indian IT services firms\", \"Chinese labs such as DeepSeek, Qwen and Kimi\"]"
+    },
+    {
+      "id": "q_ai_trend_phys_ai_china",
+      "categoryId": "trending",
+      "text": "By mid-2026, China launched large-scale programs to deploy what in factories, warehouses, and hospitals?",
+      "options": [
+        "Humanoid robots",
+        "Flying taxis",
+        "Quantum computers",
+        "Delivery drones"
+      ],
+      "correctIndex": 0,
+      "explanation": "The programs targeted thousands of humanoid units and high-value applications within months.",
+      "difficulty": "easy",
+      "sourceName": "LifeArchitect mid-2026",
+      "sourceUrl": "https://lifearchitect.ai/the-sky-is-massive/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Humanoid robots\", \"Flying taxis\", \"Quantum computers\", \"Delivery drones\"]"
+    },
+    {
+      "id": "q_ai_trend_waymo_scale",
+      "categoryId": "trending",
+      "text": "Waymo scaled to hundreds of thousands of what per week by 2026?",
+      "options": [
+        "Package deliveries",
+        "Paid driverless robotaxi rides",
+        "Charging sessions",
+        "Test flights"
+      ],
+      "correctIndex": 1,
+      "explanation": "Waymo targeted a million weekly rides across many cities, the most advanced real-world embodied AI deployment at the time.",
+      "difficulty": "medium",
+      "sourceName": "datAInsights state of AI 2026",
+      "sourceUrl": "https://www.data-insights.ai/blog/state-of-ai-2026",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Package deliveries\", \"Paid driverless robotaxi rides\", \"Charging sessions\", \"Test flights\"]"
+    },
+    {
+      "id": "q_ai_trend_nvidia_rubin",
+      "categoryId": "trending",
+      "text": "Which NVIDIA platform, announced at CES 2026, pairs a custom CPU with new GPUs as the next-generation accelerator stack?",
+      "options": [
+        "Blackwell",
+        "Hopper",
+        "Vera Rubin",
+        "Ampere"
+      ],
+      "correctIndex": 2,
+      "explanation": "Vera Rubin was announced at CES 2026 and moved into production as NVIDIA's next training and inference platform.",
+      "difficulty": "medium",
+      "sourceName": "AI History Project",
+      "sourceUrl": "https://aihistoryproject.org/news",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Blackwell\", \"Hopper\", \"Vera Rubin\", \"Ampere\"]"
+    },
+    {
+      "id": "q_ai_trend_meta_muse",
+      "categoryId": "trending",
+      "text": "Which company's Muse series, including open-weight variants in 2026, emphasized multimodal and multi-agent capabilities?",
+      "options": [
+        "Google",
+        "Adobe",
+        "Spotify",
+        "Meta"
+      ],
+      "correctIndex": 3,
+      "explanation": "Meta's Muse models targeted competitive pricing and on-device or lighter deployment options.",
+      "difficulty": "medium",
+      "sourceName": "October 2026 AI briefings",
+      "sourceUrl": "https://aibriefing.dev/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Google\", \"Adobe\", \"Spotify\", \"Meta\"]"
+    },
+    {
+      "id": "q_ai_trend_agent_workforce",
+      "categoryId": "trending",
+      "text": "By August 2026, Anthropic's internal data showed AI agent hours outnumbering human work hours roughly how many to one in some functions?",
+      "options": [
+        "6 to 1",
+        "2 to 1",
+        "20 to 1",
+        "1 to 1"
+      ],
+      "correctIndex": 0,
+      "explanation": "Agents handled more routine and intermediate tasks, and junior technical hiring declined as a result.",
+      "difficulty": "hard",
+      "sourceName": "October 2026 AI news summaries",
+      "sourceUrl": "https://dentro.de/ai/news/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"6 to 1\", \"2 to 1\", \"20 to 1\", \"1 to 1\"]"
+    },
+    {
+      "id": "q_ai_trend_quantum_edge",
+      "categoryId": "trending",
+      "text": "Which scale of practical quantum machine was 2026 progress heading toward, alongside ultra-low error rates on surface-code style systems?",
+      "options": [
+        "Gigaflop desktops",
+        "Megaquops-scale machines",
+        "Terabyte hard drives",
+        "Megapixel sensors"
+      ],
+      "correctIndex": 1,
+      "explanation": "2026 milestones included very low error rates and continued progress toward practical megaquops-scale quantum computers.",
+      "difficulty": "hard",
+      "sourceName": "Science News October 2026",
+      "sourceUrl": "https://www.sciencenews.org/topic/tech",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Gigaflop desktops\", \"Megaquops-scale machines\", \"Terabyte hard drives\", \"Megapixel sensors\"]"
+    },
+    {
+      "id": "q_ai_trend_space_ai_centers",
+      "categoryId": "trending",
+      "text": "Google's Project Suncatcher explored concepts for AI data centers located where?",
+      "options": [
+        "Under the ocean",
+        "Inside abandoned mines",
+        "In space",
+        "On Arctic ice"
+      ],
+      "correctIndex": 2,
+      "explanation": "Orbital compute interest grew as energy and cooling constraints on Earth intensified.",
+      "difficulty": "easy",
+      "sourceName": "NPR Technology section",
+      "sourceUrl": "https://www.npr.org/sections/technology/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Under the ocean\", \"Inside abandoned mines\", \"In space\", \"On Arctic ice\"]"
+    },
+    {
+      "id": "q_ai_trend_prompt_to_agent",
+      "categoryId": "trending",
+      "text": "By late 2026, the dominant AI paradigm had shifted from carefully crafted single prompts to what?",
+      "options": [
+        "Ever-larger single prompts",
+        "Manual copy-paste workflows",
+        "Fixed prompt templates only",
+        "Long-running agents that keep progress logs across context windows"
+      ],
+      "correctIndex": 3,
+      "explanation": "Agents now maintain progress logs, feature lists, and tool use across multiple context windows.",
+      "difficulty": "medium",
+      "sourceName": "AI-ML Companion",
+      "sourceUrl": "https://aimlcompanion.ai/blog/ai-year-in-review-oct-2025-oct-2026",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Ever-larger single prompts\", \"Manual copy-paste workflows\", \"Fixed prompt templates only\", \"Long-running agents that keep progress logs across context windows\"]"
+    },
+    {
+      "id": "q_ai_trend_robotics_sim2real",
+      "categoryId": "trending",
+      "text": "Video-to-simulation-to-real pipelines reduced the time to train humanoid whole-body tasks from weeks to roughly what?",
+      "options": [
+        "Hours",
+        "Seconds",
+        "Months",
+        "Years"
+      ],
+      "correctIndex": 0,
+      "explanation": "Generating physics simulations directly from footage cut humanoid training time dramatically.",
+      "difficulty": "medium",
+      "sourceName": "Hoodline / DeepMind robotics notes",
+      "sourceUrl": "https://hoodline.com/2026/10/google-deepmind-builds-robot-lab-in-cambridge-poaches-boston-dynamics-cto/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"Hours\", \"Seconds\", \"Months\", \"Years\"]"
+    },
+    {
+      "id": "q_ai_trend_frontier_pricing",
+      "categoryId": "trending",
+      "text": "By October 2026, strong frontier models were available at low per-token prices in which example range?",
+      "options": [
+        "About $200/$1000",
+        "About $2/$10",
+        "About $0.001/$0.002",
+        "About $60/$120"
+      ],
+      "correctIndex": 1,
+      "explanation": "Competitive frontier models from multiple labs hit low prices, while open-weight options undercut proprietary pricing further.",
+      "difficulty": "hard",
+      "sourceName": "ThursdAI October 2026 releases",
+      "sourceUrl": "https://thursdai.news/releases/2026-10",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "trending",
+      "optionsJson": "[\"About $200/$1000\", \"About $2/$10\", \"About $0.001/$0.002\", \"About $60/$120\"]"
+    },
+    {
+      "id": "q_prod_task_switch_40",
+      "categoryId": "productivity",
+      "text": "Up to roughly what percentage can rapidly switching between tasks reduce effective productivity?",
+      "options": [
+        "About 5 percent",
+        "About 75 percent",
+        "About 40 percent",
+        "About 10 percent"
+      ],
+      "correctIndex": 2,
+      "explanation": "The brain must reconfigure rules and mental sets for each new activity rather than truly multitasking.",
+      "difficulty": "easy",
+      "sourceName": "Productivity science summaries citing Rubinstein et al.",
+      "sourceUrl": "https://sparkdayapp.com/blog/how-to-be-more-productive",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"About 5 percent\", \"About 75 percent\", \"About 40 percent\", \"About 10 percent\"]"
+    },
+    {
+      "id": "q_prod_refocus_23min",
+      "categoryId": "productivity",
+      "text": "According to Gloria Mark's field studies, about how long does it take to fully regain focus after an interruption?",
+      "options": [
+        "About 2 minutes",
+        "About 1 hour",
+        "About 5 minutes",
+        "About 23 minutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Knowledge workers need an average of roughly 23 minutes and 15 seconds to return fully to the original task.",
+      "difficulty": "medium",
+      "sourceName": "Attention research summaries",
+      "sourceUrl": "https://lifehacks.com/guides/focus",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"About 2 minutes\", \"About 1 hour\", \"About 5 minutes\", \"About 23 minutes\"]"
+    },
+    {
+      "id": "q_prod_attention_residue",
+      "categoryId": "productivity",
+      "text": "Which researcher's 2009 work described 'attention residue' after switching tasks?",
+      "options": [
+        "Sophie Leroy",
+        "Daniel Kahneman",
+        "BJ Fogg",
+        "Cal Newport"
+      ],
+      "correctIndex": 0,
+      "explanation": "Part of the mind stays on the previous unfinished task, lowering performance on the new one until the residue clears.",
+      "difficulty": "hard",
+      "sourceName": "Organizational Behavior and Human Decision Processes",
+      "sourceUrl": "https://goalsandprogress.com/8-patterns-of-highly-productive-people/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Sophie Leroy\", \"Daniel Kahneman\", \"BJ Fogg\", \"Cal Newport\"]"
+    },
+    {
+      "id": "q_prod_phone_presence",
+      "categoryId": "productivity",
+      "text": "According to Ward et al. (2017), what does the mere presence of a smartphone, even face-down and silent, reduce?",
+      "options": [
+        "Typing speed",
+        "Available working memory and cognitive capacity",
+        "Battery life",
+        "Eyesight quality"
+      ],
+      "correctIndex": 1,
+      "explanation": "Part of attention is reserved for monitoring the device, leaving less capacity for the task at hand.",
+      "difficulty": "medium",
+      "sourceName": "Journal of the Association for Consumer Research",
+      "sourceUrl": "https://habitbox.app/blog/how-to-be-more-productive",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Typing speed\", \"Available working memory and cognitive capacity\", \"Battery life\", \"Eyesight quality\"]"
+    },
+    {
+      "id": "q_prod_retrieval_testing_effect",
+      "categoryId": "productivity",
+      "text": "Which study method produces stronger long-term retention than spending the same time re-reading?",
+      "options": [
+        "Highlighting",
+        "Passive listening",
+        "Retrieval practice",
+        "Copying notes"
+      ],
+      "correctIndex": 2,
+      "explanation": "Actively pulling information from memory, known as the testing effect, beats re-studying across hundreds of studies.",
+      "difficulty": "easy",
+      "sourceName": "Carnegie Mellon Eberly Center",
+      "sourceUrl": "https://www.cmu.edu/teaching/resources/instructionalstrategies/activelearningstrategies/retrievalpractice/index.html",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Highlighting\", \"Passive listening\", \"Retrieval practice\", \"Copying notes\"]"
+    },
+    {
+      "id": "q_prod_retrieval_transfer",
+      "categoryId": "productivity",
+      "text": "Besides improving memory of practiced material, retrieval practice also aids what?",
+      "options": [
+        "Faster reading speed",
+        "Lower heart rate",
+        "Better handwriting",
+        "Transfer to new questions or contexts"
+      ],
+      "correctIndex": 3,
+      "explanation": "Transfer is the ability to apply knowledge in new situations, and retrieval practice supports it more than many other techniques.",
+      "difficulty": "medium",
+      "sourceName": "The Behavioral Scientist summary",
+      "sourceUrl": "https://www.thebehavioralscientist.com/learn/evidence/retrieval-practice",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Faster reading speed\", \"Lower heart rate\", \"Better handwriting\", \"Transfer to new questions or contexts\"]"
+    },
+    {
+      "id": "q_prod_habit_context",
+      "categoryId": "productivity",
+      "text": "Habits form most readily when a behavior is repeated in what kind of setting?",
+      "options": [
+        "A stable, consistent context",
+        "Constantly changing places",
+        "Only when highly motivated",
+        "Only with large rewards"
+      ],
+      "correctIndex": 0,
+      "explanation": "The same time, place, or preceding cue becomes a reliable trigger for the action.",
+      "difficulty": "medium",
+      "sourceName": "Frontiers in Psychology",
+      "sourceUrl": "https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2022.883795/full",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"A stable, consistent context\", \"Constantly changing places\", \"Only when highly motivated\", \"Only with large rewards\"]"
+    },
+    {
+      "id": "q_prod_habit_66days",
+      "categoryId": "productivity",
+      "text": "What is the median number of days for a new behavior to become automatic, according to Lally et al.?",
+      "options": [
+        "About 21 days",
+        "About 66 days",
+        "About 7 days",
+        "About 100 days"
+      ],
+      "correctIndex": 1,
+      "explanation": "The popular 21-day figure is a myth; simpler habits form faster and complex ones take longer.",
+      "difficulty": "easy",
+      "sourceName": "European Journal of Social Psychology",
+      "sourceUrl": "https://goalsandprogress.com/8-patterns-of-highly-productive-people/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"About 21 days\", \"About 66 days\", \"About 7 days\", \"About 100 days\"]"
+    },
+    {
+      "id": "q_prod_eisenhower_matrix",
+      "categoryId": "productivity",
+      "text": "How many quadrants does the Eisenhower Matrix use to sort tasks by urgency and importance?",
+      "options": [
+        "Two",
+        "Three",
+        "Four",
+        "Six"
+      ],
+      "correctIndex": 2,
+      "explanation": "The matrix helps prioritize important but not urgent work over constant firefighting.",
+      "difficulty": "easy",
+      "sourceName": "James Clear / 7 Habits tradition",
+      "sourceUrl": "https://jamesclear.com/eisenhower-box",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Two\", \"Three\", \"Four\", \"Six\"]"
+    },
+    {
+      "id": "q_prod_mere_urgency",
+      "categoryId": "productivity",
+      "text": "What is the bias called in which people pick urgent tasks over more important ones with greater long-term payoff?",
+      "options": [
+        "Sunk cost fallacy",
+        "Halo effect",
+        "Anchoring bias",
+        "Mere-urgency effect"
+      ],
+      "correctIndex": 3,
+      "explanation": "Zhu, Yang and Hsee (2018) showed this effect, which the Eisenhower Matrix is designed to counteract.",
+      "difficulty": "hard",
+      "sourceName": "Journal of Consumer Research",
+      "sourceUrl": "https://medium.com/@aryankandhari/the-science-and-ux-of-the-eisenhower-matrix-acd11e96c1cb",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Sunk cost fallacy\", \"Halo effect\", \"Anchoring bias\", \"Mere-urgency effect\"]"
+    },
+    {
+      "id": "q_prod_interruptions_concentration",
+      "categoryId": "productivity",
+      "text": "What do frequent interruptions fragment, lowering accuracy and increasing the time needed for deep work?",
+      "options": [
+        "Concentration",
+        "Muscle memory",
+        "Hearing",
+        "Sleep cycles"
+      ],
+      "correctIndex": 0,
+      "explanation": "Interruptions force context switching and leave residual attention on the prior task.",
+      "difficulty": "easy",
+      "sourceName": "Attention and interruption research",
+      "sourceUrl": "https://www.sacbee.com/entertainment/living/article315897279.html",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Concentration\", \"Muscle memory\", \"Hearing\", \"Sleep cycles\"]"
+    },
+    {
+      "id": "q_prod_planning_fallacy",
+      "categoryId": "productivity",
+      "text": "What is the tendency to underestimate how long a task will take, even when similar past tasks ran longer, called?",
+      "options": [
+        "Dunning-Kruger effect",
+        "Planning fallacy",
+        "Spotlight effect",
+        "Zeigarnik effect"
+      ],
+      "correctIndex": 1,
+      "explanation": "Defined by Kahneman and Tversky, it arises from focusing on best-case scenarios rather than historical averages.",
+      "difficulty": "easy",
+      "sourceName": "Wikipedia / classic psychology literature",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Planning_fallacy",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Dunning-Kruger effect\", \"Planning fallacy\", \"Spotlight effect\", \"Zeigarnik effect\"]"
+    },
+    {
+      "id": "q_prod_planning_fallacy_students",
+      "categoryId": "productivity",
+      "text": "In classic studies, students predicted projects would take about 30–40 days. What was the actual average completion time?",
+      "options": [
+        "About 20 days",
+        "About 35 days",
+        "Often 50+ days",
+        "About 10 days"
+      ],
+      "correctIndex": 2,
+      "explanation": "Buehler, Griffin and Ross found actual completion times substantially longer than predictions.",
+      "difficulty": "hard",
+      "sourceName": "Journal of Personality and Social Psychology",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Planning_fallacy",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"About 20 days\", \"About 35 days\", \"Often 50+ days\", \"About 10 days\"]"
+    },
+    {
+      "id": "q_prod_sleep_attention",
+      "categoryId": "productivity",
+      "text": "After two weeks of 6-hour nights, cognitive performance can decline to a level comparable to what?",
+      "options": [
+        "A short coffee break",
+        "A weekend nap",
+        "Skipping breakfast",
+        "One or two nights of total sleep deprivation"
+      ],
+      "correctIndex": 3,
+      "explanation": "Insufficient sleep impairs attention, working memory, and reaction time.",
+      "difficulty": "hard",
+      "sourceName": "Sleep restriction studies",
+      "sourceUrl": "https://sparkdayapp.com/blog/how-to-be-more-productive",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"A short coffee break\", \"A weekend nap\", \"Skipping breakfast\", \"One or two nights of total sleep deprivation\"]"
+    },
+    {
+      "id": "q_prod_sleep_memory",
+      "categoryId": "productivity",
+      "text": "Sleep after learning can improve memory retention by roughly how much in some studies?",
+      "options": [
+        "20–40 percent",
+        "1–2 percent",
+        "90–100 percent",
+        "5–8 percent"
+      ],
+      "correctIndex": 0,
+      "explanation": "Sleep consolidates memories, while deprivation before learning reduces the capacity to form new ones.",
+      "difficulty": "hard",
+      "sourceName": "Cognitive neuroscience of sleep",
+      "sourceUrl": "https://sparkdayapp.com/blog/how-to-be-more-productive",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"20–40 percent\", \"1–2 percent\", \"90–100 percent\", \"5–8 percent\"]"
+    },
+    {
+      "id": "q_prod_smart_goals",
+      "categoryId": "productivity",
+      "text": "In the SMART goal framework, what does the 'T' stand for?",
+      "options": [
+        "Tangible",
+        "Time-bound",
+        "Targeted",
+        "Trackable"
+      ],
+      "correctIndex": 1,
+      "explanation": "SMART stands for Specific, Measurable, Achievable, Relevant, and Time-bound.",
+      "difficulty": "easy",
+      "sourceName": "Standard goal-setting frameworks",
+      "sourceUrl": "https://factsandguides.com/productivity-techniques-science/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Tangible\", \"Time-bound\", \"Targeted\", \"Trackable\"]"
+    },
+    {
+      "id": "q_prod_implementation_intentions",
+      "categoryId": "productivity",
+      "text": "Which type of plan, such as 'If situation X arises, then I will do Y', links a cue to a specific action to boost follow-through?",
+      "options": [
+        "Vision board",
+        "Daily affirmation",
+        "Implementation intention",
+        "Gratitude journal"
+      ],
+      "correctIndex": 2,
+      "explanation": "Peter Gollwitzer's research shows if-then plans significantly raise the likelihood of acting on goals.",
+      "difficulty": "medium",
+      "sourceName": "Goal-setting and intention literature",
+      "sourceUrl": "https://factsandguides.com/productivity-techniques-science/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Vision board\", \"Daily affirmation\", \"Implementation intention\", \"Gratitude journal\"]"
+    },
+    {
+      "id": "q_prod_ultradian_90min",
+      "categoryId": "productivity",
+      "text": "Roughly how long are the ultradian cycles that human alertness and focus often follow?",
+      "options": [
+        "About 20 minutes",
+        "About 4 hours",
+        "About 12 hours",
+        "About 90 minutes"
+      ],
+      "correctIndex": 3,
+      "explanation": "Nathaniel Kleitman's basic rest-activity cycle observations underpin the idea of 90-minute deep-work blocks.",
+      "difficulty": "medium",
+      "sourceName": "Sleep and wakefulness literature",
+      "sourceUrl": "https://www.sacbee.com/entertainment/living/article315897279.html",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"About 20 minutes\", \"About 4 hours\", \"About 12 hours\", \"About 90 minutes\"]"
+    },
+    {
+      "id": "q_prod_deep_work_env",
+      "categoryId": "productivity",
+      "text": "What approach reduces the need for willpower and supports sustained attention better than motivation alone?",
+      "options": [
+        "Removing distractions from the environment",
+        "Drinking more coffee",
+        "Working with the TV on",
+        "Adding more notifications"
+      ],
+      "correctIndex": 0,
+      "explanation": "Putting the phone in another room, silencing notifications, and using a dedicated space all help.",
+      "difficulty": "easy",
+      "sourceName": "Cognitive psychology of distraction",
+      "sourceUrl": "https://lifehacks.com/guides/focus",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Removing distractions from the environment\", \"Drinking more coffee\", \"Working with the TV on\", \"Adding more notifications\"]"
+    },
+    {
+      "id": "q_prod_single_tasking",
+      "categoryId": "productivity",
+      "text": "Compared with single-taskers, regular multitaskers tend to be worse at what?",
+      "options": [
+        "Color vision",
+        "Filtering irrelevant information",
+        "Physical strength",
+        "Recognizing faces"
+      ],
+      "correctIndex": 1,
+      "explanation": "They also switch less efficiently and hold less information in working memory.",
+      "difficulty": "medium",
+      "sourceName": "Stanford / cognitive control studies",
+      "sourceUrl": "https://factsandguides.com/productivity-techniques-science/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Color vision\", \"Filtering irrelevant information\", \"Physical strength\", \"Recognizing faces\"]"
+    },
+    {
+      "id": "q_prod_sleep_perception",
+      "categoryId": "productivity",
+      "text": "How do chronically sleep-restricted people typically feel compared with their actual impairment?",
+      "options": [
+        "Extremely sleepy and aware of it",
+        "Fully alert and performing better",
+        "Only mildly tired despite a large performance decline",
+        "Unable to feel any emotion"
+      ],
+      "correctIndex": 2,
+      "explanation": "Subjective sleepiness is a poor guide to actual cognitive impairment.",
+      "difficulty": "hard",
+      "sourceName": "Sleep research",
+      "sourceUrl": "https://sparkdayapp.com/blog/how-to-be-more-productive",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Extremely sleepy and aware of it\", \"Fully alert and performing better\", \"Only mildly tired despite a large performance decline\", \"Unable to feel any emotion\"]"
+    },
+    {
+      "id": "q_prod_goal_specific",
+      "categoryId": "productivity",
+      "text": "Which goal is most likely to be completed, according to goal-setting research?",
+      "options": [
+        "Write more",
+        "Be productive",
+        "Do my best",
+        "Write 500 words by 10 a.m."
+      ],
+      "correctIndex": 3,
+      "explanation": "Specific goals reduce decision load and give clear feedback on progress.",
+      "difficulty": "easy",
+      "sourceName": "Goal-setting research",
+      "sourceUrl": "https://factsandguides.com/productivity-techniques-science/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Write more\", \"Be productive\", \"Do my best\", \"Write 500 words by 10 a.m.\"]"
+    },
+    {
+      "id": "q_prod_batching",
+      "categoryId": "productivity",
+      "text": "Batching shallow tasks like email into fixed windows reduces what compared with checking them continuously?",
+      "options": [
+        "Context-switching costs",
+        "Rent",
+        "Sleep needs",
+        "Screen brightness"
+      ],
+      "correctIndex": 0,
+      "explanation": "Grouping similar tasks avoids repeated attention switches throughout the day.",
+      "difficulty": "easy",
+      "sourceName": "Productivity research summaries",
+      "sourceUrl": "https://habitbox.app/blog/how-to-be-more-productive",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Context-switching costs\", \"Rent\", \"Sleep needs\", \"Screen brightness\"]"
+    },
+    {
+      "id": "q_prod_weekly_review",
+      "categoryId": "productivity",
+      "text": "What does a structured weekly review capture in order to reduce mental clutter?",
+      "options": [
+        "Social media follows",
+        "Open loops",
+        "Passwords",
+        "Calorie counts"
+      ],
+      "correctIndex": 1,
+      "explanation": "A weekly review reflects on progress, captures open loops, and plans the next period.",
+      "difficulty": "medium",
+      "sourceName": "Productivity system research",
+      "sourceUrl": "https://sparkdayapp.com/blog/how-to-be-more-productive",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Social media follows\", \"Open loops\", \"Passwords\", \"Calorie counts\"]"
+    },
+    {
+      "id": "q_prod_outside_view",
+      "categoryId": "productivity",
+      "text": "The 'outside view' reduces the planning fallacy by looking at what?",
+      "options": [
+        "The best-case future scenario",
+        "The manager's guess",
+        "How long similar past tasks actually took",
+        "How the task feels today"
+      ],
+      "correctIndex": 2,
+      "explanation": "This reference-class approach produces more accurate time estimates.",
+      "difficulty": "medium",
+      "sourceName": "Planning fallacy literature",
+      "sourceUrl": "https://www.psychologytoday.com/us/blog/decisions-and-the-brain/202506/the-time-trap-why-five-minutes-always-takes-20",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"The best-case future scenario\", \"The manager's guess\", \"How long similar past tasks actually took\", \"How the task feels today\"]"
+    },
+    {
+      "id": "q_prod_sleep_first_cycle",
+      "categoryId": "productivity",
+      "text": "Which part of sleep, rich in slow-wave sleep, is especially important for restoration?",
+      "options": [
+        "The last 10 minutes before waking",
+        "A pre-bedtime nap",
+        "Midday dozing",
+        "The first 90-minute cycle"
+      ],
+      "correctIndex": 3,
+      "explanation": "Fragmenting it with late alcohol or screen use reduces next-day attention and memory benefits.",
+      "difficulty": "hard",
+      "sourceName": "Sleep science summaries",
+      "sourceUrl": "https://blog.make10000hours.com/post/brain-optimization-for-work",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"The last 10 minutes before waking\", \"A pre-bedtime nap\", \"Midday dozing\", \"The first 90-minute cycle\"]"
+    },
+    {
+      "id": "q_prod_q2_growth",
+      "categoryId": "productivity",
+      "text": "In the urgent-important matrix, what kind of activities are 'Quadrant 2'?",
+      "options": [
+        "Important but not urgent",
+        "Urgent and important",
+        "Urgent but not important",
+        "Neither urgent nor important"
+      ],
+      "correctIndex": 0,
+      "explanation": "Skill-building, planning, and relationship work in Quadrant 2 drive the highest long-term productivity gains.",
+      "difficulty": "medium",
+      "sourceName": "Time-management literature",
+      "sourceUrl": "https://factsandguides.com/productivity-techniques-science/",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Important but not urgent\", \"Urgent and important\", \"Urgent but not important\", \"Neither urgent nor important\"]"
+    },
+    {
+      "id": "q_prod_consistent_wake",
+      "categoryId": "productivity",
+      "text": "What stabilizes circadian rhythms more effectively than a consistent bedtime alone?",
+      "options": [
+        "Sleeping in on weekends",
+        "A consistent wake time",
+        "Late-night caffeine",
+        "Afternoon naps"
+      ],
+      "correctIndex": 1,
+      "explanation": "It also supports more reliable next-day attention and decision quality.",
+      "difficulty": "medium",
+      "sourceName": "Chronobiology and sleep hygiene",
+      "sourceUrl": "https://habitbox.app/blog/how-to-be-more-productive",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Sleeping in on weekends\", \"A consistent wake time\", \"Late-night caffeine\", \"Afternoon naps\"]"
+    },
+    {
+      "id": "q_prod_retrieval_spaced",
+      "categoryId": "productivity",
+      "text": "Retrieval practice benefits are strongest when practice is done how?",
+      "options": [
+        "Massed in one session",
+        "Only once",
+        "Spaced out over time",
+        "Only right before an exam"
+      ],
+      "correctIndex": 2,
+      "explanation": "Spaced retrieval dramatically slows forgetting compared with cramming.",
+      "difficulty": "medium",
+      "sourceName": "APA science brief on retrieval",
+      "sourceUrl": "https://web.archive.org/web/20190701180444/https:/www.apa.org/science/about/psa/2016/06/learning-memory",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Massed in one session\", \"Only once\", \"Spaced out over time\", \"Only right before an exam\"]"
+    },
+    {
+      "id": "q_prod_decision_fatigue_planning",
+      "categoryId": "productivity",
+      "text": "Besides the planning fallacy, what do people fail to account for when overestimating what they can finish in a day?",
+      "options": [
+        "Weather changes",
+        "Lunch menus",
+        "Calendar color choices",
+        "Interruptions, context-switching costs, and decision fatigue"
+      ],
+      "correctIndex": 3,
+      "explanation": "These costs accumulate during real workdays and are easy to overlook when planning.",
+      "difficulty": "hard",
+      "sourceName": "Combined cognitive bias literature",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Planning_fallacy",
+      "verified": true,
+      "status": "ACTIVE",
+      "topicId": "productivity",
+      "optionsJson": "[\"Weather changes\", \"Lunch menus\", \"Calendar color choices\", \"Interruptions, context-switching costs, and decision fatigue\"]"
     }
   ]
 }
