@@ -2,7 +2,7 @@
 
 We usually reply within 2-3 business days.
 
-**Email:** [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com)
+**Email:** [newgenappssupport@gmail.com](mailto:newgenappssupport@gmail.com)
 
 ## Wrong or outdated fact?
 
