@@ -64,4 +64,4 @@ We may revise these terms from time to time. The updated version will be posted 
 
 ## 15. Contact
 
-Questions? Email [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com) or see [Contact Us](CONTACT.md). See also our [Privacy Policy](PRIVACY_POLICY.md).
+Questions? Email [newgenappssupport@gmail.com](mailto:newgenappssupport@gmail.com) or see [Contact Us](CONTACT.md). See also our [Privacy Policy](PRIVACY_POLICY.md).
