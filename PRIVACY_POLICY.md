@@ -63,4 +63,4 @@ We may update this policy from time to time. The latest version is always on thi
 
 ## 13. Contact
 
-Questions about this policy? Email [YOUR_EMAIL@example.com](mailto:YOUR_EMAIL@example.com) or see [Contact Us](CONTACT.md).
+Questions about this policy? Email [newgenappssupport@gmail.com](mailto:newgenappssupport@gmail.com) or see [Contact Us](CONTACT.md).
