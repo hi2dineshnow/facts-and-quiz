@@ -1,5 +1,5 @@
 {
-  "contentVersion": 14,
+  "contentVersion": 15,
   "topics": [
     {
       "id": "brain-teasers",
@@ -745,7 +745,7 @@
     },
     {
       "id": "earth_1",
-      "text": "The Antarctic Ice Sheet contains nearly seventy percent of all the accessible freshwater on planet Earth and ninety percent of our total glacial ice.",
+      "text": "The Antarctic Ice Sheet contains nearly seventy percent of all the freshwater on planet Earth and ninety percent of our total glacial ice.",
       "topicId": "geography",
       "suggestedSourceName": "British Antarctic Survey",
       "suggestedSourceUrl": "https://www.bas.ac.uk",
@@ -755,7 +755,7 @@
       "status": "ACTIVE",
       "confirmedSourceName": "British Antarctic Survey",
       "confirmedSourceUrl": "https://www.bas.ac.uk",
-      "claimText": "The Antarctic Ice Sheet holds roughly 70 percent of Earth's freshwater and 90 percent of its glacial ice.",
+      "claimText": "The Antarctic Ice Sheet holds roughly 70 percent of Earth's freshwater, mostly locked in ice, and 90 percent of its glacial ice.",
       "isReal": true,
       "explanation": "Locked in ice up to nearly three miles thick, Antarctica stores the vast majority of the planet's surface freshwater."
     },
@@ -1065,7 +1065,7 @@
     },
     {
       "id": "qf_quiz_animals_10",
-      "text": "Sloths are omnivores.",
+      "text": "Sloths are primarily folivores, feeding mostly on leaves.",
       "topicId": "animals",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -1077,7 +1077,7 @@
       "confirmedSourceUrl": "https://en.wikipedia.org",
       "claimText": "Sloths are autotrophic organisms.",
       "isReal": false,
-      "explanation": "Myth! Sloths are omnivores."
+      "explanation": "Myth! Sloths are primarily folivores, feeding mostly on leaves."
     },
     {
       "id": "qf_quiz_animals_12",
@@ -1161,7 +1161,7 @@
     },
     {
       "id": "qf_quiz_animals_46",
-      "text": "The average lifespan of a vampire bat is 40-50 years.",
+      "text": "Vampire bats live roughly 9 years in the wild and up to about 30 years in captivity.",
       "topicId": "animals",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -1171,9 +1171,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "The average lifespan of a vampire bat is 5-10 years.",
+      "claimText": "The average lifespan of a vampire bat is 40-50 years.",
       "isReal": false,
-      "explanation": "Myth! The average lifespan of a vampire bat is 40-50 years."
+      "explanation": "Myth! Vampire bats live roughly 9 years in the wild and up to about 30 years in captivity."
     },
     {
       "id": "qf_quiz_animals_54",
@@ -1732,7 +1732,7 @@
     },
     {
       "id": "qf_quiz_celebrities_161",
-      "text": "Greenland is the territory that is an autonomous province of Denmark.",
+      "text": "Greenland is an autonomous territory within the Kingdom of Denmark.",
       "topicId": "geography",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -1742,9 +1742,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "The Isle of Wight is the territory that is an autonomous province of Denmark.",
+      "claimText": "The Isle of Wight is an autonomous territory within the Kingdom of Denmark.",
       "isReal": false,
-      "explanation": "Myth! Greenland is the territory that is an autonomous province of Denmark."
+      "explanation": "Myth! Greenland is an autonomous territory within the Kingdom of Denmark."
     },
     {
       "id": "qf_quiz_celebrities_163",
@@ -2420,7 +2420,7 @@
     },
     {
       "id": "qf_quiz_entertainment_113",
-      "text": "Archimond is the leader of the Burning Legion.",
+      "text": "Sargeras is the leader of the Burning Legion.",
       "topicId": "entertainment",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -2430,9 +2430,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "Archimond is the leader of the Burning Legion.",
+      "claimText": "Sargeras is the leader of the Burning Legion.",
       "isReal": true,
-      "explanation": "Verified fact: Archimond is the leader of the Burning Legion."
+      "explanation": "Verified fact: Sargeras is the leader of the Burning Legion."
     },
     {
       "id": "qf_quiz_entertainment_114",
@@ -3519,7 +3519,7 @@
     },
     {
       "id": "qf_quiz_general_222",
-      "text": "The largest sea in the world is South China Sea.",
+      "text": "The largest sea in the world by area is the Philippine Sea.",
       "topicId": "general",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -3529,13 +3529,13 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "The largest sea in the world is Bering Sea.",
+      "claimText": "The largest sea in the world by area is the Bering Sea.",
       "isReal": false,
-      "explanation": "Myth! The largest sea in the world is South China Sea."
+      "explanation": "Myth! The largest sea in the world by area is the Philippine Sea."
     },
     {
       "id": "qf_quiz_general_225",
-      "text": "Alexander Graham Bell invented the doll that says Momma.",
+      "text": "Thomas Edison's company sold phonograph-powered talking dolls in 1890.",
       "topicId": "general",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -3545,9 +3545,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "Alexander Graham Bell invented the doll that says Momma.",
+      "claimText": "Thomas Edison's company sold phonograph-powered talking dolls in 1890.",
       "isReal": true,
-      "explanation": "Verified fact: Alexander Graham Bell invented the doll that says Momma."
+      "explanation": "Verified fact: Thomas Edison's company sold phonograph-powered talking dolls in 1890."
     },
     {
       "id": "qf_quiz_general_227",
@@ -3818,7 +3818,7 @@
     },
     {
       "id": "qf_quiz_geography_10",
-      "text": "The colors of the three vertical stripes on the national flag of Spain are Red, yellow, red.",
+      "text": "The colors of the three horizontal stripes on the national flag of Spain are red, yellow, red.",
       "topicId": "geography",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -3828,9 +3828,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "The colors of the three vertical stripes on the national flag of Spain are Red, yellow, red.",
+      "claimText": "The colors of the three horizontal stripes on the national flag of Spain are red, yellow, red.",
       "isReal": true,
-      "explanation": "Verified fact: The colors of the three vertical stripes on the national flag of Spain are Red, yellow, red."
+      "explanation": "Verified fact: The colors of the three horizontal stripes on the national flag of Spain are red, yellow, red."
     },
     {
       "id": "qf_quiz_geography_17",
@@ -3882,7 +3882,7 @@
     },
     {
       "id": "qf_quiz_geography_40",
-      "text": "The official languages spoken in Madagascar are Malagasy, French and English.",
+      "text": "The official languages of Madagascar are Malagasy and French.",
       "topicId": "geography",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -3892,9 +3892,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "The official languages spoken in Madagascar are Malagasy, French and English.",
+      "claimText": "The official languages of Madagascar are Malagasy and French.",
       "isReal": true,
-      "explanation": "Verified fact: The official languages spoken in Madagascar are Malagasy, French and English."
+      "explanation": "Verified fact: The official languages of Madagascar are Malagasy and French."
     },
     {
       "id": "qf_quiz_geography_43",
@@ -4474,7 +4474,7 @@
     },
     {
       "id": "qf_quiz_geography_239",
-      "text": "Borneo is the Indonesian island that is shared by four Indonesian provinces and two other nations: the eastern half of Malaysia and the tiny oil-rich sultanate of Brunei.",
+      "text": "Borneo is the island shared by five Indonesian provinces and two other nations: the eastern half of Malaysia and the tiny oil-rich sultanate of Brunei.",
       "topicId": "geography",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -4484,9 +4484,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "Flores is the Indonesian island that is shared by four Indonesian provinces and two other nations: the eastern half of Malaysia and the tiny oil-rich sultanate of Brunei.",
+      "claimText": "Flores is the island shared by five Indonesian provinces and two other nations: the eastern half of Malaysia and the tiny oil-rich sultanate of Brunei.",
       "isReal": false,
-      "explanation": "Myth! Borneo is the Indonesian island that is shared by four Indonesian provinces and two other nations: the eastern half of Malaysia and the tiny oil-rich sultanate of Brunei."
+      "explanation": "Myth! Borneo is the island shared by five Indonesian provinces and two other nations: the eastern half of Malaysia and the tiny oil-rich sultanate of Brunei."
     },
     {
       "id": "qf_quiz_geography_244",
@@ -5093,7 +5093,7 @@
     },
     {
       "id": "qf_quiz_history_197",
-      "text": "Coco Channel introduced the pollover sweater.",
+      "text": "Coco Chanel introduced the pullover sweater.",
       "topicId": "history",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -5103,9 +5103,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "Coco Channel introduced the pollover sweater.",
+      "claimText": "Coco Chanel introduced the pullover sweater.",
       "isReal": true,
-      "explanation": "Verified fact: Coco Channel introduced the pollover sweater."
+      "explanation": "Verified fact: Coco Chanel introduced the pullover sweater."
     },
     {
       "id": "qf_quiz_history_198",
@@ -8791,7 +8791,7 @@
     },
     {
       "id": "qf_quiz_people_271",
-      "text": "Alexander Ovechkin is the player that was given the Calder Cup trophy in the 2005-2006 NHL season.",
+      "text": "Alexander Ovechkin won the Calder Memorial Trophy as the NHL's top rookie in 2005-2006.",
       "topicId": "people",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -8801,9 +8801,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "Eric Staal is the player that was given the Calder Cup trophy in the 2005-2006 NHL season.",
+      "claimText": "Sidney Crosby won the Calder Memorial Trophy as the NHL's top rookie in 2005-2006.",
       "isReal": false,
-      "explanation": "Myth! Alexander Ovechkin is the player that was given the Calder Cup trophy in the 2005-2006 NHL season."
+      "explanation": "Myth! Alexander Ovechkin won the Calder Memorial Trophy as the NHL's top rookie in 2005-2006."
     },
     {
       "id": "qf_quiz_people_274",
@@ -8983,7 +8983,7 @@
     },
     {
       "id": "qf_quiz_science-technology_64",
-      "text": "The nearest star to the Sun is Proxima Centuori.",
+      "text": "The nearest star to the Sun is Proxima Centauri.",
       "topicId": "science-technology",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -8995,7 +8995,7 @@
       "confirmedSourceUrl": "https://en.wikipedia.org",
       "claimText": "The nearest star to the Sun is Vega.",
       "isReal": false,
-      "explanation": "Myth! The nearest star to the Sun is Proxima Centuori."
+      "explanation": "Myth! The nearest star to the Sun is Proxima Centauri."
     },
     {
       "id": "qf_quiz_science-technology_66",
@@ -9645,7 +9645,7 @@
     },
     {
       "id": "qf_quiz_sports_115",
-      "text": "Ted Williams was the first Major Leaguer to get more than 160 walks in a season.",
+      "text": "Babe Ruth was the first Major Leaguer to get more than 160 walks in a season, drawing 170 in 1923.",
       "topicId": "sports",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -9657,7 +9657,7 @@
       "confirmedSourceUrl": "https://en.wikipedia.org",
       "claimText": "Barry Bonds was the first Major Leaguer to get more than 160 walks in a season.",
       "isReal": false,
-      "explanation": "Myth! Ted Williams was the first Major Leaguer to get more than 160 walks in a season."
+      "explanation": "Myth! Babe Ruth was the first Major Leaguer to get more than 160 walks in a season, drawing 170 in 1923."
     },
     {
       "id": "qf_quiz_sports_123",
@@ -9709,7 +9709,7 @@
     },
     {
       "id": "qf_quiz_sports_136",
-      "text": "The home stadium of the New York Mets is Shea Stadium.",
+      "text": "The home stadium of the New York Mets is Citi Field.",
       "topicId": "sports",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -9721,7 +9721,7 @@
       "confirmedSourceUrl": "https://en.wikipedia.org",
       "claimText": "The home stadium of the New York Mets is Fenway Park.",
       "isReal": false,
-      "explanation": "Myth! The home stadium of the New York Mets is Shea Stadium."
+      "explanation": "Myth! The home stadium of the New York Mets is Citi Field."
     },
     {
       "id": "qf_quiz_sports_141",
@@ -11566,7 +11566,7 @@
     },
     {
       "id": "qf_quiz_world_112",
-      "text": "Spindletop was the first oil well in Texas.",
+      "text": "Spindletop, a gusher struck near Beaumont in 1901, launched the Texas oil boom.",
       "topicId": "world",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -11576,9 +11576,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "Spindletop was the first oil well in Texas.",
+      "claimText": "Spindletop, a gusher struck near Beaumont in 1901, launched the Texas oil boom.",
       "isReal": true,
-      "explanation": "Verified fact: Spindletop was the first oil well in Texas."
+      "explanation": "Verified fact: Spindletop, a gusher struck near Beaumont in 1901, launched the Texas oil boom."
     },
     {
       "id": "qf_quiz_world_119",
@@ -15518,7 +15518,7 @@
     },
     {
       "id": "qf_quiz_game-show_28",
-      "text": "Queen Elizabeth is the reigning monarch of Great Britain.",
+      "text": "King Charles III is the reigning monarch of the United Kingdom.",
       "topicId": "entertainment",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -15528,9 +15528,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "Prince Paul is the reigning monarch of Great Britain.",
+      "claimText": "Prince Paul is the reigning monarch of the United Kingdom.",
       "isReal": false,
-      "explanation": "Myth! Queen Elizabeth is the reigning monarch of Great Britain."
+      "explanation": "Myth! King Charles III is the reigning monarch of the United Kingdom."
     },
     {
       "id": "qf_quiz_game-show_36",
@@ -15870,7 +15870,7 @@
     },
     {
       "id": "qf_quiz_game-show_217",
-      "text": "Essay is an optional section on the SAT standardized test.",
+      "text": "The optional essay section of the SAT was discontinued in 2021.",
       "topicId": "entertainment",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -15880,9 +15880,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "Hot yoga is an optional section on the SAT standardized test.",
+      "claimText": "The SAT essay became a mandatory section in 2021.",
       "isReal": false,
-      "explanation": "Myth! Essay is an optional section on the SAT standardized test."
+      "explanation": "Myth! The optional essay section of the SAT was discontinued in 2021."
     },
     {
       "id": "qf_quiz_game-show_218",
@@ -15966,7 +15966,7 @@
     },
     {
       "id": "qf_quiz_game-show_238",
-      "text": "The first name of Holly Willoughby's regular co-host on 'This Morning' is Phillip.",
+      "text": "Phillip Schofield was Holly Willoughby's long-time co-host on 'This Morning' until both left in 2023.",
       "topicId": "entertainment",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -15976,9 +15976,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "The first name of Holly Willoughby’s regular co-host on “This Morning” is Paul.",
+      "claimText": "Paul Schofield was Holly Willoughby's long-time co-host on 'This Morning' until both left in 2023.",
       "isReal": false,
-      "explanation": "Myth! The first name of Holly Willoughby's regular co-host on 'This Morning' is Phillip."
+      "explanation": "Myth! Phillip Schofield was Holly Willoughby's long-time co-host on 'This Morning' until both left in 2023."
     },
     {
       "id": "qf_quiz_computers-math_17",
@@ -16574,7 +16574,7 @@
     },
     {
       "id": "qf_quiz_computers-math_165",
-      "text": "The area of a circle with a diameter of 20 inches if π= 3.1415 is 314.15 Inches.",
+      "text": "The area of a circle with a diameter of 20 inches, using π = 3.1415, is 314.15 square inches.",
       "topicId": "science-technology",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -16584,9 +16584,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "The area of a circle with a diameter of 20 inches if π= 3.1415 is 3141.5 Inches.",
+      "claimText": "The area of a circle with a diameter of 20 inches, using π = 3.1415, is 3141.5 square inches.",
       "isReal": false,
-      "explanation": "Myth! The area of a circle with a diameter of 20 inches if π= 3.1415 is 314.15 Inches."
+      "explanation": "Myth! The area of a circle with a diameter of 20 inches, using π = 3.1415, is 314.15 square inches."
     },
     {
       "id": "qf_quiz_computers-math_167",
@@ -16622,7 +16622,7 @@
     },
     {
       "id": "qf_quiz_computers-math_175",
-      "text": "The equation for the area of a sphere is (4/3)πr^3.",
+      "text": "The surface area of a sphere is 4πr².",
       "topicId": "science-technology",
       "suggestedSourceName": "Wikipedia",
       "suggestedSourceUrl": "https://en.wikipedia.org",
@@ -16632,9 +16632,9 @@
       "status": "ACTIVE",
       "confirmedSourceName": "Wikipedia",
       "confirmedSourceUrl": "https://en.wikipedia.org",
-      "claimText": "The equation for the area of a sphere is (4/3)πr^3.",
+      "claimText": "The surface area of a sphere is 4πr².",
       "isReal": true,
-      "explanation": "Verified fact: The equation for the area of a sphere is (4/3)πr^3."
+      "explanation": "Verified fact: The surface area of a sphere is 4πr²."
     },
     {
       "id": "qf_quiz_computers-math_185",
@@ -19054,7 +19054,7 @@
     },
     {
       "id": "trend_ent_1",
-      "text": "To film the zero-gravity and nuclear test sequences in 'Oppenheimer' without CGI, production designers built miniature macro-scale chemical reactions using ping-pong balls, paint, flares, and metallic dust spun at high speeds.",
+      "text": "Christopher Nolan's team filmed the Trinity test and the abstract physics imagery in 'Oppenheimer' without CGI, using practical effects such as small-scale chemical reactions and explosions shot on set.",
       "topicId": "trending",
       "suggestedSourceName": "Academy of Motion Picture Arts and Sciences",
       "suggestedSourceUrl": "https://en.wikipedia.org/wiki/Oppenheimer_(film)",
@@ -21278,7 +21278,7 @@
     },
     {
       "id": "ai_trend_deepseek_v3",
-      "text": "DeepSeek’s V3 mixture-of-experts model (around late 2025) demonstrated that a 671B-parameter system could match strong frontier performance while activating far fewer parameters per token and training at dramatically lower cost.",
+      "text": "DeepSeek’s V3 mixture-of-experts model (released in December 2024) demonstrated that a 671B-parameter system could match strong frontier performance while activating far fewer parameters per token and training at dramatically lower cost.",
       "topicId": "trending",
       "suggestedSourceName": "DeepSeek technical reports",
       "suggestedSourceUrl": "https://www.machinebrief.com/news/10-ai-research-papers-actually-mattered-last-12-months",
