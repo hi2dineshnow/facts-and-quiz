@@ -1,5 +1,5 @@
 {
-  "contentVersion": 9,
+  "contentVersion": 10,
   "attribution": "Questions adapted from Open Trivia Database (opentdb.com) under CC BY-SA 4.0 and curated by the Curio Editorial Team.",
   "categories": [
     {
@@ -80990,7 +80990,7 @@
         "16"
       ],
       "correctIndex": 0,
-      "explanation": "1 is the number of dimensions of a line.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81007,7 +81007,7 @@
         "13"
       ],
       "correctIndex": 1,
-      "explanation": "3 is the number of spatial dimensions we perceive our universe to have.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81024,7 +81024,7 @@
         "4"
       ],
       "correctIndex": 1,
-      "explanation": "6 is the number of orders of the Mishnah.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81041,7 +81041,7 @@
         "7"
       ],
       "correctIndex": 3,
-      "explanation": "7 is the number of days in a week.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81058,7 +81058,7 @@
         "18"
       ],
       "correctIndex": 2,
-      "explanation": "8 is the number of bits in a byte.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81075,7 +81075,7 @@
         "10"
       ],
       "correctIndex": 1,
-      "explanation": "9 is the number of innings in a regulation, non-tied game of baseball.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81092,7 +81092,7 @@
         "23"
       ],
       "correctIndex": 0,
-      "explanation": "10 is the average thickness of the Arctic ice sheet in feet.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81109,7 +81109,7 @@
         "9"
       ],
       "correctIndex": 0,
-      "explanation": "11 is the number of pounds one gallon of pure maple syrup weighs.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81126,7 +81126,7 @@
         "2"
       ],
       "correctIndex": 2,
-      "explanation": "12 is the number of months in a year.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81143,7 +81143,7 @@
         "9"
       ],
       "correctIndex": 2,
-      "explanation": "13 is the number of steps in the gallows.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81160,7 +81160,7 @@
         "28"
       ],
       "correctIndex": 1,
-      "explanation": "14 is the minimum age at which one can work in many U.S states.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81177,7 +81177,7 @@
         "28"
       ],
       "correctIndex": 2,
-      "explanation": "15 is the number of times an average person laughs a day.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81194,7 +81194,7 @@
         "21"
       ],
       "correctIndex": 0,
-      "explanation": "16 is the minimum age for getting an adult job in most states and provinces across the globe.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81211,7 +81211,7 @@
         "24"
       ],
       "correctIndex": 2,
-      "explanation": "17 is the maximum number of strokes of a Chinese radical.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81228,7 +81228,7 @@
         "33"
       ],
       "correctIndex": 1,
-      "explanation": "20 is the number of baby teeth in the deciduous dentition.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81245,7 +81245,7 @@
         "23"
       ],
       "correctIndex": 3,
-      "explanation": "23 is the number of chromosomes normal human sex cells have.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81262,9 +81262,9 @@
         "15"
       ],
       "correctIndex": 1,
-      "explanation": "24 is the number of a car in the NASCAR Sprint Cup Series owned by Hendrick Motorsports.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"26\", \"24\", \"22\", \"15\"]"
@@ -81279,7 +81279,7 @@
         "19"
       ],
       "correctIndex": 2,
-      "explanation": "26 is the number of Cantons of Switzerland.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81296,7 +81296,7 @@
         "24"
       ],
       "correctIndex": 2,
-      "explanation": "28 is the number of days the curing time of concrete is classically considered to be.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81313,7 +81313,7 @@
         "29"
       ],
       "correctIndex": 3,
-      "explanation": "29 is the number of cups of milk needed to make one pound of butter.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81330,7 +81330,7 @@
         "23"
       ],
       "correctIndex": 2,
-      "explanation": "30 is the number of variations in Bach's Goldberg Variations.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81347,7 +81347,7 @@
         "34"
       ],
       "correctIndex": 1,
-      "explanation": "31 is the number of days in the months January, March, May, July, August, October and December.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81364,7 +81364,7 @@
         "22"
       ],
       "correctIndex": 1,
-      "explanation": "32 is the number of completed, numbered piano sonatas by Ludwig van Beethoven.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81381,7 +81381,7 @@
         "40"
       ],
       "correctIndex": 1,
-      "explanation": "35 is the minimum age of candidates for election to the United States Presidency.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81398,7 +81398,7 @@
         "28"
       ],
       "correctIndex": 1,
-      "explanation": "36 is the number of vehicles that run in each race of NASCAR's Camping World Truck Series.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81415,7 +81415,7 @@
         "48"
       ],
       "correctIndex": 2,
-      "explanation": "39 is the number of mentions of work or labor in the Torah.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81432,7 +81432,7 @@
         "40"
       ],
       "correctIndex": 3,
-      "explanation": "40 is the number of points that a Premier League team needs to avoid relegation in soccer.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81449,7 +81449,7 @@
         "29"
       ],
       "correctIndex": 1,
-      "explanation": "41 is the number of times Paul McCartney sings the phrase \"Let It Be\" in the Beatles' hit Let It Be.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81466,7 +81466,7 @@
         "44"
       ],
       "correctIndex": 3,
-      "explanation": "44 is the percentage of kids who watch television before they go to sleep in the US.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81483,9 +81483,9 @@
         "37"
       ],
       "correctIndex": 2,
-      "explanation": "46 is the number of mountains in the 46 peaks of the Adirondack mountain range.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"58\", \"36\", \"46\", \"37\"]"
@@ -81500,7 +81500,7 @@
         "38"
       ],
       "correctIndex": 0,
-      "explanation": "48 is the number of Ptolemaic constellations.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81517,7 +81517,7 @@
         "48"
       ],
       "correctIndex": 0,
-      "explanation": "49 is the number of days and night Siddhartha Gautama spent meditating as a holy man.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81534,7 +81534,7 @@
         "55"
       ],
       "correctIndex": 2,
-      "explanation": "50 is the number of states in the United States of America.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81551,7 +81551,7 @@
         "51"
       ],
       "correctIndex": 3,
-      "explanation": "51 is the atomic number of antimony.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81568,7 +81568,7 @@
         "44"
       ],
       "correctIndex": 2,
-      "explanation": "53 is the maximum number of players on a National Football League roster.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81585,7 +81585,7 @@
         "57"
       ],
       "correctIndex": 0,
-      "explanation": "54 is the number of milligrams of caffeine Mountain Dew has.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81602,7 +81602,7 @@
         "56"
       ],
       "correctIndex": 0,
-      "explanation": "55 is the number of Delegates who attended the United States Constitutional Convention in 1787.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81619,7 +81619,7 @@
         "61"
       ],
       "correctIndex": 1,
-      "explanation": "60 is the number of seconds in a minute.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81636,7 +81636,7 @@
         "62"
       ],
       "correctIndex": 3,
-      "explanation": "62 is the atomic number of samarium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81653,7 +81653,7 @@
         "63"
       ],
       "correctIndex": 3,
-      "explanation": "63 is the atomic number of europium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81670,7 +81670,7 @@
         "64"
       ],
       "correctIndex": 3,
-      "explanation": "64 is the number of Braille characters in the old 6-dot system.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81687,7 +81687,7 @@
         "66"
       ],
       "correctIndex": 3,
-      "explanation": "66 is the total number of chapters in the Bible book of Isaiah.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81704,7 +81704,7 @@
         "69"
       ],
       "correctIndex": 0,
-      "explanation": "72 is the percentage of water of which the human body is composed.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81721,7 +81721,7 @@
         "59"
       ],
       "correctIndex": 2,
-      "explanation": "74 is the atomic number of tungsten.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81738,7 +81738,7 @@
         "63"
       ],
       "correctIndex": 0,
-      "explanation": "75 is the age limit for Canadian senators.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81755,7 +81755,7 @@
         "76"
       ],
       "correctIndex": 3,
-      "explanation": "76 is the atomic number of osmium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81772,7 +81772,7 @@
         "90"
       ],
       "correctIndex": 1,
-      "explanation": "77 is the atomic number of iridium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81789,7 +81789,7 @@
         "79"
       ],
       "correctIndex": 0,
-      "explanation": "78 is the total number of gifts in the song The Twelve Days of Christmas.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81806,7 +81806,7 @@
         "90"
       ],
       "correctIndex": 0,
-      "explanation": "82 is the number of games in an NBA or NHL regular season.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81823,7 +81823,7 @@
         "81"
       ],
       "correctIndex": 1,
-      "explanation": "83 is the atomic number of bismuth.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81840,7 +81840,7 @@
         "85"
       ],
       "correctIndex": 3,
-      "explanation": "85 is the atomic number of astatine.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81857,7 +81857,7 @@
         "89"
       ],
       "correctIndex": 3,
-      "explanation": "89 is the atomic number of actinium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81874,7 +81874,7 @@
         "78"
       ],
       "correctIndex": 2,
-      "explanation": "92 is the number of stories in the Xujiahui Tower proposed to be built in Shanghai, China.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81891,7 +81891,7 @@
         "106"
       ],
       "correctIndex": 0,
-      "explanation": "93 is the atomic number of neptunium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81908,7 +81908,7 @@
         "94"
       ],
       "correctIndex": 3,
-      "explanation": "94 is the atomic number of plutonium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81925,7 +81925,7 @@
         "83"
       ],
       "correctIndex": 2,
-      "explanation": "95 is the atomic number of americium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81942,7 +81942,7 @@
         "96"
       ],
       "correctIndex": 2,
-      "explanation": "97 is the atomic number of berkelium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81959,7 +81959,7 @@
         "102"
       ],
       "correctIndex": 3,
-      "explanation": "102 is the atomic number of nobelium, an actinide.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81976,7 +81976,7 @@
         "89"
       ],
       "correctIndex": 0,
-      "explanation": "103 is the atomic number of lawrencium, an actinide.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -81993,7 +81993,7 @@
         "100"
       ],
       "correctIndex": 2,
-      "explanation": "104 is the number of guns on Admiral Horatio Nelson's flagship HMS Victory.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82010,7 +82010,7 @@
         "105"
       ],
       "correctIndex": 3,
-      "explanation": "105 is the atomic number of hahnium, also known as dubnium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82027,7 +82027,7 @@
         "116"
       ],
       "correctIndex": 1,
-      "explanation": "108 is the atomic number of hassium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82044,7 +82044,7 @@
         "124"
       ],
       "correctIndex": 0,
-      "explanation": "109 is the atomic number of meitnerium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82061,7 +82061,7 @@
         "96"
       ],
       "correctIndex": 1,
-      "explanation": "110 is the atomic number of darmstadtium.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82078,9 +82078,9 @@
         "106"
       ],
       "correctIndex": 1,
-      "explanation": "115 is the atomic number of an element temporarily called ununpentium.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"108\", \"115\", \"100\", \"106\"]"
@@ -82095,7 +82095,7 @@
         "118"
       ],
       "correctIndex": 3,
-      "explanation": "118 is the number of ridges a U.S. dime has around its edge.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82112,7 +82112,7 @@
         "128"
       ],
       "correctIndex": 1,
-      "explanation": "125 is years in a quasquicentennial.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82129,9 +82129,9 @@
         "118"
       ],
       "correctIndex": 1,
-      "explanation": "126 is the atomic number of unbihexium, an element that has not yet been discovered.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"122\", \"126\", \"129\", \"118\"]"
@@ -82146,9 +82146,9 @@
         "112"
       ],
       "correctIndex": 1,
-      "explanation": "127 is the atomic number of Unbiseptium, an element that has not yet been discovered.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"113\", \"127\", \"119\", \"112\"]"
@@ -82163,7 +82163,7 @@
         "131"
       ],
       "correctIndex": 2,
-      "explanation": "132 is the number of columns of a Line printer printing in landscape mode on 14-inch paper.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82180,7 +82180,7 @@
         "137"
       ],
       "correctIndex": 0,
-      "explanation": "134 is the number of episodes in the TV series Hawaiian Eye that ran on ABC from 1959 to 1963.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82197,7 +82197,7 @@
         "135"
       ],
       "correctIndex": 3,
-      "explanation": "135 is the height of the World's tallest thermometer in feet located in Baker, California.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82214,9 +82214,9 @@
         "125"
       ],
       "correctIndex": 1,
-      "explanation": "138 is the atomic number of Untrioctium, a temporary chemical element.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"148\", \"138\", \"147\", \"125\"]"
@@ -82231,7 +82231,7 @@
         "151"
       ],
       "correctIndex": 0,
-      "explanation": "139 is the number of law enforcement officers killed in the line of duty in 1998.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82248,9 +82248,9 @@
         "142"
       ],
       "correctIndex": 3,
-      "explanation": "142 is the number of home-based business ideas included in the 142 Now packet.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"132\", \"143\", \"145\", \"142\"]"
@@ -82265,7 +82265,7 @@
         "130"
       ],
       "correctIndex": 0,
-      "explanation": "143 is the number of milligrams of caffeine in AMP Energy.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82282,7 +82282,7 @@
         "148"
       ],
       "correctIndex": 2,
-      "explanation": "144 is the number of square inches in a square foot.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82299,9 +82299,9 @@
         "145"
       ],
       "correctIndex": 3,
-      "explanation": "145 is the atomic number of Unquadpentium.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"138\", \"137\", \"151\", \"145\"]"
@@ -82316,7 +82316,7 @@
         "142"
       ],
       "correctIndex": 1,
-      "explanation": "148 is the number of episodes of the TV series The Fresh Prince of Bel-Air on NBC from 1990 to 1996.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82333,9 +82333,9 @@
         "134"
       ],
       "correctIndex": 0,
-      "explanation": "149 is the number of legal proceedings against 149 communists in Estonia in 1924.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"149\", \"164\", \"144\", \"134\"]"
@@ -82350,7 +82350,7 @@
         "142"
       ],
       "correctIndex": 2,
-      "explanation": "150 is the number of estimated distinct phonemes in the Taa language.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82367,7 +82367,7 @@
         "152"
       ],
       "correctIndex": 3,
-      "explanation": "152 is the number of diapers solder in a Pampers Swaddlers pack.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82384,7 +82384,7 @@
         "155"
       ],
       "correctIndex": 3,
-      "explanation": "155 is the number of performances Ivanhoe, the romantic opera that opened in January 31, 1891, ran for.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82401,7 +82401,7 @@
         "156"
       ],
       "correctIndex": 3,
-      "explanation": "156 is the number of strikes a clock will strike in the course of a day.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82418,7 +82418,7 @@
         "150"
       ],
       "correctIndex": 1,
-      "explanation": "158 is the number of verses of the national anthem of Greece.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82435,7 +82435,7 @@
         "152"
       ],
       "correctIndex": 0,
-      "explanation": "159 is the number of counties in the state of Georgia.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82452,7 +82452,7 @@
         "169"
       ],
       "correctIndex": 0,
-      "explanation": "160 is the number of characters permitted in a standard short message service in Australia and Europe.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82469,9 +82469,9 @@
         "174"
       ],
       "correctIndex": 2,
-      "explanation": "161 is the atomic number of an element temporarily called Unhexunium.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"173\", \"156\", \"161\", \"174\"]"
@@ -82486,9 +82486,9 @@
         "157"
       ],
       "correctIndex": 2,
-      "explanation": "163 is the atomic number of an element temporarily called Unhextrium.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"171\", \"154\", \"163\", \"157\"]"
@@ -82503,7 +82503,7 @@
         "156"
       ],
       "correctIndex": 1,
-      "explanation": "166 is the number of points the Dow Jones Industrials fell on June 24, 2005.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82520,7 +82520,7 @@
         "173"
       ],
       "correctIndex": 2,
-      "explanation": "167 is the number of volcanoes in Indonesia.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82537,7 +82537,7 @@
         "171"
       ],
       "correctIndex": 0,
-      "explanation": "168 is the number of hours in a week, or 7 x 24 hours.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82554,9 +82554,9 @@
         "161"
       ],
       "correctIndex": 2,
-      "explanation": "171 is the atomic number of an element called Ununseptunium.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"163\", \"173\", \"171\", \"161\"]"
@@ -82571,7 +82571,7 @@
         "185"
       ],
       "correctIndex": 1,
-      "explanation": "172 is the temperature in Farenheit at which alcohol boils.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82588,7 +82588,7 @@
         "182"
       ],
       "correctIndex": 1,
-      "explanation": "176 is the number of verses in the longest chapter in the Bible, Psalm 119.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82605,9 +82605,9 @@
         "180"
       ],
       "correctIndex": 3,
-      "explanation": "180 is a number that in an astrological aspect is considered to be negative in influence.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"189\", \"185\", \"174\", \"180\"]"
@@ -82622,9 +82622,9 @@
         "194"
       ],
       "correctIndex": 2,
-      "explanation": "182 is the atomic number of an element temporarily called Unoctbium.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"176\", \"185\", \"182\", \"194\"]"
@@ -82639,9 +82639,9 @@
         "193"
       ],
       "correctIndex": 0,
-      "explanation": "186 is the length of the Judgment at Nuremberg measured in 186 minutes.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"186\", \"198\", \"197\", \"193\"]"
@@ -82656,7 +82656,7 @@
         "172"
       ],
       "correctIndex": 0,
-      "explanation": "187 is the number of the California Penal Code section describing murder.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82673,9 +82673,9 @@
         "194"
       ],
       "correctIndex": 2,
-      "explanation": "189 is the atomic number of an element temporarily called Unoctennium.",
+      "explanation": "",
       "verified": true,
-      "status": "ACTIVE",
+      "status": "RETIRED",
       "categoryId": "brain-teasers",
       "topicId": "brain-teasers",
       "optionsJson": "[\"203\", \"186\", \"189\", \"194\"]"
@@ -82690,7 +82690,7 @@
         "192"
       ],
       "correctIndex": 3,
-      "explanation": "192 is the number of days it took to form the 2007 Belgian government.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82707,7 +82707,7 @@
         "197"
       ],
       "correctIndex": 1,
-      "explanation": "196 is the length in miles of the Adda River in Italy.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82724,7 +82724,7 @@
         "201"
       ],
       "correctIndex": 2,
-      "explanation": "199 is the number of points by Mario Lemieux in the 1988-1989 NHL season.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82741,7 +82741,7 @@
         "216"
       ],
       "correctIndex": 3,
-      "explanation": "216 is the number of stitches on a baseball.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82758,7 +82758,7 @@
         "227"
       ],
       "correctIndex": 3,
-      "explanation": "227 is the number of days Pi Patel was at sea in the popular novel, Life of Pi.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82775,7 +82775,7 @@
         "231"
       ],
       "correctIndex": 3,
-      "explanation": "231 is the number of cubic inches in a U.S. liquid gallon.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82792,7 +82792,7 @@
         "249"
       ],
       "correctIndex": 0,
-      "explanation": "239 is the number of chapters in the Book of Mormon.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82809,7 +82809,7 @@
         "236"
       ],
       "correctIndex": 0,
-      "explanation": "248 is the number of organs in the human body as traditionally depicted.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82826,7 +82826,7 @@
         "250"
       ],
       "correctIndex": 3,
-      "explanation": "250 is the number of Pokémon originally available in Pokémon Gold and Silver before Celebi was added.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82843,7 +82843,7 @@
         "255"
       ],
       "correctIndex": 2,
-      "explanation": "256 is the number of NFL regular season football games.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82860,7 +82860,7 @@
         "261"
       ],
       "correctIndex": 3,
-      "explanation": "261 is number of possible unfolded tesseract patterns.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82877,7 +82877,7 @@
         "254"
       ],
       "correctIndex": 1,
-      "explanation": "267 is the number of groups of order 64.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82894,7 +82894,7 @@
         "270"
       ],
       "correctIndex": 3,
-      "explanation": "270 is the average number of days in human pregnancy.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82911,7 +82911,7 @@
         "285"
       ],
       "correctIndex": 3,
-      "explanation": "285 is the total number of Rules of Acquisition in Star Trek.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82928,7 +82928,7 @@
         "298"
       ],
       "correctIndex": 2,
-      "explanation": "300 is the number of different beverages the Coca Cola company offers.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "brain-teasers",
@@ -82941,7 +82941,8 @@
       "options": [
         "Spyin’ Gosling",
         "Spyler the Creator",
-        "James Bond"
+        "James Bond",
+        "USA"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -82956,7 +82957,8 @@
       "options": [
         "USA",
         "Canada",
-        "France"
+        "France",
+        "CFO"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -82971,7 +82973,8 @@
       "options": [
         "CFO",
         "CIO",
-        "CEO"
+        "CEO",
+        "Air tickler"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -82986,7 +82989,8 @@
       "options": [
         "Air tickler",
         "Cloud sniffer",
-        "Skyscraper"
+        "Skyscraper",
+        "Hydraulics"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83001,7 +83005,8 @@
       "options": [
         "Hydraulics",
         "Gears",
-        "Springs"
+        "Springs",
+        "Libya"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83016,7 +83021,8 @@
       "options": [
         "Libya",
         "Venezuela",
-        "Panama"
+        "Panama",
+        "Charlotte"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83031,7 +83037,8 @@
       "options": [
         "Charlotte",
         "New Orleans",
-        "Memphis"
+        "Memphis",
+        "Dinosaur"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83046,7 +83053,8 @@
       "options": [
         "Dinosaur",
         "Hunk of cheese",
-        "Empire State Building"
+        "Empire State Building",
+        "Montana"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83061,7 +83069,8 @@
       "options": [
         "Montana",
         "Iowa",
-        "Florida"
+        "Florida",
+        "Sweden"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83076,7 +83085,8 @@
       "options": [
         "Australia",
         "Sweden",
-        "Canada"
+        "Canada",
+        "Foaming Sea"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83091,7 +83101,8 @@
       "options": [
         "Sunset Sea",
         "Foaming Sea",
-        "Sea of Waves"
+        "Sea of Waves",
+        "Ahoy"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83106,7 +83117,8 @@
       "options": [
         "Ahoy",
         "Mayday",
-        "SOS"
+        "SOS",
+        "Fahrenheit 451"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83121,7 +83133,8 @@
       "options": [
         "The Hunger Games",
         "Fahrenheit 451",
-        "The Silver Chair"
+        "The Silver Chair",
+        "Samples"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83136,7 +83149,8 @@
       "options": [
         "Samples",
         "Morsels",
-        "Nibbles"
+        "Nibbles",
+        "Pomegranate"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83151,7 +83165,8 @@
       "options": [
         "Pomegranate",
         "Nectarine",
-        "Orange"
+        "Orange",
+        "iPhone 3G"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83166,7 +83181,8 @@
       "options": [
         "iPhone 3G",
         "First generation iPhone",
-        "iPhone 3GS"
+        "iPhone 3GS",
+        "Enchilada Thief"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83181,7 +83197,8 @@
       "options": [
         "Extra Terrestrial",
         "Enchilada Thief",
-        "Earl Torgeson"
+        "Earl Torgeson",
+        "Tattoo needle"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83196,7 +83213,8 @@
       "options": [
         "Tattoo needle",
         "Permanent marker",
-        "Pencil"
+        "Pencil",
+        "Trial without a jury"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83211,7 +83229,8 @@
       "options": [
         "Trial without a jury",
         "Public trial",
-        "Private trial"
+        "Private trial",
+        "South Pole"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83226,7 +83245,8 @@
       "options": [
         "Top of Mt. Everest",
         "South Pole",
-        "North Pole"
+        "North Pole",
+        "Birthday cake"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83241,7 +83261,8 @@
       "options": [
         "Birthday cake",
         "Nail",
-        "Thor"
+        "Thor",
+        "Tomorrow"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83256,7 +83277,8 @@
       "options": [
         "Tomorrow",
         "Morning",
-        "Last night"
+        "Last night",
+        "Strawberry"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83271,7 +83293,8 @@
       "options": [
         "Banana",
         "Strawberry",
-        "Apple"
+        "Apple",
+        "Count Basie"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83286,7 +83309,8 @@
       "options": [
         "Benny Goodman",
         "Count Basie",
-        "Duke Ellington"
+        "Duke Ellington",
+        "Nuclear chemistry"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83301,7 +83325,8 @@
       "options": [
         "Nuclear chemistry",
         "Marine biology",
-        "Linguistics"
+        "Linguistics",
+        "Massive phoenix tattoo"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83316,7 +83341,8 @@
       "options": [
         "Massive phoenix tattoo",
         "Dream",
-        "Bitcoin scam"
+        "Bitcoin scam",
+        "Defense"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83331,7 +83357,8 @@
       "options": [
         "Prosecution",
         "Defense",
-        "Judge"
+        "Judge",
+        "King Koopa"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83346,7 +83373,8 @@
       "options": [
         "King Koopa",
         "Prince Paul",
-        "Queen Elizabeth"
+        "Queen Elizabeth",
+        "Architect"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83361,7 +83389,8 @@
       "options": [
         "Singer",
         "Architect",
-        "Athlete"
+        "Athlete",
+        "Volcano"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83376,7 +83405,8 @@
       "options": [
         "Prairie",
         "Volcano",
-        "Garbage Island"
+        "Garbage Island",
+        "Levi"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83391,7 +83421,8 @@
       "options": [
         "Benjamin",
         "Levi",
-        "Simeon"
+        "Simeon",
+        "Big spender"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83406,7 +83437,8 @@
       "options": [
         "Big spender",
         "Big brother",
-        "Big time"
+        "Big time",
+        "Locusts"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83421,7 +83453,8 @@
       "options": [
         "Horses",
         "Locusts",
-        "Wiener dogs"
+        "Wiener dogs",
+        "Caffeine"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83436,7 +83469,8 @@
       "options": [
         "Caffeine",
         "Electricity",
-        "Pure charisma"
+        "Pure charisma",
+        "Blood-borne viruses"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83451,7 +83485,8 @@
       "options": [
         "Aesop's Fables",
         "Blood-borne viruses",
-        "Meteor showers"
+        "Meteor showers",
+        "Sean Combs"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83466,7 +83501,8 @@
       "options": [
         "Bryan Williams",
         "Sean Combs",
-        "Dwayne Carter"
+        "Dwayne Carter",
+        "Blocks"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83481,7 +83517,8 @@
       "options": [
         "Blocks",
         "Groups",
-        "Periods"
+        "Periods",
+        "Finland"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83496,7 +83533,8 @@
       "options": [
         "Estonia",
         "Finland",
-        "Sweden"
+        "Sweden",
+        "Cardiology"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83511,7 +83549,8 @@
       "options": [
         "Cardiology",
         "Osteology",
-        "Hematology"
+        "Hematology",
+        "Mickey Mantle"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83526,7 +83565,8 @@
       "options": [
         "Mickey Mantle",
         "Roy Campanella",
-        "Jackie Robinson"
+        "Jackie Robinson",
+        "Henry David Thoreau"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83541,7 +83581,8 @@
       "options": [
         "Henry David Thoreau",
         "Snow",
-        "Bordeaux"
+        "Bordeaux",
+        "Person's nose"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83556,7 +83597,8 @@
       "options": [
         "Person's nose",
         "Volcanoes",
-        "Garden hose"
+        "Garden hose",
+        "Strip steak"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83571,7 +83613,8 @@
       "options": [
         "Strip steak",
         "Tuna salad",
-        "Spinach"
+        "Spinach",
+        "May 5"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83586,7 +83629,8 @@
       "options": [
         "September 16",
         "May 5",
-        "March 5"
+        "March 5",
+        "Natalie Portman"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83601,7 +83645,8 @@
       "options": [
         "Natalie Portman",
         "Malia Obama",
-        "Mark Zuckerberg"
+        "Mark Zuckerberg",
+        "Square the number"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83616,7 +83661,8 @@
       "options": [
         "Divide 1 by the number",
         "Square the number",
-        "Subtract it from zero"
+        "Subtract it from zero",
+        "Charles Koch"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83631,7 +83677,8 @@
       "options": [
         "Charles Koch",
         "Michael Bloomberg",
-        "Warren Buffett"
+        "Warren Buffett",
+        "Identity theft"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83646,7 +83693,8 @@
       "options": [
         "Identity theft",
         "Tardiness",
-        "Kidnapping"
+        "Kidnapping",
+        "Unshelled peanut"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83661,7 +83709,8 @@
       "options": [
         "Planet Earth",
         "Unshelled peanut",
-        "NFL football"
+        "NFL football",
+        "Kappa"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83676,7 +83725,8 @@
       "options": [
         "Kappa",
         "Lambda",
-        "Theta"
+        "Theta",
+        "Meat thermometer"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83691,7 +83741,8 @@
       "options": [
         "Meat thermometer",
         "Spoon",
-        "Toothpick"
+        "Toothpick",
+        "Surfer Girl"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83706,7 +83757,8 @@
       "options": [
         "Surfer Girl",
         "Surf's Up",
-        "Surf City"
+        "Surf City",
+        "The Alphabet Song"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83721,7 +83773,8 @@
       "options": [
         "The Alphabet Song",
         "Baa Baa Black Sheep",
-        "Frère Jacques"
+        "Frère Jacques",
+        "Snap and line"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83736,7 +83789,8 @@
       "options": [
         "Block and tackle",
         "Snap and line",
-        "Punt and down"
+        "Punt and down",
+        "Malaysia"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83751,7 +83805,8 @@
       "options": [
         "Myanmar",
         "Malaysia",
-        "Indonesia"
+        "Indonesia",
+        "PIN number"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83766,7 +83821,8 @@
       "options": [
         "PIN number",
         "PEZ dispenser",
-        "ATM machine"
+        "ATM machine",
+        "The Killing Moon"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83781,7 +83837,8 @@
       "options": [
         "The Killing Moon",
         "How Soon Is Now?",
-        "Hungry Like the Wolf"
+        "Hungry Like the Wolf",
+        "Uvula"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83796,7 +83853,8 @@
       "options": [
         "Leg",
         "Uvula",
-        "Spleen"
+        "Spleen",
+        "University of Missouri"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83811,7 +83869,8 @@
       "options": [
         "Arizona State University",
         "University of Missouri",
-        "Brigham Young University"
+        "Brigham Young University",
+        "War Admiral"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83826,7 +83885,8 @@
       "options": [
         "War Admiral",
         "American Pharoah",
-        "Seattle Slew"
+        "Seattle Slew",
+        "Overalls"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83841,7 +83901,8 @@
       "options": [
         "Overalls",
         "Oven mitts",
-        "Pajamas"
+        "Pajamas",
+        "BioShock"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83856,7 +83917,8 @@
       "options": [
         "Portal",
         "BioShock",
-        "Minecraft"
+        "Minecraft",
+        "A la plancha"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83871,7 +83933,8 @@
       "options": [
         "A la minute",
         "A la plancha",
-        "A la carte"
+        "A la carte",
+        "Accessorize a dress"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83886,7 +83949,8 @@
       "options": [
         "Accessorize a dress",
         "Kern a font",
-        "Punctuate a sentence"
+        "Punctuate a sentence",
+        "Koala"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83901,7 +83965,8 @@
       "options": [
         "Koala",
         "Wallaby",
-        "Capybara"
+        "Capybara",
+        "Iota"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83916,7 +83981,8 @@
       "options": [
         "Skosh",
         "Iota",
-        "Bit"
+        "Bit",
+        "Antarctica"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83931,7 +83997,8 @@
       "options": [
         "Antarctica",
         "Hawaii",
-        "Siberia"
+        "Siberia",
+        "Gone with the Wind"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -83946,7 +84013,8 @@
       "options": [
         "Gone with the Wind",
         "Toy Story 2",
-        "Toy Story"
+        "Toy Story",
+        "Supsert"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -83961,7 +84029,8 @@
       "options": [
         "Brunch",
         "Supsert",
-        "Linner"
+        "Linner",
+        "6 misunderstood 7's text"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83976,7 +84045,8 @@
       "options": [
         "Because 7 ate 9",
         "6 misunderstood 7's text",
-        "6 owes 7 money"
+        "6 owes 7 money",
+        "Peach mascot"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -83991,7 +84061,8 @@
       "options": [
         "Skeleton",
         "Peach mascot",
-        "Male cheerleaders"
+        "Male cheerleaders",
+        "Novgorod"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84006,7 +84077,8 @@
       "options": [
         "Novgorod",
         "Iberia",
-        "Albion"
+        "Albion",
+        "Rainbow"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84021,7 +84093,8 @@
       "options": [
         "Rainbow",
         "Counter",
-        "Transom"
+        "Transom",
+        "Tuxedo"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84036,7 +84109,8 @@
       "options": [
         "Tuxedo",
         "Calico",
-        "Tabby"
+        "Tabby",
+        "Goose's social media"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84051,7 +84125,8 @@
       "options": [
         "Goose's social media",
         "People of Wakanda",
-        "Gander"
+        "Gander",
+        "Self-driving par"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84066,7 +84141,8 @@
       "options": [
         "Hole in one",
         "Self-driving par",
-        "Golfy surprise"
+        "Golfy surprise",
+        "Michelle Kwan"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84081,7 +84157,8 @@
       "options": [
         "Brian Boitano",
         "Michelle Kwan",
-        "Kristi Yamaguchi"
+        "Kristi Yamaguchi",
+        "I Was So Mad"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84096,7 +84173,8 @@
       "options": [
         "I Was So Mad",
         "My Summer Vacation",
-        "Just a Mess"
+        "Just a Mess",
+        "Pennsylvania"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84111,7 +84189,8 @@
       "options": [
         "Pennsylvania",
         "Public library",
-        "Movie theater"
+        "Movie theater",
+        "Barbara Corcoran"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84126,7 +84205,8 @@
       "options": [
         "Barbara Corcoran",
         "Daymond John",
-        "Kevin O’Leary"
+        "Kevin O’Leary",
+        "Bicycling"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84141,7 +84221,8 @@
       "options": [
         "Archery",
         "Bicycling",
-        "Gardening"
+        "Gardening",
+        "Audrey Hepburn's profile"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84156,7 +84237,8 @@
       "options": [
         "Audrey Hepburn's profile",
         "Eiffel Tower",
-        "Chastity belts"
+        "Chastity belts",
+        "Typhoon"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84171,7 +84253,8 @@
       "options": [
         "Typhoon",
         "Emerald",
-        "Habanero"
+        "Habanero",
+        "Charleston"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84186,7 +84269,8 @@
       "options": [
         "Charleston",
         "Savannah",
-        "Atlanta"
+        "Atlanta",
+        "Battlefield"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84201,7 +84285,8 @@
       "options": [
         "Battlefield",
         "Gears of War",
-        "Call of Duty"
+        "Call of Duty",
+        "The Sorcerer’s Stone"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84216,7 +84301,8 @@
       "options": [
         "The Sorcerer’s Stone",
         "Fellowship of the Ring",
-        "Genesis"
+        "Genesis",
+        "Geneva"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84231,7 +84317,8 @@
       "options": [
         "Geneva",
         "Athens",
-        "Oslo"
+        "Oslo",
+        "Bea / Dorothy"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84246,7 +84333,8 @@
       "options": [
         "Bea / Dorothy",
         "Rue / Blanche",
-        "Betty / Sophia"
+        "Betty / Sophia",
+        "Dessert"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84261,7 +84349,8 @@
       "options": [
         "Dessert",
         "Appetizers",
-        "Entrée"
+        "Entrée",
+        "Bottle"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84276,7 +84365,8 @@
       "options": [
         "Turtle",
         "Bottle",
-        "Anchor"
+        "Anchor",
+        "Ravens"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84291,7 +84381,8 @@
       "options": [
         "Ravens",
         "Donkeys",
-        "Platypuses"
+        "Platypuses",
+        "Babylonian bazaar"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84306,7 +84397,8 @@
       "options": [
         "Babylonian bazaar",
         "Salad bar",
-        "Cattle car"
+        "Cattle car",
+        "Colonge"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84321,7 +84413,8 @@
       "options": [
         "Cologne",
         "Colonge",
-        "Colone"
+        "Colone",
+        "Messiest eater"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84336,7 +84429,8 @@
       "options": [
         "Fastest runner",
         "Messiest eater",
-        "Loudest yeller"
+        "Loudest yeller",
+        "Concrete"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84351,7 +84445,8 @@
       "options": [
         "Concrete",
         "Soil",
-        "Laundry hampers"
+        "Laundry hampers",
+        "Noob"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84366,7 +84461,8 @@
       "options": [
         "Noob",
         "Spam",
-        "Troll"
+        "Troll",
+        "Chewbacca"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84381,7 +84477,8 @@
       "options": [
         "Elmo",
         "Chewbacca",
-        "Air Bud"
+        "Air Bud",
+        "6 snaps"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84396,7 +84493,8 @@
       "options": [
         "6 snaps",
         "8 snaps",
-        "12 snaps"
+        "12 snaps",
+        "Diacritic"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84411,7 +84509,8 @@
       "options": [
         "Didactic",
         "Diacritic",
-        "Diametric"
+        "Diametric",
+        "Quiche"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84426,7 +84525,8 @@
       "options": [
         "Quiche",
         "Meringue",
-        "Fondue"
+        "Fondue",
+        "Mont Blanc, France"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84441,7 +84541,8 @@
       "options": [
         "Mont Blanc, France",
         "Monte Rosa, Switzerland",
-        "Pico Turquino, Cuba"
+        "Pico Turquino, Cuba",
+        "Mutation"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84456,7 +84557,8 @@
       "options": [
         "Mutation",
         "Fermentation",
-        "Photosynthesis"
+        "Photosynthesis",
+        "Mongolia"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84471,7 +84573,8 @@
       "options": [
         "Mongolia",
         "Sweden",
-        "Brazil"
+        "Brazil",
+        "Rolling Stones"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84486,7 +84589,8 @@
       "options": [
         "Rolling Stones",
         "Phish",
-        "Grateful Dead"
+        "Grateful Dead",
+        "Mumblebee"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84501,7 +84605,8 @@
       "options": [
         "Mumblebee",
         "Bumblebee",
-        "Fumblebee"
+        "Fumblebee",
+        "Lone Survivors"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84516,7 +84621,8 @@
       "options": [
         "Final Four",
         "Lone Survivors",
-        "Grand Slams"
+        "Grand Slams",
+        "Light"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84531,7 +84637,8 @@
       "options": [
         "Single",
         "Light",
-        "Direct"
+        "Direct",
+        "“Rolf”"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84546,7 +84653,8 @@
       "options": [
         "“Rolf”",
         "“Ralf”",
-        "“Rafe”"
+        "“Rafe”",
+        "Sarabande"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84561,7 +84669,8 @@
       "options": [
         "Mazurka",
         "Sarabande",
-        "Bagatelle"
+        "Bagatelle",
+        "Cryptozoology"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84576,7 +84685,8 @@
       "options": [
         "Cryptozoology",
         "Ghosts",
-        "ESP"
+        "ESP",
+        "George Lucas"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84591,7 +84701,8 @@
       "options": [
         "George Lucas",
         "Steven Spielberg",
-        "Francis Ford Coppola"
+        "Francis Ford Coppola",
+        "Bugbear"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84606,7 +84717,8 @@
       "options": [
         "Bugbear",
         "Birder",
-        "Barber"
+        "Barber",
+        "Glee"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84621,7 +84733,8 @@
       "options": [
         "Glee",
         "Grey’s Anatomy",
-        "Gossip Girl"
+        "Gossip Girl",
+        "Bluetooth object gate"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84636,7 +84749,8 @@
       "options": [
         "Web log",
         "Bluetooth object gate",
-        "Back-linking of guests"
+        "Back-linking of guests",
+        "Romeo Must Die"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84651,7 +84765,8 @@
       "options": [
         "Never Die Alone",
         "Romeo Must Die",
-        "Belly"
+        "Belly",
+        "Doo-wop"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84666,7 +84781,8 @@
       "options": [
         "Doo-wop",
         "Rap",
-        "Disco"
+        "Disco",
+        "The Fast and the Furious"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84681,7 +84797,8 @@
       "options": [
         "The Fast and the Furious",
         "Austin Powers",
-        "Shrek"
+        "Shrek",
+        "Lacrosse"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84696,7 +84813,8 @@
       "options": [
         "Lacrosse",
         "Pickleball",
-        "Handball"
+        "Handball",
+        "Tap water"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84711,7 +84829,8 @@
       "options": [
         "Tomato",
         "Tap water",
-        "Tunatini"
+        "Tunatini",
+        "Mizzen"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84726,7 +84845,8 @@
       "options": [
         "Gizzard",
         "Mizzen",
-        "Doozle"
+        "Doozle",
+        "Tokyo"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84741,7 +84861,8 @@
       "options": [
         "Tokyo",
         "London",
-        "New Delhi"
+        "New Delhi",
+        "Burned stone"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84756,7 +84877,8 @@
       "options": [
         "Burned stone",
         "Chunked stone",
-        "Hogged stone"
+        "Hogged stone",
+        "South America"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84771,7 +84893,8 @@
       "options": [
         "South America",
         "Africa",
-        "Asia"
+        "Asia",
+        "Frolicking yokels"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84786,7 +84909,8 @@
       "options": [
         "Frolicking yokels",
         "Frozen yogurt",
-        "Frog yoga"
+        "Frog yoga",
+        "Mitch Hedberg"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84801,7 +84925,8 @@
       "options": [
         "Mitch Hedberg",
         "Andy Kaufman",
-        "Jim Carrey"
+        "Jim Carrey",
+        "Pig dive"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84816,7 +84941,8 @@
       "options": [
         "Pig dive",
         "Moose dive",
-        "Swan dive"
+        "Swan dive",
+        "Europe"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84831,7 +84957,8 @@
       "options": [
         "North America",
         "Europe",
-        "South America"
+        "South America",
+        "Dhoti"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84846,7 +84973,8 @@
       "options": [
         "Dhoti",
         "Dirndl",
-        "Dashiki"
+        "Dashiki",
+        "Watercress"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84861,7 +84989,8 @@
       "options": [
         "Watercress",
         "Lettuce",
-        "Leeks"
+        "Leeks",
+        "Fancy gown"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84876,7 +85005,8 @@
       "options": [
         "Fancy gown",
         "Minions onesie",
-        "The color green"
+        "The color green",
+        "Tom Jones"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84891,7 +85021,8 @@
       "options": [
         "Tom Jones",
         "Wendie Malick",
-        "Eartha Kitt"
+        "Eartha Kitt",
+        "Shades of Blue"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84906,7 +85037,8 @@
       "options": [
         "In Living Color",
         "Shades of Blue",
-        "Baywatch"
+        "Baywatch",
+        "Technothrillers"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -84921,7 +85053,8 @@
       "options": [
         "Technothrillers",
         "Single-camera sitcoms",
-        "Tragedies"
+        "Tragedies",
+        "Vogue"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84936,7 +85069,8 @@
       "options": [
         "Vogue",
         "Harper’s Bazaar",
-        "New Yorker"
+        "New Yorker",
+        "Guar gum"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84951,7 +85085,8 @@
       "options": [
         "Guar gum",
         "Pectin",
-        "Carrageenan"
+        "Carrageenan",
+        "Don Quixote"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84966,7 +85101,8 @@
       "options": [
         "Don Quixote",
         "Madame Bovary",
-        "Dracula"
+        "Dracula",
+        "Tomato"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -84981,7 +85117,8 @@
       "options": [
         "Tomato",
         "Onion",
-        "Rice"
+        "Rice",
+        "Afghanistan"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -84996,7 +85133,8 @@
       "options": [
         "Switzerland",
         "Afghanistan",
-        "Myanmar"
+        "Myanmar",
+        "Dogs"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85011,7 +85149,8 @@
       "options": [
         "Dogs",
         "Cows",
-        "Sheep"
+        "Sheep",
+        "30 Rock"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85026,7 +85165,8 @@
       "options": [
         "Malcolm in the Middle",
         "30 Rock",
-        "The Office"
+        "The Office",
+        "Fax machine"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85041,7 +85181,8 @@
       "options": [
         "Fax machine",
         "Pacifier",
-        "Vuvuzela"
+        "Vuvuzela",
+        "In-N-Out"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85056,7 +85197,8 @@
       "options": [
         "Shake Shack",
         "In-N-Out",
-        "Five Guys"
+        "Five Guys",
+        "Gravel"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85071,7 +85213,8 @@
       "options": [
         "Grout",
         "Gravel",
-        "Grundy"
+        "Grundy",
+        "Reba McEntire"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85086,7 +85229,8 @@
       "options": [
         "Faith Hill",
         "Reba McEntire",
-        "Blake Shelton"
+        "Blake Shelton",
+        "Rum"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85101,7 +85245,8 @@
       "options": [
         "Egg yolk",
         "Rum",
-        "Crème fraîche"
+        "Crème fraîche",
+        "Blueberry muffin"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85116,7 +85261,8 @@
       "options": [
         "Blueberry muffin",
         "Tuffet",
-        "Whoopee cushion"
+        "Whoopee cushion",
+        "Ethmoid"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85131,7 +85277,8 @@
       "options": [
         "Ethmoid",
         "Trapezium",
-        "Rhomboid"
+        "Rhomboid",
+        "Semicolon"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85146,7 +85293,8 @@
       "options": [
         "Semicolon",
         "Hyphen",
-        "Colon"
+        "Colon",
+        "Hogwash"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85161,7 +85309,8 @@
       "options": [
         "Sink",
         "Hogwash",
-        "Kaleidoscope"
+        "Kaleidoscope",
+        "Credenza"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85176,7 +85325,8 @@
       "options": [
         "Credenza",
         "Macedonian",
-        "Ottoman"
+        "Ottoman",
+        "Stumbletweeds"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85191,7 +85341,8 @@
       "options": [
         "Tumbleweeds",
         "Stumbletweeds",
-        "Fumbleseeds"
+        "Fumbleseeds",
+        "On your tongue"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85206,7 +85357,8 @@
       "options": [
         "On your tongue",
         "On your arm",
-        "Over your eye"
+        "Over your eye",
+        "Cambodia"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85221,7 +85373,8 @@
       "options": [
         "Cambodia",
         "Iran",
-        "Ecuador"
+        "Ecuador",
+        "Nail polish"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85236,7 +85389,8 @@
       "options": [
         "Heat",
         "Nail polish",
-        "Peer pressure"
+        "Peer pressure",
+        "Chile"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85251,7 +85405,8 @@
       "options": [
         "Ethiopia",
         "Chile",
-        "Kenya"
+        "Kenya",
+        "Great!"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85266,7 +85421,8 @@
       "options": [
         "Great!",
         "Enough!",
-        "Pasta!"
+        "Pasta!",
+        "Red / White / Blue"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85281,7 +85437,8 @@
       "options": [
         "Red / White / Blue",
         "Rainbow",
-        "Yellow"
+        "Yellow",
+        "Rubik’s Cube"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85296,7 +85453,8 @@
       "options": [
         "Wrigley's chewing gum",
         "Rubik’s Cube",
-        "Apple IIe"
+        "Apple IIe",
+        "Togo"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85311,7 +85469,8 @@
       "options": [
         "Togo",
         "Ghana",
-        "Liberia"
+        "Liberia",
+        "Trash can-lugger"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85326,7 +85485,8 @@
       "options": [
         "Fixer-upper",
         "Trash can-lugger",
-        "Tree-plugger"
+        "Tree-plugger",
+        "T.O.A.D."
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85341,7 +85501,8 @@
       "options": [
         "T.O.A.D.",
         "C.A.T.",
-        "O.W.L."
+        "O.W.L.",
+        "American football"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85356,7 +85517,8 @@
       "options": [
         "American football",
         "Soccer",
-        "Badminton"
+        "Badminton",
+        "Seahorse"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85371,7 +85533,8 @@
       "options": [
         "Seahorse",
         "Wolf spider",
-        "Vampire bat"
+        "Vampire bat",
+        "Efficient sprinklers"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85386,7 +85549,8 @@
       "options": [
         "Efficient sprinklers",
         "Nerf Blaster rival",
-        "Heat pump"
+        "Heat pump",
+        "Walla Walla, Washington"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85401,7 +85565,8 @@
       "options": [
         "Lake Tahoe",
         "Walla Walla, Washington",
-        "Martha's Vineyard"
+        "Martha's Vineyard",
+        "Solaris"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85416,7 +85581,8 @@
       "options": [
         "Solaris",
         "Ex Machina",
-        "Event Horizon"
+        "Event Horizon",
+        "Gravity"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85431,7 +85597,8 @@
       "options": [
         "12 Monkeys",
         "Gravity",
-        "Alien"
+        "Alien",
+        "James Dean"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85446,7 +85613,8 @@
       "options": [
         "James Dean",
         "Dracula",
-        "Peter Pan"
+        "Peter Pan",
+        "Matriculation"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85461,7 +85629,8 @@
       "options": [
         "Commencement",
         "Matriculation",
-        "Initiation"
+        "Initiation",
+        "David Starkey"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85476,7 +85645,8 @@
       "options": [
         "Dan Snow",
         "David Starkey",
-        "Simon Schama"
+        "Simon Schama",
+        "Gucci"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85491,7 +85661,8 @@
       "options": [
         "Versace",
         "Gucci",
-        "Chanel"
+        "Chanel",
+        "Bat Masterson"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85506,7 +85677,8 @@
       "options": [
         "Bat Masterson",
         "Butch Cassidy",
-        "Wild Bill Hickok"
+        "Wild Bill Hickok",
+        "Perseus"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85521,7 +85693,8 @@
       "options": [
         "Perseus",
         "Rigel",
-        "Alpha Centauri"
+        "Alpha Centauri",
+        "Compass rose"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85536,7 +85709,8 @@
       "options": [
         "Compass rose",
         "The term 'America'",
-        "Circumnavigable Earth"
+        "Circumnavigable Earth",
+        "BoJack Horseman"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85551,7 +85725,8 @@
       "options": [
         "BoJack Horseman",
         "Artful Dodger",
-        "Julius Caesar"
+        "Julius Caesar",
+        "Spanish"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85566,7 +85741,8 @@
       "options": [
         "Spanish",
         "French",
-        "Portuguese"
+        "Portuguese",
+        "Gummo"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85581,7 +85757,8 @@
       "options": [
         "Jocko",
         "Gummo",
-        "Zeppo"
+        "Zeppo",
+        "Hamlet"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85596,7 +85773,8 @@
       "options": [
         "Hamlet",
         "Macbeth",
-        "Romeo and Juliet"
+        "Romeo and Juliet",
+        "Welltris"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85611,7 +85789,8 @@
       "options": [
         "Welltris",
         "Wordtris",
-        "Maptris"
+        "Maptris",
+        "Ford’s Theater"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85626,7 +85805,8 @@
       "options": [
         "Ford’s Theater",
         "Jefferson Memorial",
-        "Washington Monument"
+        "Washington Monument",
+        "Gym teacher"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85641,7 +85821,8 @@
       "options": [
         "Gym teacher",
         "Psychic",
-        "Lifeguard"
+        "Lifeguard",
+        "Six"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85656,7 +85837,8 @@
       "options": [
         "Zero",
         "Six",
-        "Three"
+        "Three",
+        "Hermès"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85671,7 +85853,8 @@
       "options": [
         "Hermès",
         "Ralph Lauren",
-        "Hugo Boss"
+        "Hugo Boss",
+        "Abbey Road"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85686,7 +85869,8 @@
       "options": [
         "Abbey Road",
         "Revolver",
-        "Magical Mystery Tour"
+        "Magical Mystery Tour",
+        "Construction worker"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85701,7 +85885,8 @@
       "options": [
         "Policeman",
         "Construction worker",
-        "Cowboy"
+        "Cowboy",
+        "The Practice"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85716,7 +85901,8 @@
       "options": [
         "The Practice",
         "The Sopranos",
-        "Rescue Me"
+        "Rescue Me",
+        "All of them"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85731,7 +85917,8 @@
       "options": [
         "Some of them",
         "All of them",
-        "None of them"
+        "None of them",
+        "Xenon"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85746,7 +85933,8 @@
       "options": [
         "Oxygen",
         "Xenon",
-        "Zinc"
+        "Zinc",
+        "Tortoise meat"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85761,7 +85949,8 @@
       "options": [
         "Calf brains",
         "Tortoise meat",
-        "Snails"
+        "Snails",
+        "Bitey Perry"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85776,7 +85965,8 @@
       "options": [
         "Bitey Perry",
         "Bat Damon",
-        "Count Dracula"
+        "Count Dracula",
+        "English Setter"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85791,7 +85981,8 @@
       "options": [
         "Scottish Terrier",
         "English Setter",
-        "Bichon Frise"
+        "Bichon Frise",
+        "Froyo"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85806,7 +85997,8 @@
       "options": [
         "Froyo",
         "Butterscotch",
-        "Jelly Bean"
+        "Jelly Bean",
+        "White quartz"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85821,7 +86013,8 @@
       "options": [
         "Narwhal tusks",
         "White quartz",
-        "Horse bones"
+        "Horse bones",
+        "India"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85836,7 +86029,8 @@
       "options": [
         "India",
         "Britain",
-        "Canada"
+        "Canada",
+        "Buzz Lightyear"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85851,7 +86045,8 @@
       "options": [
         "Buzz Lightyear",
         "Woody",
-        "Slinky Dog"
+        "Slinky Dog",
+        "Cinnamon"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85866,7 +86061,8 @@
       "options": [
         "Cinnamon",
         "Synonym",
-        "Zimmerman"
+        "Zimmerman",
+        "Carmen"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85881,7 +86077,8 @@
       "options": [
         "Carmen",
         "Don Giovanni",
-        "Tristan and Isolde"
+        "Tristan and Isolde",
+        "Cocoa"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85896,7 +86093,8 @@
       "options": [
         "Cocoa",
         "Hazelnuts",
-        "Sugar"
+        "Sugar",
+        "Ottoman"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85911,7 +86109,8 @@
       "options": [
         "Ottoman",
         "Carthaginian",
-        "Byzantine"
+        "Byzantine",
+        "Dirty Dancing"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -85926,7 +86125,8 @@
       "options": [
         "Footloose",
         "Dirty Dancing",
-        "Flashdance"
+        "Flashdance",
+        "John Locke"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85941,7 +86141,8 @@
       "options": [
         "John Locke",
         "René Descartes",
-        "Denis Diderot"
+        "Denis Diderot",
+        "George Eliot"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85956,7 +86157,8 @@
       "options": [
         "George Eliot",
         "George Orwell",
-        "George Saunders"
+        "George Saunders",
+        "Klaus Züm"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -85971,7 +86173,8 @@
       "options": [
         "Ernst Mach",
         "Klaus Züm",
-        "Hans Warp"
+        "Hans Warp",
+        "Plumber"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -85986,7 +86189,8 @@
       "options": [
         "Plumber",
         "Chef",
-        "Carpenter"
+        "Carpenter",
+        "Politician"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86001,7 +86205,8 @@
       "options": [
         "Politician",
         "Athlete",
-        "Actor"
+        "Actor",
+        "Yin and yang"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86016,7 +86221,8 @@
       "options": [
         "X / O",
         "Yin and yang",
-        "+ / -"
+        "+ / -",
+        "212 degrees F"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86031,7 +86237,8 @@
       "options": [
         "Absolute zero",
         "212 degrees F",
-        "32 degrees F"
+        "32 degrees F",
+        "Greece"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86046,7 +86253,8 @@
       "options": [
         "Belarus",
         "Greece",
-        "Egypt"
+        "Egypt",
+        "Fastening wood"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86061,7 +86269,8 @@
       "options": [
         "Pumping water",
         "Fastening wood",
-        "Preparing meat"
+        "Preparing meat",
+        "The Kinks"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86076,7 +86285,8 @@
       "options": [
         "The Kinks",
         "Pink Floyd",
-        "Led Zeppelin"
+        "Led Zeppelin",
+        "Mrs. Crassbender"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86091,7 +86301,8 @@
       "options": [
         "Miss Wormwood",
         "Mrs. Crassbender",
-        "Ms. Braithwaite"
+        "Ms. Braithwaite",
+        "Utah"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86106,7 +86317,8 @@
       "options": [
         "Utah",
         "California",
-        "Texas"
+        "Texas",
+        "Seersucker"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86121,7 +86333,8 @@
       "options": [
         "Seersucker",
         "Gingham",
-        "Tulle"
+        "Tulle",
+        "Figure skating"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86136,7 +86349,8 @@
       "options": [
         "Figure skating",
         "Luge",
-        "Speed skating"
+        "Speed skating",
+        "Elbridge Gerry"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86151,7 +86365,8 @@
       "options": [
         "Elbridge Gerry",
         "Hannibal Hamlin",
-        "Henry Wallace"
+        "Henry Wallace",
+        "Google"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86166,7 +86381,8 @@
       "options": [
         "Google",
         "Zombies",
-        "Underage hackers"
+        "Underage hackers",
+        "Laser tag"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86181,7 +86397,8 @@
       "options": [
         "Laser tag",
         "Essay",
-        "Hot yoga"
+        "Hot yoga",
+        "Potatoes"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86196,7 +86413,8 @@
       "options": [
         "Potatoes",
         "Wood",
-        "Freon"
+        "Freon",
+        "Leviticus"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86211,7 +86429,8 @@
       "options": [
         "Leviticus",
         "Ezekiel",
-        "Exodus"
+        "Exodus",
+        "France / Germany"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86226,7 +86445,8 @@
       "options": [
         "France / Germany",
         "Belgium / Netherlands",
-        "Austria / Switzerland"
+        "Austria / Switzerland",
+        "Gregorian chanting"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86241,7 +86461,8 @@
       "options": [
         "Gregorian chanting",
         "Yodeling",
-        "Opera arias"
+        "Opera arias",
+        "Spelling"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86256,7 +86477,8 @@
       "options": [
         "Spelling",
         "Arithmetic",
-        "Syntax"
+        "Syntax",
+        "Countertenor"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86271,7 +86493,8 @@
       "options": [
         "Countertenor",
         "Baritone",
-        "Sopranist"
+        "Sopranist",
+        "ATIV / Samsung"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86286,7 +86509,8 @@
       "options": [
         "ATIV / Samsung",
         "Xoom / Motorola",
-        "Streak / Toshiba"
+        "Streak / Toshiba",
+        "Penny stocks"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86301,7 +86525,8 @@
       "options": [
         "Ponzi schemes",
         "Penny stocks",
-        "Junk bonds"
+        "Junk bonds",
+        "Morehouse"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86316,7 +86541,8 @@
       "options": [
         "Morehouse",
         "Howard",
-        "Spelman"
+        "Spelman",
+        "Commedia dell’arte"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86331,7 +86557,8 @@
       "options": [
         "Commedia dell’arte",
         "Ballet",
-        "Opera"
+        "Opera",
+        "Howdah"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86346,7 +86573,8 @@
       "options": [
         "Howdah",
         "Whodah",
-        "Whydah"
+        "Whydah",
+        "Ruth Bader Ginsburg"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86361,7 +86589,8 @@
       "options": [
         "Sandra Day O’Connor",
         "Ruth Bader Ginsburg",
-        "Madeleine Albright"
+        "Madeleine Albright",
+        "Adaptation"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86376,7 +86605,8 @@
       "options": [
         "Twins",
         "Adaptation",
-        "The Parent Trap"
+        "The Parent Trap",
+        "Shoulder pad"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86391,7 +86621,8 @@
       "options": [
         "Ruffle",
         "Shoulder pad",
-        "Neck seam"
+        "Neck seam",
+        "Jon Snow"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86406,7 +86637,8 @@
       "options": [
         "Jon Snow",
         "Kenny",
-        "Darkwing Duck"
+        "Darkwing Duck",
+        "Flair"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86421,7 +86653,8 @@
       "options": [
         "Flair",
         "Spare",
-        "Cher"
+        "Cher",
+        "Turquoise"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86436,7 +86669,8 @@
       "options": [
         "Turquoise",
         "Crimson",
-        "Emerald"
+        "Emerald",
+        "Flame"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86451,7 +86685,8 @@
       "options": [
         "Flame",
         "Wasp",
-        "Scorpion"
+        "Scorpion",
+        "Fridge logic"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86466,7 +86701,8 @@
       "options": [
         "Fridge logic",
         "Continuity nod",
-        "Lampshading"
+        "Lampshading",
+        "Pete"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86481,7 +86717,8 @@
       "options": [
         "Phillip",
         "Pete",
-        "Paul"
+        "Paul",
+        "Boston Bruins"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86496,7 +86733,8 @@
       "options": [
         "Montreal Canadiens",
         "Boston Bruins",
-        "Toronto Maple Leafs"
+        "Toronto Maple Leafs",
+        "Spamalot"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86511,7 +86749,8 @@
       "options": [
         "Spamalot",
         "Pippin",
-        "Man of La Mancha"
+        "Man of La Mancha",
+        "Thursday"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86526,7 +86765,8 @@
       "options": [
         "Thursday",
         "Wednesday",
-        "Monday"
+        "Monday",
+        "Manuscrito"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86541,7 +86781,8 @@
       "options": [
         "Manuscrito",
         "Amorito",
-        "Laberinto"
+        "Laberinto",
+        "Nexcare Blister Bandages"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86556,7 +86797,8 @@
       "options": [
         "Band-Aid",
         "Nexcare Blister Bandages",
-        "Ace bandages"
+        "Ace bandages",
+        "Golden retriever"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86571,7 +86813,8 @@
       "options": [
         "Boxer",
         "Golden retriever",
-        "Collie"
+        "Collie",
+        "Luxembourg"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86586,7 +86829,8 @@
       "options": [
         "Luxembourg",
         "Liechtenstein",
-        "San Marino"
+        "San Marino",
+        "Flo Rida"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86601,7 +86845,8 @@
       "options": [
         "Flo Rida",
         "Bruno Mars",
-        "French Montana"
+        "French Montana",
+        "Work from home"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86616,7 +86861,8 @@
       "options": [
         "Work from home",
         "Walk in their sleep",
-        "Eat at their desks"
+        "Eat at their desks",
+        "Chimpanzees"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86631,7 +86877,8 @@
       "options": [
         "Chimpanzees",
         "Orangutans",
-        "Bonobos"
+        "Bonobos",
+        "Soy sauce"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86646,7 +86893,8 @@
       "options": [
         "Soy sauce",
         "Sanitizer",
-        "Red #3 food dye"
+        "Red #3 food dye",
+        "Sports section"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86661,7 +86909,8 @@
       "options": [
         "Sports section",
         "Classifieds",
-        "Weather page"
+        "Weather page",
+        "Celine Dion"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86676,7 +86925,8 @@
       "options": [
         "Madonna",
         "Celine Dion",
-        "Janet Jackson"
+        "Janet Jackson",
+        "Gourd"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86691,7 +86941,8 @@
       "options": [
         "Gourd",
         "Berry",
-        "Citrus"
+        "Citrus",
+        "Sigmund Freud"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86706,7 +86957,8 @@
       "options": [
         "Sigmund Freud",
         "Carl Jung",
-        "B.F. Skinner"
+        "B.F. Skinner",
+        "Paint"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86721,7 +86973,8 @@
       "options": [
         "Tomato",
         "Paint",
-        "Glue"
+        "Glue",
+        "Bird of paradise"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86736,7 +86989,8 @@
       "options": [
         "Bird of paradise",
         "Venus flytrap",
-        "Weeping willow"
+        "Weeping willow",
+        "Sword and shield"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86751,7 +87005,8 @@
       "options": [
         "Spiral drop",
         "Sword and shield",
-        "Slack trapeze"
+        "Slack trapeze",
+        "Hyacinth"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86766,7 +87021,8 @@
       "options": [
         "Lavender",
         "Hyacinth",
-        "Hydrangea"
+        "Hydrangea",
+        "Bee's knees"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86781,7 +87037,8 @@
       "options": [
         "Bee's knees",
         "Dog’s breakfast",
-        "Cat's pajamas"
+        "Cat's pajamas",
+        "Brunswick stew"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86796,7 +87053,8 @@
       "options": [
         "Brunswick stew",
         "Chipped mutton",
-        "Dry ribs"
+        "Dry ribs",
+        "Repeats"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86811,7 +87069,8 @@
       "options": [
         "Repeats",
         "Palindromic",
-        "Sequence"
+        "Sequence",
+        "Shuffleboard"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86826,7 +87085,8 @@
       "options": [
         "Shuffleboard",
         "Darts",
-        "Golf"
+        "Golf",
+        "Surfboard"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86841,7 +87101,8 @@
       "options": [
         "Surfboard",
         "Hovercraft",
-        "Elevator"
+        "Elevator",
+        "Electron"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86856,7 +87117,8 @@
       "options": [
         "Electron",
         "Quark",
-        "Atom"
+        "Atom",
+        "Panama City"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86871,7 +87133,8 @@
       "options": [
         "Panama City",
         "Colón",
-        "La Chorrera"
+        "La Chorrera",
+        "Superior"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86886,7 +87149,8 @@
       "options": [
         "Erie",
         "Superior",
-        "Ontario"
+        "Ontario",
+        "Decarburization"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86901,7 +87165,8 @@
       "options": [
         "Estivation",
         "Decarburization",
-        "Transolation"
+        "Transolation",
+        "Mayhem"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86916,7 +87181,8 @@
       "options": [
         "Mayhem",
         "Mirth",
-        "Music"
+        "Music",
+        "Illinois"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86931,7 +87197,8 @@
       "options": [
         "Wisconsin",
         "Illinois",
-        "Iowa"
+        "Iowa",
+        "At a museum"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -86946,7 +87213,8 @@
       "options": [
         "At a museum",
         "In a restaurant",
-        "On an airplane"
+        "On an airplane",
+        "Mise-en-scène"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86961,7 +87229,8 @@
       "options": [
         "Mise-en-scène",
         "Mise-en-place",
-        "Mise-en-chine"
+        "Mise-en-chine",
+        "ShamWow"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -86976,7 +87245,8 @@
       "options": [
         "ShamWow",
         "Champagne",
-        "Shampoo"
+        "Shampoo",
+        "Maine"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -86991,7 +87261,8 @@
       "options": [
         "Maine",
         "Iowa",
-        "Indiana"
+        "Indiana",
+        "Pride and Prejudice"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87006,7 +87277,8 @@
       "options": [
         "Pride and Prejudice",
         "Ulysses",
-        "Little Women"
+        "Little Women",
+        "Academic"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87021,7 +87293,8 @@
       "options": [
         "Academic",
         "Amateur",
-        "Athletic"
+        "Athletic",
+        "Brian Eno"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87036,7 +87309,8 @@
       "options": [
         "Berry Gordy",
         "Brian Eno",
-        "Jeff Lynne"
+        "Jeff Lynne",
+        "Lego"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -87051,7 +87325,8 @@
       "options": [
         "Etch A Sketch",
         "Lego",
-        "Slinky"
+        "Slinky",
+        "Lolita"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -87066,7 +87341,8 @@
       "options": [
         "Lolita",
         "On the Road",
-        "Brave New World"
+        "Brave New World",
+        "Moonlight"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87081,7 +87357,8 @@
       "options": [
         "Moonlight",
         "Being John Malkovich",
-        "Jaws"
+        "Jaws",
+        "Hominine"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87096,7 +87373,8 @@
       "options": [
         "Hominine",
         "Equine",
-        "Synthetic"
+        "Synthetic",
+        "Hefe"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87111,7 +87389,8 @@
       "options": [
         "X-Pro II",
         "Hefe",
-        "Nashville"
+        "Nashville",
+        "Black"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -87126,7 +87405,8 @@
       "options": [
         "Yellow",
         "Black",
-        "Green"
+        "Green",
+        "Excessive PDA"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -87141,7 +87421,8 @@
       "options": [
         "Excessive PDA",
         "Bank robbery",
-        "Destination wedding"
+        "Destination wedding",
+        "Dog"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87156,7 +87437,8 @@
       "options": [
         "Dog",
         "Chicken",
-        "Mouse"
+        "Mouse",
+        "Bouffant"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87171,7 +87453,8 @@
       "options": [
         "Bouffant",
         "Buzzcut",
-        "Beehive"
+        "Beehive",
+        "Talking Heads"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87186,7 +87469,8 @@
       "options": [
         "Simple Minds",
         "Talking Heads",
-        "Sonic Youth"
+        "Sonic Youth",
+        "Lion-hearted"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -87201,7 +87485,8 @@
       "options": [
         "Lion-hearted",
         "Blessed",
-        "Cockney"
+        "Cockney",
+        "Photographer"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87216,7 +87501,8 @@
       "options": [
         "Photographer",
         "Mopey",
-        "Nearsighted"
+        "Nearsighted",
+        "Screening"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87231,7 +87517,8 @@
       "options": [
         "Screening",
         "Safety",
-        "Security"
+        "Security",
+        "Malfunctioning"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87246,7 +87533,8 @@
       "options": [
         "Malfunctioning",
         "Malevolent",
-        "Malicious"
+        "Malicious",
+        "Voting law"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87261,7 +87549,8 @@
       "options": [
         "Voting law",
         "Architecture type",
-        "Army formation"
+        "Army formation",
+        "North Korea"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87276,7 +87565,8 @@
       "options": [
         "Argentina",
         "North Korea",
-        "France"
+        "France",
+        "Roquefort Man"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -87291,7 +87581,8 @@
       "options": [
         "Cheddar Man",
         "Roquefort Man",
-        "Stilton Man"
+        "Stilton Man",
+        "Ontario"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -87306,7 +87597,8 @@
       "options": [
         "Ontario",
         "Alberta",
-        "Nova Scotia"
+        "Nova Scotia",
+        "Speak two languages"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87321,7 +87613,8 @@
       "options": [
         "Use both hands well",
         "Speak two languages",
-        "Whistle"
+        "Whistle",
+        "Lil Wayne"
       ],
       "correctIndex": 0,
       "verified": true,
@@ -87336,7 +87629,8 @@
       "options": [
         "Lil Wayne",
         "Lil Yachty",
-        "Lil Uzi Vert"
+        "Lil Uzi Vert",
+        "Boston"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87351,7 +87645,8 @@
       "options": [
         "Boston",
         "Pittsburgh",
-        "Cincinnati"
+        "Cincinnati",
+        "Batman"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87366,7 +87661,8 @@
       "options": [
         "Batman",
         "Beetlejuice",
-        "Mars Attacks!"
+        "Mars Attacks!",
+        "Air freshener"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87381,7 +87677,8 @@
       "options": [
         "Air freshener",
         "Webs",
-        "Liquid cheese"
+        "Liquid cheese",
+        "Child named Big Al"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87396,7 +87693,8 @@
       "options": [
         "Child named Big Al",
         "White shirt collar",
-        "1964 Impala"
+        "1964 Impala",
+        "Ole Miss Rebels"
       ],
       "correctIndex": 1,
       "verified": true,
@@ -87411,7 +87709,8 @@
       "options": [
         "Ole Miss Rebels",
         "Penn State Lions",
-        "Arkansas Razorbacks"
+        "Arkansas Razorbacks",
+        "Greenwich"
       ],
       "correctIndex": 2,
       "verified": true,
@@ -87430,7 +87729,7 @@
         "Avignon"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: The '76Ers",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87447,7 +87746,7 @@
         "The Iliad"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The 17Th Century",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87464,7 +87763,7 @@
         "Vincent Price"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: One-Man Shows",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87481,7 +87780,7 @@
         "Deliverance"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Movie Debuts",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87498,7 +87797,7 @@
         "Fructose"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Science",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87515,7 +87814,7 @@
         "Korea"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Spanning The Globe",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87532,7 +87831,7 @@
         "polecat"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The Weasel Family",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87549,7 +87848,7 @@
         "Creole mustard"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Cutting The Mustard",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87566,7 +87865,7 @@
         "Luxembourg"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Low Countries",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87583,7 +87882,7 @@
         "Cheers"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: What Is This, Some Kind Of Joke?",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87600,7 +87899,7 @@
         "Alice in Wonderland"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: They Almost Starred In...",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87617,7 +87916,7 @@
         "Marsupials"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Animals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87634,7 +87933,7 @@
         "Federico Fellini"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Honorary Oscars",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87651,7 +87950,7 @@
         "Romania"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: 1996 Olympic Women",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87668,7 +87967,7 @@
         "Punxsutawney"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Pennsylvania Dreamin'",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87685,7 +87984,7 @@
         "Happy Feet"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Animated Creatures",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87702,7 +88001,7 @@
         "Monaco"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Royalty",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87719,7 +88018,7 @@
         "Ohio River"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Indiana Jones",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87736,7 +88035,7 @@
         "Micky Dolenz"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Singers",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87753,7 +88052,7 @@
         "Victor Herbert"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Theatrical Angels",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87770,7 +88069,7 @@
         "Pan"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Mythology",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87787,7 +88086,7 @@
         "Venezuela"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Mountains",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87804,7 +88103,7 @@
         "partridge"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: I Pity Da Food!",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87821,7 +88120,7 @@
         "Mammoth Cave"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Travel U.S.A.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87838,7 +88137,7 @@
         "Egypt"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Africa",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87855,7 +88154,7 @@
         "101"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Number, Please",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87872,7 +88171,7 @@
         "Language"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: The New Tv Ratings",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87889,7 +88188,7 @@
         "Keanu Reeves"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Birthplaces",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87906,7 +88205,7 @@
         "Israel"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Beer Bash!",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87923,7 +88222,7 @@
         "George Gershwin"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Porgy-Pourri",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87940,7 +88239,7 @@
         "From Here to Eternity"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: A Kiss Is Still A Kiss",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87957,7 +88256,7 @@
         "jewelers"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Talking Shop",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87974,7 +88273,7 @@
         "The Maoris"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Birds",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -87991,7 +88290,7 @@
         "Achille Lauro"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Transportation",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88008,7 +88307,7 @@
         "Fort Knox"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Collections",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88025,7 +88324,7 @@
         "Ear"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Foreign Anatomy",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88042,7 +88341,7 @@
         "Juliet"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Uh-Oh! Shakespeare!",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88059,7 +88358,7 @@
         "Voltaire"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Sculpture",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88076,7 +88375,7 @@
         "Bernardo O'Higgins"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: World History",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88093,7 +88392,7 @@
         "enamel"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The Body Human",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88110,7 +88409,7 @@
         "Children's Television"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Advertising",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88127,7 +88426,7 @@
         "Ethiopia"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Invasions",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88144,7 +88443,7 @@
         "Penguins"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Flightless Birds",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88161,7 +88460,7 @@
         "The Spingarn Medal"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Hank Aaron",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88178,7 +88477,7 @@
         "Earnest"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Girls Gone Wilde",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88195,7 +88494,7 @@
         "Whig"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Zachary Taylor",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88212,7 +88511,7 @@
         "Gotham"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Location, Location, Location",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88229,7 +88528,7 @@
         "onions"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Eat Your Veggies",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88246,7 +88545,7 @@
         "Tom Jones"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Keeping Up With The Jones",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88263,7 +88562,7 @@
         "Adams"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: County Seats",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88280,7 +88579,7 @@
         "Shelley Long"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Tv Misguided",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88297,7 +88596,7 @@
         "Acidity"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Yes, I Can",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88314,7 +88613,7 @@
         "Dorothy Parker"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: They Said It",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88331,7 +88630,7 @@
         "Mr. Bill"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Shorts",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88348,7 +88647,7 @@
         "Teeth"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Anatomic Quotes",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88365,7 +88664,7 @@
         "Intensive Care Unit"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Medicine",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88382,7 +88681,7 @@
         "Gary"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: U.S. Place Names",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88399,7 +88698,7 @@
         "Marjorie Morningstar"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The Alliteracy Rate",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88416,7 +88715,7 @@
         "Buddism"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The God Squad",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88433,7 +88732,7 @@
         "Australia"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Around The Commonwealth",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88450,7 +88749,7 @@
         "Cervantes"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: A Literary Tour",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88467,7 +88766,7 @@
         "Paul Whiteman"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Thanks, Guys",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88484,7 +88783,7 @@
         "Tom Cruise"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: 21St Century Quotations",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88501,7 +88800,7 @@
         "Miss Saigon"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Broadway Musicals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88518,7 +88817,7 @@
         "blood"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: The Coroner Store",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88535,7 +88834,7 @@
         "dams"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Salmon",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88552,7 +88851,7 @@
         "Olivia Newton-John"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Pop Music",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88569,7 +88868,7 @@
         "Battle Creek"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Annual Events",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88586,7 +88885,7 @@
         "triplets"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Family Matters",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88603,7 +88902,7 @@
         "Harriet Tubman"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Moses",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88620,7 +88919,7 @@
         "Indian Territory"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Oklahoma",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88637,7 +88936,7 @@
         "hydrochloric acid"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Rock Collecting",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88654,7 +88953,7 @@
         "John Quincy Adams"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Anthony Hopkins Films",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88671,7 +88970,7 @@
         "Abraham Lincoln"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Presidents",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88688,7 +88987,7 @@
         "Napoleon Bonaparte"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: The Big 4-0",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88705,7 +89004,7 @@
         "Grizzly Adams"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Tv Pioneers",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88722,7 +89021,7 @@
         "Driver ants"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Ant-Onyms",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88739,7 +89038,7 @@
         "Protoplasm"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Life",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88756,7 +89055,7 @@
         "Arizona"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: American World Capitals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88773,7 +89072,7 @@
         "Fiji"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Water Taste-Off",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88790,7 +89089,7 @@
         "CBS"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Tv Crossovers",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88807,7 +89106,7 @@
         "Arrows"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Potpourri",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88824,7 +89123,7 @@
         "sherbets"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: New Tongue Twisters",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88841,7 +89140,7 @@
         "Chicago"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: American Museums",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88858,7 +89157,7 @@
         "Willie Stargell"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Bye-Bye Three Rivers Stadium",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88875,7 +89174,7 @@
         "Beagle"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Pets",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88892,7 +89191,7 @@
         "Charlemagne"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The 9Th Century",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88909,7 +89208,7 @@
         "a salmon"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Fishin' Impossible",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88926,7 +89225,7 @@
         "Guatemala"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Popular Science Top Stories Of 2000",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88943,7 +89242,7 @@
         "Thailand"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Kings",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88960,7 +89259,7 @@
         "pine"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Building Wood",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88977,7 +89276,7 @@
         "Shaquille O'Neal"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Good Sports",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -88994,7 +89293,7 @@
         "Idi Amin"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The Sanctity Of Marriages",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89011,7 +89310,7 @@
         "Atlanta"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Tall U.S. Buildings",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89028,7 +89327,7 @@
         "Sagittarius"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Astrology",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89045,7 +89344,7 @@
         "St. Helena"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Small Islands",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89062,7 +89361,7 @@
         "bonito"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Food-O",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89079,7 +89378,7 @@
         "vampire bat"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Animal Farm",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89096,7 +89395,7 @@
         "electrolysis"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Cop Rock",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89113,7 +89412,7 @@
         "Silence Of The Lambs"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Anthony Hopkins Films",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89130,7 +89429,7 @@
         "Lilliput"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Unreal Estate",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89147,7 +89446,7 @@
         "Indonesia"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Languages",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89164,7 +89463,7 @@
         "Prius"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Lesser-Known Ancient Romans?",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89181,7 +89480,7 @@
         "Bob Roberts"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: A Tim Robbins Film Festival",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89198,7 +89497,7 @@
         "witness"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: The 10 Commandments",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89215,7 +89514,7 @@
         "ad infinitum"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Jonathan Swifties",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89232,7 +89531,7 @@
         "Marco Polo"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Biopics",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89249,7 +89548,7 @@
         "Bobby Darin"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Cool Cats",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89266,7 +89565,7 @@
         "Water"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Animals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89283,7 +89582,7 @@
         "free agent"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Baseball Terms",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89300,7 +89599,7 @@
         "Black mamba"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Snakes Alive!",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89317,7 +89616,7 @@
         "Puerto Rico"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Annual Events",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89334,7 +89633,7 @@
         "a spasm"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Don'T Be A Pain",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89351,7 +89650,7 @@
         "Henry V"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: English Royal Henrys",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89368,7 +89667,7 @@
         "Leighton Meester"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Musical Gals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89385,7 +89684,7 @@
         "lounge lizards"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Animal Terms",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89402,7 +89701,7 @@
         "a tortoise"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Pets",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89419,7 +89718,7 @@
         "Confectioner's sugar"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Foodstuff",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89436,7 +89735,7 @@
         "Edward Bulwer-Lytton"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Contests",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89453,7 +89752,7 @@
         "Terry Waite"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: British History",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89470,7 +89769,7 @@
         "jowl"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Body Language",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89487,7 +89786,7 @@
         "Bucharest"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Geographical Nicknames",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89504,7 +89803,7 @@
         "Cheetah"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Mammals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89521,7 +89820,7 @@
         "Bucket"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: In The Fire",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89538,7 +89837,7 @@
         "Fortress"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Aviation",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89555,7 +89854,7 @@
         "Monaco"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: The Museums Of Europe",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89572,7 +89871,7 @@
         "Darva Conger"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Famous For 15 Minutes",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89589,7 +89888,7 @@
         "Treetops"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Travel Fun",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89606,7 +89905,7 @@
         "Jessica Alba"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Gossip Girls",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89623,7 +89922,7 @@
         "Olympia"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Greece",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89640,7 +89939,7 @@
         "Tigris"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: River Cities",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89657,7 +89956,7 @@
         "Oh, the Places You'll Go!"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Behind The Seuss-Ic",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89674,7 +89973,7 @@
         "eBay"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Fleece Navidad",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89691,7 +89990,7 @@
         "Showers"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Gatherings",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89708,7 +90007,7 @@
         "Bedrich Smetana"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Opera",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89725,7 +90024,7 @@
         "St. Eligius"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Tv Hospitals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89742,7 +90041,7 @@
         "Las Vegas"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Theme Park Fun",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89759,7 +90058,7 @@
         "Nine to Five"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Numeric Tv",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89776,7 +90075,7 @@
         "Anchovies"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: French Cuisine",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89793,7 +90092,7 @@
         "condor"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Them Crooked Vultures",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89810,7 +90109,7 @@
         "Socrates"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Ancient Greece",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89827,7 +90126,7 @@
         "Lee Strasberg"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Theatre",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89844,7 +90143,7 @@
         "Michigan"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Forests",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89861,7 +90160,7 @@
         "lettuce"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: A 5-Course Meal",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89878,7 +90177,7 @@
         "Appomattox"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Hero Sandwich",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89895,7 +90194,7 @@
         "Ireland"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Archaeology",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89912,7 +90211,7 @@
         "Aladdin"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Smallville",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89929,7 +90228,7 @@
         "Guinea pig"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Misnomers",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89946,7 +90245,7 @@
         "Pork Chop Hill"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Pork Products?",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89963,7 +90262,7 @@
         "The Koran"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Religion",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89980,7 +90279,7 @@
         "Florence"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: World Cities",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -89997,7 +90296,7 @@
         "San Francisco"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: U.S.A.",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90014,7 +90313,7 @@
         "Tunisia"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Mediterranean Islands",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90031,7 +90330,7 @@
         "IBM"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Milestones In Math",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90048,7 +90347,7 @@
         "Whig"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Jubal Early",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90065,7 +90364,7 @@
         "pregnancy"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: The 19Th First Annual Ig Nobel Prize",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90082,7 +90381,7 @@
         "spinning your wheels"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Stuck",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90099,7 +90398,7 @@
         "The Academy"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Teachers",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90116,7 +90415,7 @@
         "Joe DiMaggio"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Damn Yankees",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90133,7 +90432,7 @@
         "Old Milwaukee"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Haute Cuisine",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90150,7 +90449,7 @@
         "conducting"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: The Orchestra",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90167,7 +90466,7 @@
         "Pepsi"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Corporate Name Etymology",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90184,7 +90483,7 @@
         "Prom"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Magazines",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90201,7 +90500,7 @@
         "writer's cramp"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Old Names For Medical Conditions",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90218,7 +90517,7 @@
         "DNA"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Scientists",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90235,7 +90534,7 @@
         "Entebbe"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: 2 Bs",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90252,7 +90551,7 @@
         "Appomattox"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Hero Sandwich",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90269,7 +90568,7 @@
         "ants"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Incredible Edibles",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90286,7 +90585,7 @@
         "emeralds"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Traditional Anniversary Gifts",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90303,7 +90602,7 @@
         "Village"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Family Values",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90320,7 +90619,7 @@
         "Attila"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Evildoers",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90337,7 +90636,7 @@
         "Lenny Bruce"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: This Way To The Egress",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90354,7 +90653,7 @@
         "Miata"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Remember 1989?",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90371,7 +90670,7 @@
         "swan"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Beastly Expressions",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90388,7 +90687,7 @@
         "Nicole Richie"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Hollywood Non-Squares",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90405,7 +90704,7 @@
         "Eagles"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: The Armed Forces",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90422,7 +90721,7 @@
         "beetle"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Gardening",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90439,7 +90738,7 @@
         "Teflon"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: ...And We Liked It!",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90456,7 +90755,7 @@
         "Richmond, Virginia"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: See The Usa",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90473,7 +90772,7 @@
         "wood"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Instrument Etymology",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90490,7 +90789,7 @@
         "French Guiana"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Capital Punishment",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90507,7 +90806,7 @@
         "Sears"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Classic Ad Lines",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90524,7 +90823,7 @@
         "wood"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Instrument Etymology",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90541,7 +90840,7 @@
         "Boise"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Mr. Potato Head",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90558,7 +90857,7 @@
         "Andersonville"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The Civil War",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90575,7 +90874,7 @@
         "The Bastille"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Literature",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90592,7 +90891,7 @@
         "basketball"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Unusual Sports",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90609,7 +90908,7 @@
         "Civil War"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Brownsville, Texas",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90626,7 +90925,7 @@
         "Bernbach"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Advertising",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90643,7 +90942,7 @@
         "Quebec"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Flags",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90660,7 +90959,7 @@
         "Swift"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Birds Do It",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90677,7 +90976,7 @@
         "Las Vegas"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Forbes' Richest People 2011",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90694,7 +90993,7 @@
         "Manitoba"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Canadian Provinces",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90711,7 +91010,7 @@
         "Algeria"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: African Countries",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90728,7 +91027,7 @@
         "Beethoven"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Also At The 2000 Grammys",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90745,7 +91044,7 @@
         "palms"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Trees",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90762,7 +91061,7 @@
         "Mercury"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Metals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90779,7 +91078,7 @@
         "Green"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Make-Up Test",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90796,7 +91095,7 @@
         "Charles Goodyear"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Business Men",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90813,7 +91112,7 @@
         "russet"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Shades Of Brown",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90830,7 +91129,7 @@
         "Alaska"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Quakes",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90847,7 +91146,7 @@
         "White Christmas"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: From Screen To Stage",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90864,7 +91163,7 @@
         "Chicago"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Tv Geography",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90881,7 +91180,7 @@
         "James Dean"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Tribute Albums",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90898,7 +91197,7 @@
         "Marquette"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Off To College",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90915,7 +91214,7 @@
         "a cleaver"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Cooking Equipment",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90932,7 +91231,7 @@
         "Chicago"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Fountains",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90949,7 +91248,7 @@
         "a mutation"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Scientific American",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90966,7 +91265,7 @@
         "China"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: World Literature",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -90983,7 +91282,7 @@
         "Andersonville"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Worst Of The Firsts",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91000,7 +91299,7 @@
         "Australia"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Gold Rushes",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91017,7 +91316,7 @@
         "Mrs. Miniver"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Classic Cinema",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91034,7 +91333,7 @@
         "Denmark"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Rulers",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91051,7 +91350,7 @@
         "Victoria Falls"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Waterfalls",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91068,7 +91367,7 @@
         "San Salvador"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: World Cities",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91085,7 +91384,7 @@
         "Giovanni Boccaccio"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: A Literary Tour",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91102,7 +91401,7 @@
         "Puerto Rico"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: News On The March",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91119,7 +91418,7 @@
         "Shirley MacLaine"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Family Ties",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91136,7 +91435,7 @@
         "Sahara"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: On Colonial Maps",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91153,7 +91452,7 @@
         "blue"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Potent Potables",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91170,7 +91469,7 @@
         "Ralph Kramden"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Tv Characters",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91187,7 +91486,7 @@
         "bubonic plague"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Munich",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91204,7 +91503,7 @@
         "racehorse"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Wanna Bet?",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91221,7 +91520,7 @@
         "Phil Jackson"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: The Nba",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91238,7 +91537,7 @@
         "Martha Stewart"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Jersey Girls",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91255,7 +91554,7 @@
         "Jane Eyre"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: From Page To Screen",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91272,7 +91571,7 @@
         "rocket"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: What Moves You?",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91289,7 +91588,7 @@
         "Poland"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Royalty",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91306,7 +91605,7 @@
         "poly-unsaturated fats"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Fats",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91323,7 +91622,7 @@
         "Kentucky Derby"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Oops!",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91340,7 +91639,7 @@
         "flea"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Insects",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91357,7 +91656,7 @@
         "Airplanes"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Corporate History",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91374,7 +91673,7 @@
         "Winnipeg"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Canadian Capitals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91391,7 +91690,7 @@
         "Judgment at Nuremberg"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Tam O'Shatner",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91408,7 +91707,7 @@
         "Tax cut"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: George W. - The Gubernatorial Years",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91425,7 +91724,7 @@
         "carbon"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Fun With Elements",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91442,7 +91741,7 @@
         "Australia"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Geography",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91459,7 +91758,7 @@
         "goodness & mercy"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: The 23Rd Psalm",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91476,7 +91775,7 @@
         "blood"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Flea",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91493,7 +91792,7 @@
         "Cards"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Guinness Records",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91510,7 +91809,7 @@
         "Ozzy Osbourne"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: An Urban Legend Says...",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91527,7 +91826,7 @@
         "bocce"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Play Ball",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91544,7 +91843,7 @@
         "Bat Masterson"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: They Shot The Sheriff",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91561,7 +91860,7 @@
         "Franz Kafka"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: To Make A Short Story Short",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91578,7 +91877,7 @@
         "Alaska"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Train-Ing Day",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91595,7 +91894,7 @@
         "army ants"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Ants",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91612,7 +91911,7 @@
         "Bauhaus"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Architecture",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91629,7 +91928,7 @@
         "Oakland"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: American Hodgepodge",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91646,7 +91945,7 @@
         "John Wooden"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: College Hoops",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91663,7 +91962,7 @@
         "Alexander"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: I Made It Through The Reign",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91680,7 +91979,7 @@
         "leukemia"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: She Invented What?",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91697,7 +91996,7 @@
         "Ghent"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Georges The Belgian Waffler",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91714,7 +92013,7 @@
         "Cinderella"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Ballets Alex Could Star In",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91731,7 +92030,7 @@
         "Rust"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Fun With Fungus",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91748,7 +92047,7 @@
         "Canada"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Ceders",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91765,7 +92064,7 @@
         "The Crucible"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Drama Club Tryouts",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91782,7 +92081,7 @@
         "Aaron"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: The King",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91799,7 +92098,7 @@
         "Macbeth"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Shakespeare",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91816,7 +92115,7 @@
         "Creation"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Southern History",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91833,7 +92132,7 @@
         "The Parent Trap"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Movie Remakes",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91850,7 +92149,7 @@
         "Tide"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Business",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91867,7 +92166,7 @@
         "Voltaire"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Historic Amours",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91884,7 +92183,7 @@
         "Ottawa"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Museums",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91901,7 +92200,7 @@
         "trees"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: #Name?",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91918,7 +92217,7 @@
         "Calvin & Hobbes"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: What A Nice Pair!",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91935,7 +92234,7 @@
         "Hammurabi"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Potentate Potables",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91952,7 +92251,7 @@
         "Minoxidil"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Drugs",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91969,7 +92268,7 @@
         "Spain"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Historic Heroes",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -91986,7 +92285,7 @@
         "Eastern Michigan University"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: U.S. Universities",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92003,7 +92302,7 @@
         "Rosemary's Baby"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Devilish Movies",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92020,7 +92319,7 @@
         "sheep"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Nature",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92037,7 +92336,7 @@
         "Dracul"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: The Middle Ages",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92054,7 +92353,7 @@
         "Stanley Kowalski"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: The Theatah",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92071,7 +92370,7 @@
         "Crabapple"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The Big Apple",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92088,7 +92387,7 @@
         "Sweating"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Heat",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92105,7 +92404,7 @@
         "Oregon"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Abbreviated States",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92122,7 +92421,7 @@
         "Wayne's World"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Snl On Film",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92139,7 +92438,7 @@
         "Letters"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: It Actually Has A Name",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92156,7 +92455,7 @@
         "imagination"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: The Quotable Einstein",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92173,7 +92472,7 @@
         "Albany"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: The 1820S",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92190,7 +92489,7 @@
         "China"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Burma Potpourri",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92207,7 +92506,7 @@
         "Nefertiti"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Historical Operas",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92224,7 +92523,7 @@
         "Halifax"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Canadian Capitals",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92241,7 +92540,7 @@
         "Radon"
       ],
       "correctIndex": 3,
-      "explanation": "Quiz-show category: Science Stuff",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92258,7 +92557,7 @@
         "Virginia"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Pre-Civil War America",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92275,7 +92574,7 @@
         "Hinduism"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Religious Matters",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92292,7 +92591,7 @@
         "James Dean"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Tribute Albums",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92309,7 +92608,7 @@
         "smell"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: The Five Senses",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92326,7 +92625,7 @@
         "George Bunker"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Place Name People",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92343,7 +92642,7 @@
         "Cervantes"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Around The Literary World",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92360,7 +92659,7 @@
         "Kafka"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Posthumous Works",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92377,7 +92676,7 @@
         "Jamestown"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: 17Th Century America",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92394,7 +92693,7 @@
         "Ibis"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Zoology",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92411,7 +92710,7 @@
         "Gold"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: College Bowl",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92428,7 +92727,7 @@
         "Descartes"
       ],
       "correctIndex": 1,
-      "explanation": "Quiz-show category: Famous Frenchmen",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92445,7 +92744,7 @@
         "a neutron"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: 20Th Century Science Tidbits",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92462,7 +92761,7 @@
         "Hinduism"
       ],
       "correctIndex": 2,
-      "explanation": "Quiz-show category: Religion",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92479,7 +92778,7 @@
         "Teapot Dome"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: In The Cabinet",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92496,7 +92795,7 @@
         "sponge cake"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Food Facts",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
@@ -92513,7 +92812,7 @@
         "Ferret out"
       ],
       "correctIndex": 0,
-      "explanation": "Quiz-show category: Beastly Expressions",
+      "explanation": "",
       "verified": true,
       "status": "ACTIVE",
       "categoryId": "general",
